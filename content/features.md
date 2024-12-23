@@ -24,17 +24,24 @@ boxes:
       innerhalb der ersten 6 Monate enden, bieten wir Ihnen eine kostenlose
       Nachbesetzung an. So können Sie sicher sein, dass Sie stets die passende
       Unterstützung für Ihr Team erhalten – ohne doppelte Vermittlungsgebühr.
-  - chip: test
-    title: Netzwerk mit persönlichem Kontakt
-    text: Mit 5000+ IT-Spezialisten aus unserem Face-to-Face-Netzwerk. Wir nutzen
-      persönliche Kontakte, um die besten Talente zu finden.
-  - chip: Tech + HH
-    title: Technologie trifft Headhunting
-    text: KI-gestützte Tools und persönliches Headhunting – die perfekte
-      Kombination. Unsere smarte Strategie zieht täglich neue Talente an und
-      hält uns der Konkurrenz voraus.
-  - chip: Extra
-    title: Neue Box
-    text: Eine zusätzliche Box mit anpassbarem Chip. Ideal, um weitere Vorteile
-      hervorzuheben.
+  - chip: Zeit sparen
+    title: Vorinterviewte passenden Kandidaten
+    text: Wir prüfen Kandidaten in enger Abstimmung sorgfältig auf ihre fachlichen
+      Fähigkeiten, ihren cultural fit sowie ihr langfristiges Potenzial. Nur
+      Bewerber, die in unserem Bewertungssystem mehr als 75 % erzielen, werden
+      an Sie weitervermittelt. So sparst du Zeit und bekommst nur Profile, die
+      auch passen.
+  - chip: IT Experten
+    title: Spezialisiert auf IT-Nischen
+    text: Wir sind auf Nischentechnologien im IT-Bereich spezialisiert. Mit unserem
+      tiefen Verständnis für deine Technologien und den Marktanforderungen
+      wählen wir Kandidaten aus, die fachlich, kulturell und strategisch gut zu
+      deinem Team passen.
+  - chip: Schnelligkeit
+    title: Besetzte deine Position in 19 Tagen
+    text: Wir haben ein System entwickelt, das unsere Headhunting-Expertise mit
+      innovativer Technologie kombiniert, um innerhalb von 19 Tagen die besten
+      Talente zu gewinnen. So haben wir immer eine Pipeline hochqualifizierter
+      Kandidaten und sind deiner Konkurrenz einen Schritt voraus, sobald ein
+      Bedarf auf deiner Seite entsteht.
 ---
