@@ -4,9 +4,9 @@ boxes:
   - chip: Partner
     title: Dein strategischer Partner
     text: Wir sind Ihr strategischer Partner – von der ersten Sekunde an. Gemeinsam
-      mit Ihnen bauen wir Ihr Team auf, optimieren Ihre Recruiting-Prozesse und
-      sichern Ihren langfristigen Erfolg. Alles in enger Zusammenarbeit mit klar
-      definierten Timelines und Milestones.
+      bauen wir Ihr Team auf, optimieren Ihre Recruiting-Prozesse und sichern
+      Ihren langfristigen Erfolg – mit klar definierten Timelines und
+      Milestones.
   - chip: Ohne Risiko
     title: 100 % Geld-zurück-Garantie
     text: Ein frühzeitiger Abgang eines vermittelten Kandidaten kann eine knallharte
