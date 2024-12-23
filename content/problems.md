@@ -1,7 +1,9 @@
 ---
 headline: Kennst du diese Herausforderungen?
-text: "Nach Gesprächen mit über 400 Entscheidern aus dem Technologie-Sektor
-  zeigen sich diese zentralen Problemfelder:"
+text: Nach über 400 Gesprächen mit Führungskräften sowie internen HR- und
+  Recruiting-Experten aus dem Technologie-Sektor haben wir wiederkehrende
+  Herausforderungen identifiziert, die möglicherweise auch Ihr Unternehmen
+  betreffen.
 problem_list:
   - problem: "**Erhältst du unzählige Bewerbungen**, aber kaum passende Kandidaten?"
   - problem: Deine offenen Stellen bleiben **monatelang unbesetzt**, während die
