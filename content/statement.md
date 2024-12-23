@@ -10,10 +10,11 @@ statements:
     statement_text: Laudantium tempora sint ut consectetur ratione. Ut illum ut rem
       numquam fuga delectus.
 statistics:
-  - statistic_text: 150+
-    statistic_subtitle: Vermittelte Kandidaten
-  - statistic_text: 0%
-    statistic_subtitle: Risiko
-  - statistic_text: 30 Tage
-    statistic_subtitle: Durchschnittliche Einstellungszeit
+  - statistic_text: 87 %
+    statistic_subtitle: unserer Kandidaten werden zum Interview eingeladen
+  - statistic_text: "19"
+    statistic_subtitle: Die durchschnittliche Anzahl an Tagen, um eine Position zu besetzten
+  - statistic_text: "2"
+    statistic_subtitle: Die durchschnittliche Anzahl an Tagen, bis wir die ersten 3
+      Profile schicken
 ---
