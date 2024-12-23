@@ -3,20 +3,16 @@ headline: Nur eine weitere Personalvermittlung?
 boxes:
   - chip: Partner
     title: Dein strategischer Partner
-    text: Wir sind dein strategischer Partner – von der ersten Sekunde an. Gemeinsam
-      bauen wir dein Team auf, optimieren Recruiting-Prozesse und sichern deinen
-      langfristigen Erfolg. Alles in enger Zusammenarbeit, mit klaren Timelines
-      und definierten Milestones. Zusätzlich hast du jederzeit Zugriff auf
-      unseren ständig wachsenden Talent Pool, um die besten Talente für dein
-      Unternehmen zu gewinnen.
+    text: Wir sind Ihr strategischer Partner – von der ersten Sekunde an. Gemeinsam
+      mit Ihnen bauen wir Ihr Team auf, optimieren Ihre Recruiting-Prozesse und
+      sichern Ihren langfristigen Erfolg. Alles in enger Zusammenarbeit mit klar
+      definierten Timelines und Milestones.
   - chip: Ohne Risiko
     title: 100 % Geld-zurück-Garantie
-    text: Ein vermittelter Kandidat/eine vermittelte Kandidatin, der/die kurzzeitig
-      wieder geht, kann eine knallharte Fehlinvestition sein. Deine Investition
-      lohnt sich, wenn Kandidaten langfristig bleiben. Deshalb bieten wir in den
-      ersten 3 Monaten eine 100 % Geld-Zurück-Garantie an, ohne Fragen. So
-      stellen wir sicher, dass du dein Budget sinnvoll einsetzt, finanziell
-      abgesichert bist und Fachkräfte gewinnst, die einen positiven ROI liefern.
+    text: Ein frühzeitiger Abgang eines vermittelten Kandidaten kann eine knallharte
+      Fehlinvestition sein. Deshalb bieten wir Ihnen in den ersten 3 Monaten
+      eine 100 % Geld-zurück-Garantie – ohne Fragen. So stellen wir sicher, dass
+      Sie finanziell maximal abgesichert sind.
   - chip: Maximale Sicherheit
     title: 6 Monate Absicherung
     text: Wir möchten sicherstellen, dass Sie langfristig von unserer Vermittlung
