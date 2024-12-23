@@ -24,13 +24,12 @@ boxes:
       so sparen Sie Zeit und erhalten nur passende Profile.
   - chip: IT Experten
     title: Spezialisiert auf IT-Nischen
-    text: Wir sind auf Nischentechnologien im IT-Bereich spezialisiert und kennen
-      die Marktanforderungen genau. Dadurch finden wir gezielt Kandidaten, die
-      sowohl fachlich als auch strategisch optimal in Ihr Team passen.
+    text: Wir sind auf Nischentechnologien spezialisiert, haben exklusiven Zugang zu
+      hochqualifizierten Talenten und garantieren eine schnelle und passgenaue
+      Auswahl für Ihren langfristigen Erfolg.
   - chip: Schnelligkeit
     title: Besetzung in 19 Tagen
-    text: Wir haben ein System entwickelt, das unsere Headhunting-Expertise mit
-      modernster Technologie kombiniert, um innerhalb von 19 Tagen die besten
-      Talente zu gewinnen. Wir sind der Konkurrenz einen Schritt voraus, sobald
-      ein Bedarf in Ihrem Unternehmen entsteht.
+    text: Unser entwickeltes System kombiniert Headhunting-Expertise mit modernster
+      Technologie, um in 19 Tagen die besten Talente zu gewinnen und Ihrer
+      Konkurrenz einen Schritt voraus zu sein.
 ---
