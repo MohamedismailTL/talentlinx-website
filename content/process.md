@@ -5,17 +5,14 @@ text: Wir verbinden Technologie mit Erfahrung, um schnell und sicher die besten
   – für höchste Qualität und langfristige Erfolge.
 process_boxes:
   - box_title: Anforderungen und Kick-Off
-    box_text: >
-      In unserem Kick-Off Call nehmen wir uns Zeit, eure individuellen
-      Anforderungen und Erwartungen genau zu verstehen, um einen auf euch
-      zugeschnittenen Plan für den Erfolg zu erstellen. Das bedeute auch eine
-      Analyse bezüglich menschlicher Fit für euer Team. 
+    box_text: Im Kick-Off Call verstehen wir Ihre Anforderungen und Erwartungen, um
+      einen maßgeschneiderten Erfolgsplan zu erstellen, einschließlich einer
+      Analyse des menschlichen Fits für Ihr Team.
   - box_title: "Ersten Profile in 48 Stunden "
-    box_text: >
-      In unserem Kick-Off Call nehmen wir uns Zeit, eure individuellen
-      Anforderungen und Erwartungen genau zu verstehen, um einen auf euch
-      zugeschnittenen Plan für den Erfolg zu erstellen. Das bedeute auch eine
-      Analyse bezüglich menschlicher Fit für euer Team. 
+    box_text: Innerhalb von zwei Werktagen präsentieren wir Ihnen vorqualifizierte,
+      deutschsprachige Kandidaten, die bereits geprüft, auf Ihre Anforderungen
+      abgestimmt und motiviert sind, Ihr Unternehmen kennenzulernen – mit klaren
+      Verfügbarkeiten.
   - box_title: Interviews und Beratung
     box_text: Nur die Top 25 % bestehen unseren umfassenden Filter und qualifizieren
       sich für die nächste Phase.
