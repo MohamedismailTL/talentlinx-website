@@ -19,9 +19,9 @@ boxes:
       Nachbesetzung. So sparen Sie Kosten und sichern Ihre Investition."
   - chip: Zeit sparen
     title: Vorinterviewte passenden Kandidaten
-    text: Wir prüfen Kandidaten in einem 45-minütigen Pre-Interview auf ihre
-      fachlichen Fähigkeiten, den Cultural Fit und ihr langfristiges Potenzial –
-      so sparen Sie Zeit und erhalten nur passende Profile.
+    text: Wir prüfen Kandidaten in einem Pre-Interview auf ihre fachlichen
+      Fähigkeiten, den Cultural Fit und ihr langfristiges Potenzial – so sparen
+      Sie Zeit und erhalten nur passende Profile.
   - chip: IT Experten
     title: Spezialisiert auf IT-Nischen
     text: Wir sind auf Nischentechnologien spezialisiert, haben exklusiven Zugang zu
