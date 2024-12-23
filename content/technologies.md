@@ -1,7 +1,6 @@
 ---
-headline: Entwickler, die Innovation vorantreiben
-text: TalentLynx vermittelt Entwickler, die mit modernsten Technologien
-  arbeiten. Egal ob Frontend, Backend oder Fullstack – unsere Kandidaten
-  beherrschen die Werkzeuge, um innovative und skalierbare Softwarelösungen zu
-  schaffen.
+headline: Unsere Technologien
+text: IT-Spezialisten aus unserem Netzwerk nutzen modernen
+  Open-Source-Technologien, um innovative und skalierbare Softwarelösungen zu
+  entwickeln.
 ---
