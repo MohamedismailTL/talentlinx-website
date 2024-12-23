@@ -5,8 +5,11 @@ text: Wir verbinden Technologie mit Erfahrung, um schnell und sicher die besten
   – für höchste Qualität und langfristige Erfolge.
 process_boxes:
   - box_title: Anforderungen und Kick-Off
-    box_text: Wir finden Entwickler auf Plattformen wie LinkedIn, GitHub, Stack
-      Overflow, Messen und über Partnernetzwerke.
+    box_text: >
+      In unserem Kick-Off Call nehmen wir uns Zeit, eure individuellen
+      Anforderungen und Erwartungen genau zu verstehen, um einen auf euch
+      zugeschnittenen Plan für den Erfolg zu erstellen. Das bedeute auch eine
+      Analyse bezüglich menschlicher Fit für euer Team. 
   - box_title: "Ersten Profile in 48 Stunden "
     box_text: >
       In unserem Kick-Off Call nehmen wir uns Zeit, eure individuellen
