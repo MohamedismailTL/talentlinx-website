@@ -1,5 +1,5 @@
 ---
-hero_title: in 14 Tagen einstellen ohne Risiko
+hero_title: in 14 Tagen einstellen ohne Risikotesttesttest
 hero_subtitle: Wir helfen über 150 Unternehmen dabei, A-Player zu gewinnen und
   langfristig zu binden - ohne Risiko und teure Fehlbesetzungen
 job_titles:
