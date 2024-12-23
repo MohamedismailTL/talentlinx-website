@@ -25,12 +25,16 @@ boxes:
       - bullet_title: Precision Hiring
         bullet_text: Wir leiten nur Profile weiter, die in unserer qualitativen
           Bewertung mehr als 75 % erreichen, um Ihnen Zeit zu sparen.
+      - bullet_title: Faire Preise mit Garantie
+        bullet_text: Faires Honorar mit 100 % Absicherung
       - bullet_title: Motivierte Kandidaten
-        bullet_text: Kandidaten sind vorbereitet und gebrieft
-      - bullet_title: Volle Transparenz
-        bullet_text: Einblick in unsere Prozesse
-      - bullet_title: Faire Preise
-        bullet_text: Garantie und transparente Kosten
-      - bullet_title: Multichannel & KI
-        bullet_text: KI-gestütztes Recruiting auf allen Kanälen
+        bullet_text: >
+          Kandidaten sind auf das Interview vorbereitet, kennen Ihre Mission und
+          bringen eine Grundmotivation mit. 
+      - bullet_title: Zeit sparen durch Recruiter
+        bullet_text: Wir koordinieren alle Prozesse, stellen Ressourcen bereit und
+          prüfen Kandidaten streng, damit Sie Zeit sparen.
+      - bullet_title: Multichannel Approach & Netzwerk
+        bullet_text: |+
+          Technologiegestütztes Recruiting auf mehr als 200 Kanäle
 ---
