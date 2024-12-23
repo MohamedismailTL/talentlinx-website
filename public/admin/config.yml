@@ -1,11 +1,11 @@
-site_url: "https://talentlynx.pages.dev"
+site_url: "https://talentlinx-website.pages.dev"
 search: false
 
 backend:
   name: github
   repo: svenschu/talentlynx
   branch: main
-  base_url: "https://decap-proxy.simplexo.de"
+  base_url: "https://decap-proxy.mohamed-ismail.workers.dev/"
 
 media_folder: "/src/assets"
 public_folder: "/src/assets"
