@@ -11,10 +11,10 @@ boxes:
       - bullet_title: Hohe Kosten
         bullet_text: Keinen klaren Mehrwert und intransparente Preise
       - bullet_title: " Schlecht vorbereitete Kandidaten"
-        bullet_text: Kandidaten sind unvorbereitet und fehlend motiviert.
+        bullet_text: Kandidaten sind unvorbereitet und fehlend motiviert
       - bullet_title: Mehrarbeit durch Recruiter
         bullet_text: Wegen schlechter Kommunikation, mehrfacher Profildefinition und
-          unpassender Kandidaten landet mehr auf Ihrem Tisch.
+          unpassender Kandidaten landet mehr auf Ihrem Tisch
       - bullet_title: Abhängig von LinkedIn & InMails
         bullet_text: Abhängig von LinkedIn & Antwortraten auf InMails
   - box_title: TalentLinx
