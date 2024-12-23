@@ -1,11 +1,14 @@
 ---
 headline: Nur eine weitere Personalvermittlung?
 boxes:
-  - chip: Strategie
+  - chip: Strategy
     title: Dein strategischer Partner
-    text: "Wir unterstützen dich bei jedem Schritt: von der Beratung bis zur
-      langfristigen Betreuung nach der Einstellung. Gemeinsam optimieren wir
-      Prozesse und bauen ein starkes Tech-Team für deinen Erfolg."
+    text: Wir sind dein strategischer Partner – von der ersten Sekunde an. Gemeinsam
+      bauen wir dein Team auf, optimieren Recruiting-Prozesse und sichern deinen
+      langfristigen Erfolg. Alles in enger Zusammenarbeit, mit klaren Timelines
+      und definierten Milestones. Zusätzlich hast du jederzeit Zugriff auf
+      unseren ständig wachsenden Talent Pool, um die besten Talente für dein
+      Unternehmen zu gewinnen.
   - chip: 0% Risiko
     title: Kein Risiko, nur Erfolg
     text: Unsere 0 % Risiko-Garantie schützt dich vor teuren Fehlbesetzungen.
