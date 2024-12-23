@@ -1,12 +1,12 @@
 ---
-headline: Das können wir dir garantieren.
+headline: "Das garantieren wir dir. "
 statements:
-  - statement_title: Statement 1
-    statement_text: Lorem ipsum, dolor sit amet consectetur adipisicing elit aute id magna.
-  - statement_title: Statement 2
+  - statement_title: Persönlicher Ansprechpartner & enge Beratung
+    statement_text: Recruiting Done for you, Alles kommt auf unseren Tisch, enge Zusammenarveit
+  - statement_title: Weekly Progress Meetings & Reportings
     statement_text: Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
       lorem cupidatat commodo.
-  - statement_title: Statement 3
+  - statement_title: Ganzeinheitliche Analyse und Verbesserung der HR Prozesse
     statement_text: Laudantium tempora sint ut consectetur ratione. Ut illum ut rem
       numquam fuga delectus.
 statistics:
