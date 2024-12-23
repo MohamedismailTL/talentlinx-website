@@ -1,0 +1,209 @@
+site_url: "https://talentlynx.pages.dev"
+search: false
+
+backend:
+  name: github
+  repo: svenschu/talentlynx
+  branch: main
+  base_url: "https://decap-proxy.simplexo.de"
+
+media_folder: "/src/assets"
+public_folder: "/src/assets"
+
+collections:
+  - name: "hero"
+    label: "Hero"
+    files:
+      - label: "Hero Inhalt"
+        name: "hero"
+        file: "content/hero.md"
+        fields:
+          - { label: "Hero Titel", name: "hero_title", widget: "string" }
+          - { label: "Hero Untertitel", name: "hero_subtitle", widget: "markdown" }
+          - label: "Jobbezeichnungen"
+            name: "job_titles"
+            widget: "list"
+            fields:
+              - { label: "Jobbezeichnung", name: "job_title", widget: "string", max_length: 24 }
+
+  - name: "features"
+    label: "Features"
+    files:
+      - label: "Features Inhalt"
+        name: "features"
+        file: "content/features.md"
+        fields:
+          - { label: "Überschrift", name: "headline", widget: "string" }
+          - label: "Boxen"
+            name: "boxes"
+            widget: "list"
+            min: 6
+            max: 6
+            fields:
+              - { label: "Chip", name: "chip", widget: "string" }
+              - { label: "Titel", name: "title", widget: "string" }
+              - { label: "Text", name: "text", widget: "text" }
+
+  - name: "problems"
+    label: "Probleme"
+    files:
+      - label: "Probleme Inhalt"
+        name: "problems"
+        file: "content/problems.md"
+        fields:
+          - { label: "Überschrift", name: "headline", widget: "string" }
+          - { label: "Text", name: "text", widget: "markdown" }
+          - label: "Liste an Problemen"
+            name: "problem_list"
+            widget: "list"
+            min: 7
+            max: 7
+            fields:
+              - { label: "Problem", name: "problem", widget: "markdown" }
+
+  - name: "process"
+    label: "Prozess"
+    files:
+      - label: "Prozess Inhalt"
+        name: "process"
+        file: "content/process.md"
+        fields:
+          - { label: "Überschrift", name: "headline", widget: "string" }
+          - { label: "Text", name: "text", widget: "text" }
+          - label: "Prozessboxen"
+            name: "process_boxes"
+            widget: "list"
+            min: 4
+            max: 4
+            fields:
+              - { label: "Überschrift", name: "box_title", widget: "string" }
+              - { label: "Text", name: "box_text", widget: "text" }
+
+  - name: "diagram"
+    label: "Schaubild"
+    files:
+      - label: "Schaubild Inhalt"
+        name: "diagram"
+        file: "content/diagram.md"
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Text", name: "text", widget: "text" }
+
+  - name: "comparison"
+    label: "Vergleich"
+    files:
+      - label: "Vergleich Inhalt"
+        name: "comparison"
+        file: "content/comparison.md"
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - label: "Boxen"
+            name: "boxes"
+            widget: "list"
+            min: 2
+            max: 2
+            fields:
+              - { label: "Überschrift", name: "box_title", widget: "string" }
+              - label: "Bulletpoints"
+                name: "bulletpoints"
+                widget: "list"
+                fields:
+                  - { label: "Bulletpoint Überschrift", name: "bullet_title", widget: "string" }
+                  - { label: "Bulletpoint Text", name: "bullet_text", widget: "text" }
+
+  - name: "statement"
+    label: "Statement"
+    files:
+      - label: "Statement Inhalt"
+        name: "statement"
+        file: "content/statement.md"
+        fields:
+          - { label: "Überschrift", name: "headline", widget: "string" }
+          - label: "Statements"
+            name: "statements"
+            widget: "list"
+            min: 3
+            max: 3
+            fields:
+              - { label: "Überschrift", name: "statement_title", widget: "string" }
+              - { label: "Text", name: "statement_text", widget: "text" }
+          - label: "Statistiken"
+            name: "statistics"
+            widget: "list"
+            min: 3
+            max: 3
+            fields:
+              - { label: "Text", name: "statistic_text", widget: "string" }
+              - { label: "Untertitel", name: "statistic_subtitle", widget: "string" }
+
+  - name: "technologies"
+    label: "Technologien"
+    files:
+      - label: "Technologien Inhalt"
+        name: "technologies"
+        file: "content/technologies.md"
+        fields:
+          - { label: "Überschrift", name: "headline", widget: "string" }
+          - { label: "Text", name: "text", widget: "text" }
+
+  - name: "conferences"
+    label: "Konferenzen"
+    files:
+      - label: "Konferenzen Inhalt"
+        name: "conferences"
+        file: "content/conferences.md"
+        fields:
+          - { label: "Überschrift", name: "headline", widget: "string" }
+          - { label: "Text", name: "text", widget: "text" }
+
+  - name: "testimonials"
+    label: "Testimonials"
+    files:
+      - label: "Testimonials Inhalt"
+        name: "testimonials"
+        file: "content/testimonials.md"
+        fields:
+          - { label: "Überschrift", name: "headline", widget: "string" }
+          - label: "Testimonial Boxen"
+            name: "testimonial_boxes"
+            widget: "list"
+            fields:
+              - { label: "Testimonial", name: "testimonial", widget: "text" }
+              - { label: "Person", name: "person", widget: "string" }
+              - { label: "Berufsbezeichnung", name: "job_title", widget: "string" }
+
+  - name: "cta"
+    label: "CTA"
+    files:
+      - label: "CTA Inhalt"
+        name: "cta"
+        file: "content/cta.md"
+        fields:
+          - { label: "Überschrift", name: "headline", widget: "string" }
+          - { label: "Untertitel", name: "subtitle", widget: "string" }
+
+  - name: "faq"
+    label: "FAQ"
+    files:
+      - label: "FAQ Inhalt"
+        name: "faq"
+        file: "content/faq.md"
+        fields:
+          - { label: "Überschrift", name: "headline", widget: "string" }
+          - label: "FAQs"
+            name: "faqs"
+            widget: "list"
+            fields:
+              - { label: "Frage", name: "question", widget: "string" }
+              - { label: "Antwort", name: "answer", widget: "text" }
+
+  - name: "ps_section"
+    label: "PS"
+    files:
+      - label: "PS Inhalt"
+        name: "ps_section"
+        file: "content/ps_section.md"
+        fields:
+          - { label: "Überschrift", name: "headline", widget: "string" }
+          - { label: "Text", name: "text", widget: "markdown" }
+          - { label: "Zitat", name: "quote", widget: "string" }
