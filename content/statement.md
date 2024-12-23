@@ -1,17 +1,15 @@
 ---
 headline: "Das garantieren wir dir. "
 statements:
-  - statement_title: Enge Beratung
-    statement_text: >-
-      Recruiting Done for you, Alles kommt auf unseren Tisch, enge
-      Zusammenarveit.
-
-      Persönlicher Ansprechpartner & enge Beratung
+  - statement_title: Beratung
+    statement_text: Ihre Herausforderung kommt komplett unseren Tisch – enge
+      Zusammenarbeit mit persönlichem Ansprechpartner und intensiver Beratung.
   - statement_title: Transparenz
-    statement_text: Du  weißt wofür du zahlst. Weekly Progress Meetings & Reportings.
+    statement_text: "Mit uns wissen Sie, wofür Sie zahlen: regelmäßige Meetings und
+      Reportings machen unsere Empfehlungen transparent und nachvollziehbar."
   - statement_title: Nachhaltigkeit
-    statement_text: "Ganzeinheitliche Analyse und Verbesserung der HR Prozesse.
-      Langfristige Bindung unsere Vermittlungen. "
+    statement_text: Ganzheitliche Analyse und Optimierung Ihrer Prozesse für eine
+      langfristige Bindung unserer Vermittlungen.
 statistics:
   - statistic_text: 87 %
     statistic_subtitle: unserer Kandidaten werden zum Interview eingeladen
