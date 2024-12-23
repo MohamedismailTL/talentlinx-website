@@ -9,7 +9,7 @@ boxes:
       und definierten Milestones. Zusätzlich hast du jederzeit Zugriff auf
       unseren ständig wachsenden Talent Pool, um die besten Talente für dein
       Unternehmen zu gewinnen.
-  - chip: Absicherung
+  - chip: Ohne Risiko
     title: 100 % Geld-zurück-Garantie
     text: Ein vermittelter Kandidat/eine vermittelte Kandidatin, der/die kurzzeitig
       wieder geht, kann eine knallharte Fehlinvestition sein. Deine Investition
@@ -17,10 +17,13 @@ boxes:
       ersten 3 Monaten eine 100 % Geld-Zurück-Garantie an, ohne Fragen. So
       stellen wir sicher, dass du dein Budget sinnvoll einsetzt, finanziell
       abgesichert bist und Fachkräfte gewinnst, die einen positiven ROI liefern.
-  - chip: test
-    title: Vorselektierte Kandidaten
-    text: Nur die besten Talente kommen in die Auswahl – nach strenger Prüfung.
-      Spare Zeit und Ressourcen mit unserem bewährten 15-Punkte-System.
+  - chip: Maximale Sicherheit
+    title: 6 Monate Absicherung
+    text: Wir möchten sicherstellen, dass Sie langfristig von unserer Vermittlung
+      profitieren. Sollte im äußerst seltenen Fall das Arbeitsverhältnis
+      innerhalb der ersten 6 Monate enden, bieten wir Ihnen eine kostenlose
+      Nachbesetzung an. So können Sie sicher sein, dass Sie stets die passende
+      Unterstützung für Ihr Team erhalten – ohne doppelte Vermittlungsgebühr.
   - chip: test
     title: Netzwerk mit persönlichem Kontakt
     text: Mit 5000+ IT-Spezialisten aus unserem Face-to-Face-Netzwerk. Wir nutzen
