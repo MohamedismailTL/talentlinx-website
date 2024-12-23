@@ -3,7 +3,7 @@ search: false
 
 backend:
   name: github
-  repo: svenschu/talentlynx
+  repo: MohamedismailTL/talentlinx-website
   branch: main
   base_url: "https://decap-proxy.mohamed-ismail.workers.dev/"
 
