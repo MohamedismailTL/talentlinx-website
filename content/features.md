@@ -1,6 +1,6 @@
 ---
 headline: Nur eine weitere Personalvermittlung?
-text: ...
+text: Den Text kannst du jetzt ändern
 boxes:
   - chip: Partner
     title: Ihr strategischer Partner
