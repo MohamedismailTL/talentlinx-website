@@ -6,6 +6,7 @@ export default function Example({ footer }: any) {
                 <div className="flex justify-center mb-6">
                     <a
                         href={footer.frontmatter.link}
+                        target="_blank"
                         className="flex items-center justify-center hover:opacity-80"
                         aria-label="LinkedIn"
                     >
