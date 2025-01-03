@@ -1,0 +1,14 @@
+---
+import Layout from '../layouts/Layout.astro';
+import HTMLContent from '../components/HTMLContent.tsx';
+import Footer from '../components/Footer.tsx';
+import * as impressum from '../../content/impressum.md';
+import * as footer from '../../content/footer.md';
+---
+
+<Layout title="Welcome to Astro.">
+    <main>
+        <HTMLContent impressum={impressum}/>
+        <Footer footer={footer}/>
+    </main>
+</Layout>

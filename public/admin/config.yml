@@ -217,3 +217,21 @@ collections:
         fields:
           - { label: "LinkedIn Link", name: "link", widget: "string" }
           - { label: "Copyright Text", name: "copyright", widget: "string" }
+
+  - name: "impressum"
+    label: "Impressum"
+    files:
+      - label: "Impressum Inhalt"
+        name: "impressum"
+        file: "content/impressum.md"
+        fields:
+          - { label: "Impressum", name: "impressum", widget: "markdown" }
+
+  - name: "datenschutz"
+    label: "Datenschutz"
+    files:
+      - label: "Datenschutz Inhalt"
+        name: "datenschutz"
+        file: "content/datenschutz.md"
+        fields:
+          - { label: "Datenschutz", name: "datenschutz", widget: "markdown"
