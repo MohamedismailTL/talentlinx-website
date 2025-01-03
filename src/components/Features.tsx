@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 
-export default function Example({ features }: any) {
+export default function Example({ features, children }: any) {
 	const featureList = features.frontmatter.boxes.map((box: any) => ({
 		chip: box.chip,
 		title: box.title,
@@ -38,19 +38,32 @@ export default function Example({ features }: any) {
 	return (
 		<div className="bg-white py-24 sm:py-32">
 			<div className="mx-auto max-w-7xl px-6 lg:px-8">
-				<div className="mx-auto max-w-3xl text-center">
-					<h2 className="lg:text-6xl text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
-						{features.frontmatter.headline}
-					</h2>
-					<p className="mt-4 text-xl text-gray-600">
-						Nach Gesprächen mit über 400 Entscheidern aus dem Technologie-Sektor haben wir<br />
-						vier zentrale Problembereiche identifiziert, die viele Unternehmen teilen.
-					</p>
+				{/* Zweispaltige Grid-Struktur
+					 - gap-16 für größeren horizontalen Abstand
+				*/}
+				<div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+					{/* Linke Spalte: Headline + Text */}
+					<div>
+						<h2 className="lg:text-6xl text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
+							{features.frontmatter.headline}
+						</h2>
+						<p className="mt-4 text-xl text-gray-600 text-left">
+							Nach Gesprächen mit über 400 Entscheidern aus dem Technologie-Sektor
+							haben wir vier zentrale Problembereiche identifiziert, die viele
+							Unternehmen teilen.
+						</p>
+					</div>
+					{/* Rechte Spalte: Platzhalterbild */}
+					<div className="flex justify-center">
+						{children}
+					</div>
 				</div>
+
+				{/* Mehr vertikaler Abstand (mt-24 statt mt-16) */}
 				<div
 					ref={containerRef}
-					className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-y-6
-                               sm:grid-cols-2 sm:gap-x-6 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-8 items-stretch"
+					className="mx-auto mt-24 grid max-w-2xl grid-cols-1 gap-y-8
+                           sm:grid-cols-2 sm:gap-x-8 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-8 items-stretch"
 				>
 					{featureList.map((feature: any, index: any) => {
 						const {
@@ -69,8 +82,8 @@ export default function Example({ features }: any) {
 									transitionDelay: inView ? `${index * 150}ms` : '0ms'
 								}}
 								className={`flex flex-col h-full border border-gray-200 rounded-2xl p-8 shadow-sm 
-                                            hover:shadow-xl transform
-                                            ${inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-12'}`}
+											hover:shadow-xl transform
+											${inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-12'}`}
 							>
 								<div
 									className={`mb-4 flex text-sm/4 items-center justify-center rounded-full ${chipBgColor} ${chipTextColor} w-fit px-3 py-1.5`}

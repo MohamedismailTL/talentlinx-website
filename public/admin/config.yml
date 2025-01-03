@@ -34,6 +34,7 @@ collections:
         file: "content/features.md"
         fields:
           - { label: "Überschrift", name: "headline", widget: "string" }
+          - { label: "Tet", name: "text", widget: "string" }
           - label: "Boxen"
             name: "boxes"
             widget: "list"

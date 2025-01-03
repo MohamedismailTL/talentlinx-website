@@ -20,6 +20,8 @@ import manAtDesk from '../assets/nachdenklicher-mann-an-schreibtisch.jpg';
 import talentNetwork from '../assets/talent-network.jpg';
 import techStack from '../assets/tech-stack.jpg';
 import teamSuccess from '../assets/team-success.jpg';
+import painPoints from '../assets/pain-points.svg';
+import hiringTechnologies from '../assets/hiring-technologies.svg';
 import * as hero from '../../content/hero.md';
 import * as features from '../../content/features.md';
 import * as problems from '../../content/problems.md';
@@ -38,7 +40,9 @@ import * as ps_section from '../../content/ps_section.md';
 <Layout title="Welcome to Astro.">
 	<main>
 		<Hero content={hero} client:load />
-		<Features features={features} client:load />
+		<Features features={features} client:load>
+			<Image src={painPoints} alt="Pain points" />
+		</Features>
 		<Problems problems={problems} client:load>
 			<Image src={manAtDesk} alt="Thinking man at desk" />
 		</Problems>
