@@ -1,5 +1,5 @@
 ---
-headline: "Das garantieren wir dir. "
+headline: "Das garantieren wir Ihnen. "
 statements:
   - statement_title: Beratung
     statement_text: Ihre Herausforderung kommt komplett unseren Tisch – enge
