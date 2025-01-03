@@ -1,23 +1,28 @@
 ---
 title: Finde Talente, wo immer sie sind.
-text: >
-  Anstatt uns nur auf LinkedIn zu beschränken und auf unsichere Antworten zu
-  hoffen, setzen wir auf eine Lösung, die garantiert Ergebnisse liefert:
+text: >-
+  Statt uns auf LinkedIn zu verlassen und auf Antworten zu hoffen, bieten wir
+  eine Lösung, die garantiert Ergebnisse liefert:
 
 
-  Ein bewährtes System, das unsere Headhunting-Expertise mit modernster Technologie vereint. So gewinnen wir nicht nur die besten Talente für dich, sondern besetzen deine offene Position in nur 19 Tagen – bevor es deine Konkurrenz schafft.
+  Unsere FRC-Methode, die unsere Expertise im Headhunting mit modernster Technologie kombiniert. So finden wir nicht nur die besten Talente für Sie, sondern besetzen Ihre offene Position schneller als Ihre Konkurrenz.
 
 
-  Unser Ansatz für deinen Erfolg:
+  Was unser Ansatz ermöglicht:
 
 
-  - Ein System, das alle relevanten Kanäle miteinander verknüpft
+  - Vernetzung relevanter Kanäle für eine ganzheitliche Talentansprache
+
+  - Datenbasierte Entscheidungen, die Ihre Erfolgschancen maximieren
 
   - Automatisierte Alerts und Monitoring für aktive und passive Kandidaten
 
-  - Workflows für durchgehenden Kommunikation mit Kandidaten
+  - Market Mapping und Konkurrenzanalysen, um Top-Kandidaten schnell zu identifizieren
 
-  - Über 200 Kanäle für deinen Job 
+  - Frühzeitige Erkennung von Gehaltstrends, um wettbewerbsfähig zu bleiben
 
-  - Ein stetig wachsender Bewerberpool durch kontinuierliche Identifikation
+  - Durchgehende Kommunikation mit Kandidaten durch automatisierte Workflows
+
+
+  So gewinnen wir die besten Talente, die einen langfristigen Einfluss auf Ihre Organisation haben.
 ---
