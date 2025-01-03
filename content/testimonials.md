@@ -16,7 +16,7 @@ testimonial_boxes:
       opportunities or any organization looking for an effective recruiter.”
     person: Christian Fischer
     job_title: Director of Engineering @Erblotse
-  - testimonial: “Mohamed hat die von uns gestellten Herausforderungen hervorragend
+  - testimonial: „Die von uns gestellten Herausforderungen wurden hervorragend
       gelöst. Binnen kurzer Zeit stand eine sehr gute Auswahl an Kandidat:innen
       zur Verfügung. Der Interviewprozess wurde entschlossen und transparent
       gestaltet, sodass wir die für uns beste Auswahl treffen konnten. Vielen
