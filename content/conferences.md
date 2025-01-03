@@ -1,4 +1,4 @@
 ---
-headline: "Wir sind 2025 auf diesen Tech-Events vertreten. "
+headline: Wir sind 2025 auf diesen führenden Tech-Events dabei.
 text: ..TEXT WEG
 ---
