@@ -13,8 +13,8 @@ boxes:
       - bullet_title: " Schlecht vorbereitete Kandidaten"
         bullet_text: Kandidaten sind unvorbereitet und fehlend motiviert
       - bullet_title: Mehrarbeit durch Recruiter
-        bullet_text: Wegen schlechter Kommunikation, mehrfacher Profildefinition und
-          unpassender Kandidaten landet mehr auf Ihrem Tisch
+        bullet_text: Wegen unklarer Kommunikation, wiederholter Profildefinition und
+          unpassender Kandidaten landet mehr Arbeit auf Ihrem Tisch
       - bullet_title: Abhängig von LinkedIn & InMails
         bullet_text: Abhängig von LinkedIn & Antwortraten auf InMails
   - box_title: TalentLinx
@@ -35,6 +35,6 @@ boxes:
         bullet_text: Wir koordinieren alle Prozesse, stellen Ressourcen bereit und
           prüfen Kandidaten streng, damit Sie Zeit sparen.
       - bullet_title: Multichannel Approach & Netzwerk
-        bullet_text: |
-          Technologiegestütztes Recruiting auf mehr als 200 Kanäle
+        bullet_text: Technology Driven Recruiting, vereint mit Headhunting-Expertise und
+          persönlichem Austausch.
 ---
