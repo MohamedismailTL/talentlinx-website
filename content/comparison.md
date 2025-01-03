@@ -1,5 +1,5 @@
 ---
-title: Was uns bei Talent Linx anders macht
+title: Was uns bei TalentLinx anders macht
 boxes:
   - box_title: Andere Recruiter
     bulletpoints:
