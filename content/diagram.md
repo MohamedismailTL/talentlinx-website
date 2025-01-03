@@ -1,5 +1,5 @@
 ---
-title: Finde Talente, wo immer sie sind.
+title: Menschenorientiert, technologiegetrieben.
 text: >-
   Statt uns auf LinkedIn zu verlassen und auf Antworten zu hoffen, bieten wir
   eine Lösung, die garantiert Ergebnisse liefert:
