@@ -1,5 +1,6 @@
 ---
 headline: Nur eine weitere Personalvermittlung?
+text: ...
 boxes:
   - chip: Partner
     title: Ihr strategischer Partner
@@ -18,15 +19,15 @@ boxes:
       innerhalb der ersten 6 Monate enden, bieten wir eine kostenlose
       Nachbesetzung. So sparen Sie Kosten und sichern Ihre Investition."
   - chip: Zeit sparen
-    title: Vorinterviewte passenden Kandidaten
+    title: Vorinterviewte passende Kandidaten
     text: Wir prüfen Kandidaten in einem Pre-Interview auf ihre fachlichen
       Fähigkeiten, den Cultural Fit und ihr langfristiges Potenzial – so sparen
       Sie Zeit und erhalten nur passende Profile.
   - chip: IT Experten
     title: Spezialisiert auf IT-Nischen
-    text: Wir sind auf Nischentechnologien spezialisiert, haben exklusiven Zugang zu
-      hochqualifizierten Talenten und garantieren eine schnelle und passgenaue
-      Auswahl für Ihren langfristigen Erfolg.
+    text: Wir sind auf Frontend/Backend Technologien spezialisiert, haben exklusiven
+      Zugang zu qualifizierten Talenten und garantieren eine schnelle und
+      passgenaue Auswahl für Ihren langfristigen Erfolg.
   - chip: Schnelligkeit
     title: Besetzung in 19 Tagen
     text: Unser entwickeltes System kombiniert Headhunting-Expertise mit modernster

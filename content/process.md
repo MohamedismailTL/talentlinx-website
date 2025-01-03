@@ -1,15 +1,23 @@
 ---
-headline: Wie wir in 14 Tagen deine Position besetzen
-text: Wir verbinden Technologie mit Erfahrung, um schnell und sicher die besten
-  Developer zu finden. Nur die Top 25 % der Kandidaten bestehen unseren Prozess
-  – für höchste Qualität und langfristige Erfolge.
+headline: A-Kandidaten in 19 Tagen in Ihrem Unternehmen
+text: >-
+  Wir entwickeln eine maßgeschneiderte Roadmap für jede Position und sorgen
+  dafür, dass Sie immer im Bilde bleiben. Mit wöchentlichen Calls halten wir Sie
+  transparent und strukturiert auf dem Laufenden, sodass Sie jederzeit den
+  Fortschritt nachvollziehen können.
+
+
+  Unser Ziel ist klar: Ihnen Zeit zu sparen, ohne dass Sie den Überblick verlieren.
+
+
+  Die gesamte Arbeit übernehmen wir – so können Sie sich ganz auf Ihre wichtigsten Prioritäten konzentrieren, während wir für Sie die besten Talente gewinnen.
 process_boxes:
   - box_title: Anforderungen und Kick-Off
     box_text: Im Kick-Off Call verstehen wir Ihre Anforderungen und Erwartungen, um
       einen maßgeschneiderten Erfolgsplan zu erstellen, einschließlich einer
       Analyse des menschlichen Fits für Ihr Team.
-  - box_title: "Ersten Profile in 48 Stunden "
-    box_text: Innerhalb von zwei Werktagen präsentieren wir Ihnen vorqualifizierte,
+  - box_title: "Ersten Profile innerhalb von 3 Tagen "
+    box_text: Innerhalb von drei Werktagen präsentieren wir Ihnen vorqualifizierte,
       deutschsprachige Kandidaten, die bereits geprüft, auf Ihre Anforderungen
       abgestimmt und motiviert sind, Ihr Unternehmen kennenzulernen – mit klaren
       Verfügbarkeiten.

@@ -1,5 +1,5 @@
 ---
-title: Was wir bei TalentLinx anders machen
+title: Was uns bei TalentLinx anders macht
 boxes:
   - box_title: Andere Recruiter
     bulletpoints:
@@ -13,8 +13,8 @@ boxes:
       - bullet_title: " Schlecht vorbereitete Kandidaten"
         bullet_text: Kandidaten sind unvorbereitet und fehlend motiviert
       - bullet_title: Mehrarbeit durch Recruiter
-        bullet_text: Wegen schlechter Kommunikation, mehrfacher Profildefinition und
-          unpassender Kandidaten landet mehr auf Ihrem Tisch
+        bullet_text: Unklare Kommunikation, wiederholte Profildefinition und unpassende
+          Kandidaten bringen mehr Arbeit auf Ihren Tisch
       - bullet_title: Abhängig von LinkedIn & InMails
         bullet_text: Abhängig von LinkedIn & Antwortraten auf InMails
   - box_title: TalentLinx
@@ -23,8 +23,8 @@ boxes:
         bullet_text: 100 % Geld-Zurück-Garantie bei Unzufriedenheit und regelmäßige
           Kandidaten Check-ins
       - bullet_title: Precision Hiring
-        bullet_text: Wir leiten nur Profile weiter, die in unserer qualitativen
-          Bewertung mehr als 75 % erreichen, um Ihnen Zeit zu sparen.
+        bullet_text: Wir leiten nur Profile weiter, die in unserem Multi-Scoring-Modell
+          mehr als 75 % erreichen, um Ihnen Zeit zu sparen.
       - bullet_title: Faire Preise mit Garantie
         bullet_text: Faires Honorar mit 100 % Absicherung
       - bullet_title: Motivierte Kandidaten
@@ -35,6 +35,6 @@ boxes:
         bullet_text: Wir koordinieren alle Prozesse, stellen Ressourcen bereit und
           prüfen Kandidaten streng, damit Sie Zeit sparen.
       - bullet_title: Multichannel Approach & Netzwerk
-        bullet_text: |+
-          Technologiegestütztes Recruiting auf mehr als 200 Kanäle
+        bullet_text: Technology Driven Recruiting, vereint mit Headhunting-Expertise und
+          persönlichem Austausch.
 ---
