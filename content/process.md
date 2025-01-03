@@ -1,15 +1,13 @@
 ---
-headline: Wie wir in 14 Tagen deine Position besetzen
-text: Wir verbinden Technologie mit Erfahrung, um schnell und sicher die besten
-  Developer zu finden. Nur die Top 25 % der Kandidaten bestehen unseren Prozess
-  – für höchste Qualität und langfristige Erfolge.
+headline: Wie wir in 19 Tagen Ihre Position besetzen
+text: "Die Arbeit kommt auf unseren Tisch. "
 process_boxes:
   - box_title: Anforderungen und Kick-Off
     box_text: Im Kick-Off Call verstehen wir Ihre Anforderungen und Erwartungen, um
       einen maßgeschneiderten Erfolgsplan zu erstellen, einschließlich einer
       Analyse des menschlichen Fits für Ihr Team.
-  - box_title: "Ersten Profile in 48 Stunden "
-    box_text: Innerhalb von zwei Werktagen präsentieren wir Ihnen vorqualifizierte,
+  - box_title: "Ersten Profile innerhalb von 3 Tagen "
+    box_text: Innerhalb von drei Werktagen präsentieren wir Ihnen vorqualifizierte,
       deutschsprachige Kandidaten, die bereits geprüft, auf Ihre Anforderungen
       abgestimmt und motiviert sind, Ihr Unternehmen kennenzulernen – mit klaren
       Verfügbarkeiten.
