@@ -217,3 +217,12 @@ collections:
         fields:
           - { label: "LinkedIn Link", name: "link", widget: "string" }
           - { label: "Copyright Text", name: "copyright", widget: "string" }
+
+  - name: "imprint"
+    label: "Impressum"
+    files:
+      - label: "Impressum Inhalt"
+        name: "imprint"
+        file: "content/imprint.md"
+        fields:
+          - { label: "Überschrift", name: "content", widget: "markdown" }
