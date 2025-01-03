@@ -13,8 +13,8 @@ boxes:
       - bullet_title: " Schlecht vorbereitete Kandidaten"
         bullet_text: Kandidaten sind unvorbereitet und fehlend motiviert
       - bullet_title: Mehrarbeit durch Recruiter
-        bullet_text: Wegen unklarer Kommunikation, wiederholter Profildefinition und
-          unpassender Kandidaten landet mehr Arbeit auf Ihrem Tisch
+        bullet_text: Unklare Kommunikation, wiederholte Profildefinition und unpassende
+          Kandidaten bringen mehr Arbeit auf Ihren Tisch
       - bullet_title: Abhängig von LinkedIn & InMails
         bullet_text: Abhängig von LinkedIn & Antwortraten auf InMails
   - box_title: TalentLinx
