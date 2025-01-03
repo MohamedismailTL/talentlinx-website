@@ -3,7 +3,7 @@ import { Dialog, DialogPanel } from '@headlessui/react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
 import CTAButton from './CTAButton.tsx';
 import Typewriter from './Typewriter.tsx';
-import logo from '../assets/Logo 3-02.png';
+import logo from '../assets/talentlinx-logo.png';
 
 const navigation = [
 	{ name: 'Über uns', href: '#' },
