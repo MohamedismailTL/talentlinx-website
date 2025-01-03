@@ -17,7 +17,7 @@ statistics:
     statistic_subtitle: unserer Kandidaten werden zum Interview eingeladen
   - statistic_text: "19"
     statistic_subtitle: Die durchschnittliche Anzahl an Tagen, um eine Position zu besetzten
-  - statistic_text: "2"
+  - statistic_text: "3"
     statistic_subtitle: Die durchschnittliche Anzahl an Tagen, bis wir die ersten 3
       Profile schicken
 ---
