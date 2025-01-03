@@ -20,7 +20,7 @@ export default function Example({ diagram, children }: any) {
 				<div className="grid grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:grid-cols-2 lg:items-start">
 					{/* Linke Seite */}
 					<div
-						className={`px-6 lg:px-0 lg:pr-4 lg:pt-4 transform transition-all duration-700 ${
+						className={`px-6 lg:px-0 lg:pr-4 transform transition-all duration-700 ${
 							isVisible
 								? 'opacity-100 translate-y-0'
 								: 'opacity-0 translate-y-4'
@@ -48,7 +48,6 @@ export default function Example({ diagram, children }: any) {
 							>
 								{text}
 							</p>
-							{/* CTAButton kann ohne Animation verwendet werden oder optional animiert werden */}
 							<CTAButton />
 						</div>
 					</div>
@@ -64,7 +63,7 @@ export default function Example({ diagram, children }: any) {
 						<div className="-mx-4 sm:mx-0">
 							<div className="mx-auto max-w-2xl sm:max-w-full">
 								<div
-									className="w-full rounded-none md:rounded-2xl shadow-[0_4px_6px_rgba(0,0,0,0.1)] overflow-hidden"
+									className="w-full rounded-none md:rounded-2xl overflow-hidden"
 								>
 									{children}
 								</div>
