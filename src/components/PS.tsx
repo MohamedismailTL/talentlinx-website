@@ -5,10 +5,10 @@ export default function Example({ ps_section, children }: any) {
 		<div className="bg-gradient-to-br from-brand-aqua-800 to-brand-aqua-900 text-gray-100 py-24 sm:py-32">
 			<div className="mx-auto max-w-7xl px-6 lg:px-8">
 				<div
-					className="mx-auto grid max-w-2xl grid-cols-1 items-start gap-x-16 gap-y-16 sm:gap-y-24 lg:mx-0 lg:max-w-none lg:grid-cols-2">
+					className="mx-auto grid max-w-2xl grid-cols-1 items-center gap-x-16 gap-y-16 sm:gap-y-24 lg:mx-0 lg:max-w-none lg:grid-cols-2">
 
 					{/* Linker Bereich: Bild mit Zitat */}
-					<div className="lg:pr-4 relative rounded-2xl overflow-hidden">
+					<div className="relative rounded-2xl overflow-hidden">
 						{/* Bildinhalt */}
 						{children}
 
