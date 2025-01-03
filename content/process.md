@@ -1,5 +1,5 @@
 ---
-headline: A-Kandidaten in nur 19 Tagen in Ihrem Unternehmen
+headline: A-Kandidaten in 19 Tagen in Ihrem Unternehmen
 text: >-
   Wir entwickeln eine maßgeschneiderte Roadmap für jede Position und sorgen
   dafür, dass Sie immer im Bilde bleiben. Mit wöchentlichen Calls halten wir Sie
