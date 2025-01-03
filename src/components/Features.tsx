@@ -48,9 +48,7 @@ export default function Example({ features, children }: any) {
 							{features.frontmatter.headline}
 						</h2>
 						<p className="mt-4 text-xl text-gray-600 text-left">
-							Nach Gesprächen mit über 400 Entscheidern aus dem Technologie-Sektor
-							haben wir vier zentrale Problembereiche identifiziert, die viele
-							Unternehmen teilen.
+							{features.frontmatter.text}
 						</p>
 					</div>
 					{/* Rechte Spalte: Platzhalterbild */}
