@@ -17,7 +17,7 @@ boxes:
           Kandidaten bringen mehr Arbeit auf Ihren Tisch
       - bullet_title: Abhängig von LinkedIn & InMails
         bullet_text: Abhängig von LinkedIn & Antwortraten auf InMails
-  - box_title: Talent Linx
+  - box_title: TalentLinx
     bulletpoints:
       - bullet_title: 0 % Risiko Garantie & langfristige Bindung
         bullet_text: 100 % Geld-Zurück-Garantie bei Unzufriedenheit und regelmäßige
