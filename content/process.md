@@ -1,5 +1,5 @@
 ---
-headline: Wie wir in 19 Tagen Ihre Position besetzen
+headline: Wir bringen Sie in 19 Tagen zum A-Kandidaten.
 text: >-
   Wir erstellen eine klare Roadmap für jede Position und halten Sie stets auf
   dem Laufenden: Wöchentliche Calls zeigen Ihnen den Fortschritt transparent und
