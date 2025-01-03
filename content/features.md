@@ -1,8 +1,6 @@
 ---
 headline: Nur eine weitere Personalvermittlung?
-text: Nach Gesprächen mit über 400 Entscheidern aus dem Technologie-Sektor haben
-  wir vier zentrale Problembereiche identifiziert, die viele Unternehmen
-  teilen....
+text: Den Text kannst du jetzt ändern
 boxes:
   - chip: Partner
     title: Ihr strategischer Partner
