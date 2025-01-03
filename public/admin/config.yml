@@ -225,7 +225,7 @@ collections:
         name: "impressum"
         file: "content/impressum.md"
         fields:
-          - { label: "Impressum", name: "body", widget: "markdown" }
+          - { label: "Impressum", name: "content", widget: "markdown" }
 
   - name: "datenschutz"
     label: "Datenschutz"
@@ -234,4 +234,4 @@ collections:
         name: "datenschutz"
         file: "content/datenschutz.md"
         fields:
-          - { label: "Datenschutz", name: "body", widget: "markdown" }
+          - { label: "Datenschutz", name: "content", widget: "markdown" }
