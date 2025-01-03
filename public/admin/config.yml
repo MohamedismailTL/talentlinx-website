@@ -234,4 +234,4 @@ collections:
         name: "datenschutz"
         file: "content/datenschutz.md"
         fields:
-          - { label: "Datenschutz", name: "datenschutz", widget: "markdown"
+          - { label: "Datenschutz", name: "datenschutz", widget: "markdown" }
