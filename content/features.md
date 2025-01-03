@@ -19,7 +19,7 @@ boxes:
       innerhalb der ersten 6 Monate enden, bieten wir eine kostenlose
       Nachbesetzung. So sparen Sie Kosten und sichern Ihre Investition."
   - chip: Zeit sparen
-    title: Vorinterviewte passenden Kandidaten
+    title: Vorinterviewte passende Kandidaten
     text: Wir prüfen Kandidaten in einem Pre-Interview auf ihre fachlichen
       Fähigkeiten, den Cultural Fit und ihr langfristiges Potenzial – so sparen
       Sie Zeit und erhalten nur passende Profile.
