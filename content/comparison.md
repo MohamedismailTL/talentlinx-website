@@ -23,8 +23,8 @@ boxes:
         bullet_text: 100 % Geld-Zurück-Garantie bei Unzufriedenheit und regelmäßige
           Kandidaten Check-ins
       - bullet_title: Precision Hiring
-        bullet_text: Wir leiten nur Profile weiter, die in unserer qualitativen
-          Bewertung mehr als 75 % erreichen, um Ihnen Zeit zu sparen.
+        bullet_text: Wir leiten nur Profile weiter, die in unserem Multi-Scoring-Modell
+          mehr als 75 % erreichen, um Ihnen Zeit zu sparen.
       - bullet_title: Faire Preise mit Garantie
         bullet_text: Faires Honorar mit 100 % Absicherung
       - bullet_title: Motivierte Kandidaten
@@ -35,6 +35,6 @@ boxes:
         bullet_text: Wir koordinieren alle Prozesse, stellen Ressourcen bereit und
           prüfen Kandidaten streng, damit Sie Zeit sparen.
       - bullet_title: Multichannel Approach & Netzwerk
-        bullet_text: |+
+        bullet_text: |
           Technologiegestütztes Recruiting auf mehr als 200 Kanäle
 ---
