@@ -71,9 +71,6 @@ export default function Example({ conferences }: any) {
 							<h2 className="text-4xl font-semibold tracking-tight text-white sm:text-5xl">
 								{headline}
 							</h2>
-							<p className="mt-6 text-lg text-gray-300">
-								{text}
-							</p>
 						</div>
 					</div>
 
