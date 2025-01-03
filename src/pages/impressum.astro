@@ -2,13 +2,12 @@
 import Layout from '../layouts/Layout.astro';
 import Footer from '../components/Footer.tsx';
 import * as footer from '../../content/footer.md';
-import * as content from '../../content/impressum.md';
 import MarkdownRenderer from '../components/MarkdownRenderer.tsx';
 ---
 
 <Layout title="Welcome to Astro.">
     <main>
-        <MarkdownRenderer content={content}/>
+        <MarkdownRenderer/>
         <Footer footer={footer}/>
     </main>
 </Layout>
