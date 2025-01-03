@@ -1,6 +1,13 @@
 ---
 headline: Wie wir in 19 Tagen Ihre Position besetzen
-text: "Die Arbeit kommt auf unseren Tisch. "
+text: >-
+  Wir erstellen eine klare Roadmap für jede Position und halten Sie stets auf
+  dem Laufenden: Wöchentliche Calls zeigen Ihnen den Fortschritt transparent und
+  strukturiert. Unser Ziel? Ihre wertvolle Zeit zu sparen, ohne dass Sie den
+  Überblick verlieren.
+
+
+  Die gesamte Arbeit liegt bei uns – Sie können sich entspannt auf Ihre Prioritäten konzentrieren, während wir die besten Talente gewinnen. 
 process_boxes:
   - box_title: Anforderungen und Kick-Off
     box_text: Im Kick-Off Call verstehen wir Ihre Anforderungen und Erwartungen, um
