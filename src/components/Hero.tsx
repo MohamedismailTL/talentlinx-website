@@ -11,7 +11,7 @@ const navigation = [
 	{ name: 'Kontakt', href: '#' }
 ];
 
-export default function Example({ content }: any) {
+export default function Example({ content, metadata }: any) {
 	const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
 	return (
@@ -133,7 +133,7 @@ export default function Example({ content }: any) {
 							{content.frontmatter.hero_subtitle}
 						</p>
 						<div className="mt-10 flex items-center gap-x-6">
-							<CTAButton />
+							<CTAButton link={metadata.frontmatter.ctalink} />
 						</div>
 					</div>
 				</div>

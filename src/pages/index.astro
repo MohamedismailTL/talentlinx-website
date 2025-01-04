@@ -36,30 +36,31 @@ import * as cta from '../../content/cta.md';
 import * as faq from '../../content/faq.md';
 import * as ps_section from '../../content/ps_section.md';
 import * as footer from '../../content/footer.md';
+import * as metadata from '../../content/metadata.md';
 ---
 
 <Layout title="Welcome to Astro.">
     <main>
-        <Hero content={hero} client:load/>
+        <Hero content={hero} metadata={metadata} client:load/>
         <Features features={features} client:load>
             <Image src={painPoints} alt="Pain points"/>
         </Features>
         <Problems problems={problems} client:load>
             <Image src={manAtDesk} alt="Thinking man at desk"/>
         </Problems>
-        <Process process={process} client:load/>
-        <Technologies diagram={diagram} client:load>
+        <Process process={process} metadata={metadata} client:load/>
+        <Technologies diagram={diagram} metadata={metadata} client:load>
             <Image src={hiringTechnologies} alt="Hiring technologies"/>
         </Technologies>
-        <Comparison comparison={comparison} client:load/>
+        <Comparison comparison={comparison} metadata={metadata} client:load/>
         <Statement statement={statement} client:load/>
         <Stats statement={statement} client:load/>
         <TechStack technologies={technologies} client:load>
             <Image src={techStack} alt="Tiles with logos of many different web technologies"/>
         </TechStack>
         <Logos conferences={conferences} client:load/>
-        <Testimonials testimonials={testimonials} client:load/>
-        <CTA2 cta={cta} client:load/>
+        <Testimonials testimonials={testimonials} metadata={metadata} client:load/>
+        <CTA2 cta={cta} metadata={metadata} client:load/>
         <FAQ faq={faq} client:load/>
         <PS ps_section={ps_section} client:load>
             <Image src={teamSuccess} alt="Team celebrating success"/>
