@@ -253,3 +253,5 @@ collections:
         file: "content/metadata.md"
         fields:
           - { label: "CTA Link", name: "ctalink", widget: "string" }
+          - { label: "Website Title", name: "title", widget: "string" }
+          - { label: "Website Description", name: "description", widget: "string" }
