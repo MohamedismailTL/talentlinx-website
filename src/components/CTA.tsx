@@ -21,9 +21,6 @@ export default function Example() {
                             {id: '03', name: 'In 30 Tagen zur neuen Fachkraft'},
                         ]}
                     />
-                    <div className="mt-12 flex items-center justify-center gap-x-6">
-                        <CTAButton/>
-                    </div>
                 </div>
             </div>
         </div>
