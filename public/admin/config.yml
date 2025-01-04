@@ -235,3 +235,12 @@ collections:
         file: "content/privacy.md"
         fields:
           - { label: "Überschrift", name: "content", widget: "markdown" }
+
+  - name: "agb"
+    label: "AGB"
+    files:
+      - label: "AGB Inhalt"
+        name: "agb"
+        file: "content/agb.md"
+        fields:
+          - { label: "Überschrift", name: "content", widget: "markdown" }

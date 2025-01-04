@@ -8,7 +8,7 @@ export default function MarkdownRenderer({content}: any) {
     return (
         // Statt "items-center" verwenden wir "items-start", damit der Inhalt oben bleibt.
         // Außerdem kannst du die max. Breite anpassen (z. B. max-w-2xl), um den Textbereich schmaler zu machen.
-        <div className="min-h-screen flex items-start justify-center bg-gray-50 p-8">
+        <div className="min-h-screen flex items-start justify-center bg-gray-50 p-24">
             <div className="max-w-2xl w-full">
                 <ReactMarkdown
                     remarkPlugins={[remarkGfm]}
