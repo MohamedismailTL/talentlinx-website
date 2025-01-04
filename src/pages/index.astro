@@ -39,7 +39,7 @@ import * as footer from '../../content/footer.md';
 import * as metadata from '../../content/metadata.md';
 ---
 
-<Layout title="TalentLinx | Talents for your Team" description="Some Descroption">
+<Layout title={metadata.frontmatter.title} description={metadata.frontmatter.description}>
     <main>
         <Hero content={hero} metadata={metadata} client:load/>
         <Features features={features} client:load>
