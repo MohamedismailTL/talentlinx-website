@@ -41,13 +41,13 @@ export default function Example({ footer }: any) {
                         Impressum
                     </a>
                     <a
-                        href="#"
+                        href="/datenschutz"
                         className="text-gray-400 hover:text-brand-aquamarine-500"
                     >
                         Datenschutz
                     </a>
                     <a
-                        href="#"
+                        href="/agb"
                         className="text-gray-400 hover:text-brand-aquamarine-500"
                     >
                         AGB
