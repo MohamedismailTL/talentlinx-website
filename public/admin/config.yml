@@ -226,3 +226,12 @@ collections:
         file: "content/imprint.md"
         fields:
           - { label: "Überschrift", name: "content", widget: "markdown" }
+
+  - name: "privacy"
+    label: "Datenschutz"
+    files:
+      - label: "Datenschutz Inhalt"
+        name: "privacy"
+        file: "content/privacy.md"
+        fields:
+          - { label: "Überschrift", name: "content", widget: "markdown" }

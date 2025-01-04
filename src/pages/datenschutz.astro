@@ -1,0 +1,20 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Footer from '../components/Footer.tsx';
+import * as footer from '../../content/footer.md';
+import MarkdownRenderer from '../components/MarkdownRenderer.tsx';
+import * as content from '../../content/imprint.md';
+import SimpleHeader from '../components/SimpleHeader.tsx';
+import talentLinxLogo from '../assets/talentlinx-logo.png';
+import {Image} from 'astro:assets';
+---
+
+<Layout title="Welcome to Astro.">
+    <main>
+        <SimpleHeader>
+            <Image src={talentLinxLogo} alt="TalentLinx logo"/>
+        </SimpleHeader>
+        <MarkdownRenderer content={content}/>
+        <Footer footer={footer}/>
+    </main>
+</Layout>

@@ -35,7 +35,7 @@ export default function Example({ footer }: any) {
                     className="flex flex-wrap items-center justify-center gap-x-8 gap-y-3 text-sm/6"
                 >
                     <a
-                        href="#"
+                        href="/impressum"
                         className="text-gray-400 hover:text-brand-aquamarine-500"
                     >
                         Impressum
