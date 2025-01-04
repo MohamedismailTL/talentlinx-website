@@ -17,7 +17,8 @@ export default function Example({cta, metadata}: any) {
     }, []);
 
     return (
-        <div className="relative isolate overflow-hidden bg-gradient-to-br from-brand-aqua-800 to-brand-aqua-900">
+        <div id="kontakt"
+             className="relative isolate overflow-hidden bg-gradient-to-br from-brand-aqua-800 to-brand-aqua-900">
             <div className="px-6 py-24 sm:px-6 sm:py-32 lg:px-8">
                 <div className="mx-auto max-w-2xl text-center">
                     {/* Überschrift */}

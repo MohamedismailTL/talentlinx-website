@@ -5,21 +5,8 @@ export default function Example({process, metadata}: any) {
     const {headline, text, process_boxes} = process.frontmatter;
 
     return (
-        <div
-            className="
-        relative
-        isolate
-        overflow-hidden
-        bg-gradient-to-br
-        from-white
-        to-brand-aqua-50
-        px-6
-        py-24
-        sm:py-32
-        lg:overflow-visible
-        lg:px-0
-        mt-16           /* <--- Mehr Abstand nach oben */
-      "
+        <div id="prozess"
+             className="relative isolate overflow-hidden bg-gradient-to-br from-white to-brand-aqua-50 px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0 mt-16"
         >
             <div className="mx-auto max-w-7xl md:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-2 gap-16 items-start">
 

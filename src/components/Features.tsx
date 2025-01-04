@@ -36,7 +36,7 @@ export default function Example({ features, children }: any) {
 	}, []);
 
 	return (
-		<div className="bg-white py-24 sm:py-32">
+		<div id="ueber-uns" className="bg-white py-24 sm:py-32">
 			<div className="mx-auto max-w-7xl px-6 lg:px-8">
 				{/* Zweispaltige Grid-Struktur
 					 - gap-16 für größeren horizontalen Abstand

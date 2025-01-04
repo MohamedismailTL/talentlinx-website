@@ -6,9 +6,9 @@ import Typewriter from './Typewriter.tsx';
 import logo from '../assets/talentlinx-logo.png';
 
 const navigation = [
-	{ name: 'Über uns', href: '#' },
-	{ name: 'Prozess', href: '#' },
-	{ name: 'Kontakt', href: '#' }
+	{ name: 'Über uns', href: '#ueber-uns' },
+	{ name: 'Prozess', href: '#prozess' },
+	{ name: 'Kontakt', href: '#kontakt' }
 ];
 
 export default function Example({ content, metadata }: any) {
