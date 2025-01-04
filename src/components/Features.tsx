@@ -47,9 +47,6 @@ export default function Example({ features, children }: any) {
 						<h2 className="lg:text-6xl text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
 							{features.frontmatter.headline}
 						</h2>
-						<p className="mt-4 text-xl text-gray-600 text-left">
-							{features.frontmatter.text}
-						</p>
 					</div>
 					{/* Rechte Spalte: Platzhalterbild */}
 					<div className="flex justify-center">
