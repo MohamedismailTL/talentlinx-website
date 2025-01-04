@@ -14,13 +14,13 @@ export default function MarkdownRenderer({content}: any) {
                     remarkPlugins={[remarkGfm]}
                     components={{
                         h1: ({node, ...props}) => (
-                            <h1 className="text-4xl md:text-5xl font-bold text-black mt-6 mb-2" {...props} />
+                            <h1 className="text-4xl md:text-5xl font-bold text-black mt-6 mb-4" {...props} />
                         ),
                         h2: ({node, ...props}) => (
-                            <h2 className="text-3xl md:text-4xl font-semibold text-black mt-6 mb-2" {...props} />
+                            <h2 className="text-3xl md:text-4xl font-semibold text-black mt-6 mb-4" {...props} />
                         ),
                         h3: ({node, ...props}) => (
-                            <h3 className="text-2xl md:text-3xl font-medium text-black mt-6 mb-2" {...props} />
+                            <h3 className="text-2xl md:text-3xl font-medium text-black mt-6 mb-4" {...props} />
                         ),
                         p: ({node, ...props}) => (
                             <p className="text-gray-700 my-2 leading-relaxed" {...props} />

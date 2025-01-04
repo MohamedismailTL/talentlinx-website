@@ -244,3 +244,12 @@ collections:
         file: "content/agb.md"
         fields:
           - { label: "Überschrift", name: "content", widget: "markdown" }
+
+  - name: "metadata"
+    label: "Metadata"
+    files:
+      - label: "Metadata Inhalt"
+        name: "metadata"
+        file: "content/metadata.md"
+        fields:
+          - { label: "CTA Link", name: "ctalink", widget: "string" }
