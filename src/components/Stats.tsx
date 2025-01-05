@@ -65,7 +65,7 @@ export default function Example({ statement }: any) {
 								}`}
 								style={{ transitionDelay: `${400 + index * 200}ms` }}
 							>
-								<dt className="text-sm font-semibold text-brand-aqua-500 pt-2">
+								<dt className="text-sm font-semibold text-brand-aqua-50 pt-2">
 									{stat.name}
 								</dt>
 								<dd className="order-first text-3xl font-bold tracking-tight text-white">

@@ -5,6 +5,8 @@ import googleCloudSummitLogo from '../assets/google-cloud-summit-logo.png';
 import webSummitLogo from '../assets/websummit-logo.png';
 import greenTechFestivalLogo from '../assets/green-tech-festival-logo.png';
 import itsaLogo from '../assets/itsa-logo.png';
+import bitsAndPretzelsLogo from '../assets/bits-and-pretzels-logo.png';
+import dmExcoLogo from '../assets/dm-exco-logo.png';
 
 // Swiper-Stile importieren
 import 'swiper/css';
@@ -46,6 +48,14 @@ export default function Example({conferences}: any) {
         {
             alt: 'ITSA',
             src: itsaLogo.src
+        },
+        {
+            alt: 'Bits & Pretzels',
+            src: bitsAndPretzelsLogo.src
+        },
+        {
+            alt: 'DM EXCO',
+            src: dmExcoLogo.src
         }
     ];
     // Duplizierte Slides für nahtloses Looping
@@ -92,7 +102,7 @@ export default function Example({conferences}: any) {
                             freeMode={true} // Ermöglicht kontinuierliches Scrollen
                             breakpoints={{
                                 640: {
-                                    slidesPerView: 3, // Ab 640px 3 Slides anzeigen
+                                    slidesPerView: 2, // Ab 640px 3 Slides anzeigen
                                     spaceBetween: 30
                                 }
                             }}
