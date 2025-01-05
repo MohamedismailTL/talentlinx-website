@@ -22,6 +22,7 @@ import techStack from '../assets/tech-stack.jpg';
 import teamSuccess from '../assets/team-success.jpg';
 import painPoints from '../assets/pain-points.svg';
 import hiringTechnologies from '../assets/hiring-technologies.png';
+import talentLinxLogo from '../assets/talentlinx-logo.png';
 import * as hero from '../../content/hero.md';
 import * as features from '../../content/features.md';
 import * as problems from '../../content/problems.md';
@@ -41,7 +42,9 @@ import * as metadata from '../../content/metadata.md';
 
 <Layout title={metadata.frontmatter.title} description={metadata.frontmatter.description}>
     <main>
-        <Hero content={hero} metadata={metadata} client:load/>
+        <Hero content={hero} metadata={metadata} client:load>
+            <Image src={talentLinxLogo} alt="TalentLinx Logo"/>
+        </Hero>
         <Features features={features} client:load>
             <Image src={painPoints} alt="Pain points"/>
         </Features>
