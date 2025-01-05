@@ -7,12 +7,12 @@ export default function Example({ statement }: any) {
 	const { statements, statistics } = statement.frontmatter;
 
 	// Statische Arrays ersetzen wir durch Mappings
-	const features = statements.map((stmt: any, index: any) => ({
+	const features = statements.map((stmt: any) => ({
 		name: stmt.statement_title,
 		description: stmt.statement_text
 	}));
 
-	const stats = statistics.map((stat: any, index: any) => ({
+	const stats = statistics.map((stat: any, index: number) => ({
 		id: index + 1,
 		name: stat.statistic_subtitle,
 		value: stat.statistic_text
@@ -34,32 +34,30 @@ export default function Example({ statement }: any) {
 
 				{/* Features Section */}
 				<section className="mb-24">
-					<dl
-						className="mx-auto grid max-w-2xl grid-cols-1 gap-8 text-gray-300 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-x-16">
-						{features.map((feature: any, index: any) => (
-							<article
+					<dl className="mx-auto grid max-w-2xl grid-cols-1 gap-8 text-gray-300 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-x-16">
+						{features.map((feature: any, index: number) => (
+							<div
 								key={feature.name}
-								className={`text-left sm:text-center transform transition-opacity transition-transform duration-700 ${
+								className={`transform transition-opacity transition-transform duration-700 ${
 									isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
 								}`}
 								style={{ transitionDelay: `${200 + index * 200}ms` }}
 							>
-								<h3 className="text-2xl sm:text-3xl lg:text-3xl font-bold text-white">
+								<dt className="text-2xl sm:text-3xl lg:text-3xl font-bold text-white">
 									{feature.name}
-								</h3>
-								<p className="mt-2 text-lg sm:text-xl lg:text-xl">
+								</dt>
+								<dd className="mt-2 text-lg sm:text-xl lg:text-xl">
 									{feature.description}
-								</p>
-							</article>
+								</dd>
+							</div>
 						))}
 					</dl>
 				</section>
 
 				{/* Stats Section */}
 				<section>
-					<dl
-						className="grid grid-cols-1 gap-0.5 overflow-hidden rounded-2xl text-center sm:grid-cols-2 lg:grid-cols-3">
-						{stats.map((stat: any, index: any) => (
+					<dl className="grid grid-cols-1 gap-0.5 overflow-hidden rounded-2xl text-center sm:grid-cols-2 lg:grid-cols-3">
+						{stats.map((stat: any, index: number) => (
 							<div
 								key={stat.id}
 								className={`flex flex-col bg-brand-primary-900/50 p-8 transform transition-opacity transition-transform duration-700 ${
