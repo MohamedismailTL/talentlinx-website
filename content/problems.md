@@ -1,9 +1,6 @@
 ---
 headline: Kennen Sie diese Herausforderungen?
-text: Nach über 400 Gesprächen mit Führungskräften sowie internen HR- und
-  Recruiting-Experten aus dem Technologie-Sektor haben wir wiederkehrende
-  Herausforderungen identifiziert, die möglicherweise auch Ihr Unternehmen
-  betreffen.
+text: Text weg
 problem_list:
   - problem: Sie erhalten unzählige Bewerbungen, aber kaum passende Kandidaten?
   - problem: Ihre offenen Stellen bleiben monatelang unbesetzt, während die

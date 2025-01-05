@@ -1,16 +1,16 @@
 ---
 headline: A-Kandidaten in 19 Tagen in Ihrem Unternehmen
 text: >-
-  Wir entwickeln eine maßgeschneiderte Roadmap für jede Position und sorgen
-  dafür, dass Sie immer im Bilde bleiben. Mit wöchentlichen Calls halten wir Sie
-  transparent und strukturiert auf dem Laufenden, sodass Sie jederzeit den
-  Fortschritt nachvollziehen können.
+  **Die Arbeit? Die nehmen wir Ihnen komplett ab.**\
 
 
-  Unser Ziel ist klar: Ihnen Zeit zu sparen, ohne dass Sie den Überblick verlieren.
+  Was heißt das für Sie?
 
 
-  Die gesamte Arbeit übernehmen wir – so können Sie sich ganz auf Ihre wichtigsten Prioritäten konzentrieren, während wir für Sie die besten Talente gewinnen.
+  Wir entwickeln eine maßgeschneiderte Roadmap für jede Position, übernehmen die gesamte Organisation und halten Sie mit wöchentlichen Calls transparent auf dem Laufenden.\
+
+
+  Unser Ziel: Ihnen die Last abnehmen und Ihre Zeit sparen, ohne dass Sie den Überblick verlieren.
 process_boxes:
   - box_title: Anforderungen und Kick-Off
     box_text: Im Kick-Off Call verstehen wir Ihre Anforderungen und Erwartungen, um
