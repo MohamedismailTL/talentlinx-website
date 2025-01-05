@@ -25,4 +25,7 @@ text: >-
 
 
   So gewinnen wir die besten Talente, die einen langfristigen Einfluss auf Ihre Organisation haben.
+bullet_points:
+  - bullet_point: Vernetzung relevanter Kanäle für eine ganzheitliche Talentansprache
+  - bullet_point: Datenbasierte Entscheidungen, die Ihre Erfolgschancen maximieren
 ---
