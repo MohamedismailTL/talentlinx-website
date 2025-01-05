@@ -43,7 +43,7 @@ import * as metadata from '../../content/metadata.md';
 <Layout title={metadata.frontmatter.title} description={metadata.frontmatter.description}>
     <main>
         <Hero content={hero} metadata={metadata} client:load>
-            <Image src={talentLinxLogo} alt="TalentLinx Logo"/>
+            <Image src={talentLinxLogo} alt="TalentLinx Logo" style="max-height: 32px; height: auto; width: auto;"/>
         </Hero>
         <Features features={features} client:load>
             <Image src={painPoints} alt="Pain points"/>
