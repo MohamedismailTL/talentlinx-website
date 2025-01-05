@@ -1,6 +1,5 @@
 // Example.tsx
 import React, {useState, useEffect} from 'react';
-import CTAButton from './CTAButton.tsx';
 import awsSummitLogo from '../assets/aws-summit-logo.png';
 import googleCloudSummitLogo from '../assets/google-cloud-summit-logo.png';
 import webSummitLogo from '../assets/websummit-logo.png';
