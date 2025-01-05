@@ -1,31 +1,12 @@
-// TestimonialsSlider.tsx
-import React, { useState, useEffect } from 'react';
-import CTAButton from './CTAButton';
+import React, {useState, useEffect} from 'react';
 
-// Swiper-Stile importieren
 import 'swiper/css';
 
-import { Swiper, SwiperSlide } from 'swiper/react';
-import { Autoplay } from 'swiper/modules';
+import {Swiper, SwiperSlide} from 'swiper/react';
+import {Autoplay} from 'swiper/modules';
 
-interface Testimonial {
-    testimonial: string;
-    person: string;
-    job_title: string;
-    company_logo?: string; // Optionales Feld
-}
 
-interface TestimonialsSliderProps {
-    testimonials: {
-        frontmatter: {
-            headline: string;
-            testimonial_boxes: Testimonial[];
-        };
-    };
-    metadata: any;
-}
-
-export default function TestimonialsSlider({ testimonials, metadata }: TestimonialsSliderProps) {
+export default function TestimonialsSlider({testimonials, metadata}: any) {
     // Debug: Konsolenausgabe, um die Daten zu prüfen
     console.log(testimonials);
 
@@ -53,7 +34,7 @@ export default function TestimonialsSlider({ testimonials, metadata }: Testimoni
                         className={`mt-2 text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl 
               transform transition-opacity transition-transform duration-700
               ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}
-                        style={{ transitionDelay: '400ms' }}
+                        style={{transitionDelay: '400ms'}}
                     >
                         {headline}
                     </p>
@@ -79,7 +60,7 @@ export default function TestimonialsSlider({ testimonials, metadata }: Testimoni
                         speed={1000} // Übergangsgeschwindigkeit
                         className="mySwiper"
                     >
-                        {testimonial_boxes.map((testimonial, index) => (
+                        {testimonial_boxes.map((testimonial: any, index: any) => (
                             <SwiperSlide key={index}>
                                 <div
                                     className={`
@@ -87,7 +68,7 @@ export default function TestimonialsSlider({ testimonials, metadata }: Testimoni
                           transform transition-opacity transition-transform duration-700 
                           ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}
                         `}
-                                    style={{ transitionDelay: `${600 + index * 200}ms` }}
+                                    style={{transitionDelay: `${600 + index * 200}ms`}}
                                 >
                                     <figure className="rounded-xl bg-gray-50 p-8 text-sm shadow-md mx-auto">
                                         <blockquote className="text-lg text-gray-800 italic leading-relaxed">
