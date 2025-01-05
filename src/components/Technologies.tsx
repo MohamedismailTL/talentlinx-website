@@ -1,8 +1,8 @@
-import { useState, useEffect } from 'react';
+import {useState, useEffect} from 'react';
 import ReactMarkdown from 'react-markdown';
 import CTAButton from './CTAButton.tsx';
 
-export default function Example({ diagram, metadata, children }: any) {
+export default function Example({diagram, metadata, children}: any) {
     const [isVisible, setIsVisible] = useState(false);
 
     // Wir lesen die Daten aus dem Frontmatter aus (title, text, bullet_points[])
@@ -29,14 +29,14 @@ export default function Example({ diagram, metadata, children }: any) {
                         className={`px-6 lg:px-0 lg:pr-4 transform transition-all duration-700 ${
                             isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
                         }`}
-                        style={{ transitionDelay: '200ms' }}
+                        style={{transitionDelay: '200ms'}}
                     >
                         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-lg">
                             <h2
-                                className={`mt-2 text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl transform transition-all duration-700 ${
+                                className={`mt-2 text-pretty text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight text-gray-900 transform transition-all duration-700 ${
                                     isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
                                 }`}
-                                style={{ transitionDelay: '200ms' }}
+                                style={{transitionDelay: '200ms'}}
                             >
                                 {title}
                             </h2>
@@ -46,7 +46,7 @@ export default function Example({ diagram, metadata, children }: any) {
                                 className={`my-6 text-lg text-gray-600 transform transition-all duration-700 ${
                                     isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
                                 }`}
-                                style={{ transitionDelay: '400ms' }}
+                                style={{transitionDelay: '400ms'}}
                             >
                                 {/* Wenn der `text` selbst Markdown sein soll, nutze ReactMarkdown: */}
                                 <ReactMarkdown>{text}</ReactMarkdown>
@@ -58,7 +58,7 @@ export default function Example({ diagram, metadata, children }: any) {
                                     className={`space-y-4 transform transition-all duration-700 ${
                                         isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
                                     }`}
-                                    style={{ transitionDelay: '600ms' }}
+                                    style={{transitionDelay: '600ms'}}
                                 >
                                     {bullet_points.map((item: { bullet_point: string }, index: number) => (
                                         <li key={index} className="flex items-start">
@@ -102,7 +102,7 @@ export default function Example({ diagram, metadata, children }: any) {
 
                             {/* CTA-Button */}
                             <div className="mt-8 w-full sm:w-auto inline-block">
-                                <CTAButton link={metadata.frontmatter.ctalink} />
+                                <CTAButton link={metadata.frontmatter.ctalink}/>
                             </div>
                         </div>
                     </div>
@@ -112,7 +112,7 @@ export default function Example({ diagram, metadata, children }: any) {
                         className={`sm:px-6 lg:px-0 transform transition-all duration-700 ${
                             isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-4'
                         }`}
-                        style={{ transitionDelay: '400ms' }}
+                        style={{transitionDelay: '400ms'}}
                     >
                         <div className="-mx-4 sm:mx-0">
                             <div className="mx-auto max-w-2xl sm:max-w-full">

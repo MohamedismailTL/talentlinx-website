@@ -43,9 +43,9 @@ export default function Example({ children, problems }: any) {
                         ${inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}
 					>
 						<div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-lg">
-							<p className="mt-2 text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
+							<h2 className="mt-2 text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight text-gray-900">
 								{problemsData.headline}
-							</p>
+							</h2>
 							<p className="mt-6 text-lg text-gray-600">
 								{problemsData.text}
 							</p>

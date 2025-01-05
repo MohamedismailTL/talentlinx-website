@@ -28,7 +28,7 @@ export default function Example({ statement }: any) {
 				<div className="mx-auto max-w-2xl lg:max-w-none">
 					<div className="text-left">
 						<h2
-							className={`text-balance lg:text-6xl text-4xl font-semibold tracking-tight text-white 
+							className={`text-balance text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight text-white 
               transform transition-opacity transition-transform duration-700 
               ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}
 							style={{ transitionDelay: '200ms' }}

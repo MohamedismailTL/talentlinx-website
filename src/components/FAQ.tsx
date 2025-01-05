@@ -7,7 +7,7 @@ export default function Example({ faq }: any) {
 		<div className="bg-white">
 			<div className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8 lg:py-40">
 				<div className="mx-auto max-w-4xl divide-y divide-gray-900/10">
-					<h2 className="text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
+					<h2 className="text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight text-gray-900">
 						{faq.frontmatter.headline}
 					</h2>
 					<dl className="mt-10 space-y-6 divide-y divide-gray-900/10">

@@ -1,5 +1,6 @@
+// Example.tsx
 import { useState, useEffect } from 'react';
-
+import CTAButton from './CTAButton';
 
 export default function Example({ statement }: any) {
 	// Exakt nur "statements" und "statistics" extrahieren
@@ -38,7 +39,7 @@ export default function Example({ statement }: any) {
 						{features.map((feature: any, index: any) => (
 							<article
 								key={feature.name}
-								className={`text-center transform transition-opacity transition-transform duration-700 ${
+								className={`text-left sm:text-center transform transition-opacity transition-transform duration-700 ${
 									isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
 								}`}
 								style={{ transitionDelay: `${200 + index * 200}ms` }}
