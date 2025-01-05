@@ -3,12 +3,18 @@ import CTAButton from './CTAButton.tsx';
 
 export default function Example({ diagram, metadata, children }: any) {
     const [isVisible, setIsVisible] = useState(false);
-    // Wir nehmen an, dass "bulletPoints" im Frontmatter existiert.
-    // z.B. diagram.frontmatter.bulletPoints = ["Punkt 1", "Punkt 2", "Punkt 3"]
-    const { title, text, bulletPoints = [] } = diagram.frontmatter;
+
+    // Aus dem Frontmatter holen wir uns:
+    // - title
+    // - text
+    // - bullet_points (Array)
+    const {
+        title,
+        text,
+        bullet_points = [], // Falls kein bullet_points existiert, setzen wir einen leeren Array als Fallback
+    } = diagram.frontmatter;
 
     useEffect(() => {
-        // Verzögere das Einblenden leicht, damit die Animation sichtbar ist
         const timer = setTimeout(() => {
             setIsVisible(true);
         }, 100);
@@ -45,18 +51,19 @@ export default function Example({ diagram, metadata, children }: any) {
                                 {text}
                             </p>
 
-                            {/* Dynamische Aufzählung */}
-                            {bulletPoints.length > 0 && (
+                            {/* Dynamische Aufzählungspunkte */}
+                            {bullet_points.length > 0 && (
                                 <ul
                                     className={`space-y-4 transform transition-all duration-700 ${
                                         isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
                                     }`}
                                     style={{ transitionDelay: '600ms' }}
                                 >
-                                    {bulletPoints.map((point: string, index: number) => (
+                                    {bullet_points.map((item: { bullet_point: string }, index: number) => (
                                         <li key={index} className="flex items-start">
+                                            {/* Kleiner, runder Hintergrund */}
                                             <span className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-brand-aqua-500 text-white mr-3">
-                                                {/* Kleineres Icon */}
+                        {/* Kleines Check-Icon */}
                                                 <svg
                                                     className="h-4 w-4"
                                                     fill="none"
@@ -65,22 +72,22 @@ export default function Example({ diagram, metadata, children }: any) {
                                                     viewBox="0 0 24 24"
                                                     aria-hidden="true"
                                                 >
-                                                    <path
-                                                        strokeLinecap="round"
-                                                        strokeLinejoin="round"
-                                                        d="M5 13l4 4L19 7"
-                                                    />
-                                                </svg>
-                                            </span>
+                          <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              d="M5 13l4 4L19 7"
+                          />
+                        </svg>
+                      </span>
                                             <p className="text-base text-gray-700">
-                                                {point}
+                                                {item.bullet_point}
                                             </p>
                                         </li>
                                     ))}
                                 </ul>
                             )}
 
-                            {/* Button-Container */}
+                            {/* CTA-Button */}
                             <div className="mt-8 w-full sm:w-auto inline-block">
                                 <CTAButton link={metadata.frontmatter.ctalink} />
                             </div>
