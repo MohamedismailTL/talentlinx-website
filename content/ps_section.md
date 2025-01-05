@@ -1,5 +1,5 @@
 ---
-headline: "Schnell, Nachhaltig, Sicher. "
+headline: "Das leben wir. "
 text: Erfolgreiches Recruiting bedeutet, die richtigen Talente zu finden –
   sowohl fachlich als auch kulturell. Mit einem klaren Fokus auf langfristigen
   Erfolg wird sichergestellt, dass die ausgewählten Kandidaten nicht nur zum
