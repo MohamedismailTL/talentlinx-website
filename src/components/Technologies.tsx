@@ -3,8 +3,9 @@ import CTAButton from './CTAButton.tsx';
 
 export default function Example({ diagram, metadata, children }: any) {
     const [isVisible, setIsVisible] = useState(false);
-    const { title, text } = diagram.frontmatter;
-    console.log(metadata.frontmatter.ctalink);
+    // Wir nehmen an, dass "bulletPoints" im Frontmatter existiert.
+    // z.B. diagram.frontmatter.bulletPoints = ["Punkt 1", "Punkt 2", "Punkt 3"]
+    const { title, text, bulletPoints = [] } = diagram.frontmatter;
 
     useEffect(() => {
         // Verzögere das Einblenden leicht, damit die Animation sichtbar ist
@@ -44,12 +45,43 @@ export default function Example({ diagram, metadata, children }: any) {
                                 {text}
                             </p>
 
-                            {/*
-                Button-Container:
-                - Auf mobilen Viewports (unter "sm") -> w-full
-                - Ab "sm" -> w-auto (oder w-fit), damit der Button nur so breit wie der Inhalt ist
-              */}
-                            <div className="w-full sm:w-auto inline-block">
+                            {/* Dynamische Aufzählung */}
+                            {bulletPoints.length > 0 && (
+                                <ul
+                                    className={`space-y-4 transform transition-all duration-700 ${
+                                        isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
+                                    }`}
+                                    style={{ transitionDelay: '600ms' }}
+                                >
+                                    {bulletPoints.map((point: string, index: number) => (
+                                        <li key={index} className="flex items-start">
+                                            <span className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-brand-aqua-500 text-white mr-3">
+                                                {/* Kleineres Icon */}
+                                                <svg
+                                                    className="h-4 w-4"
+                                                    fill="none"
+                                                    stroke="currentColor"
+                                                    strokeWidth="2"
+                                                    viewBox="0 0 24 24"
+                                                    aria-hidden="true"
+                                                >
+                                                    <path
+                                                        strokeLinecap="round"
+                                                        strokeLinejoin="round"
+                                                        d="M5 13l4 4L19 7"
+                                                    />
+                                                </svg>
+                                            </span>
+                                            <p className="text-base text-gray-700">
+                                                {point}
+                                            </p>
+                                        </li>
+                                    ))}
+                                </ul>
+                            )}
+
+                            {/* Button-Container */}
+                            <div className="mt-8 w-full sm:w-auto inline-block">
                                 <CTAButton link={metadata.frontmatter.ctalink} />
                             </div>
                         </div>

@@ -56,8 +56,6 @@ collections:
           - label: "Liste an Problemen"
             name: "problem_list"
             widget: "list"
-            min: 7
-            max: 7
             fields:
               - { label: "Problem", name: "problem", widget: "markdown" }
 
@@ -88,6 +86,11 @@ collections:
         fields:
           - { label: "Titel", name: "title", widget: "string" }
           - { label: "Text", name: "text", widget: "markdown" }
+          - label: "Bullet Points"
+            name: "bullet_points"
+            widget: "list"
+            fields:
+              - { label: "Bullet Point", name: "bullet_point", widget: "markdown" }
 
   - name: "comparison"
     label: "Vergleich"
