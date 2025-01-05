@@ -57,11 +57,6 @@ export default function Comparison({ comparison, metadata }: any) {
                 </h2>
             </div>
 
-            {/* CTA Button (bleibt zentriert auf allen Screens) */}
-            <div className="flex justify-center mt-10">
-                <CTAButton link={metadata.frontmatter.ctalink} />
-            </div>
-
             {/* Zwei Boxen nebeneinander */}
             <div
                 className="mx-auto mt-16 grid max-w-lg grid-cols-1 gap-y-6
@@ -124,6 +119,11 @@ export default function Comparison({ comparison, metadata }: any) {
                         ))}
                     </ul>
                 </div>
+            </div>
+
+            {/* CTA Button (bleibt zentriert auf allen Screens) */}
+            <div className="flex justify-center mt-10">
+                <CTAButton link={metadata.frontmatter.ctalink} />
             </div>
         </div>
     );
