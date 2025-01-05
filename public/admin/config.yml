@@ -172,6 +172,11 @@ collections:
               - { label: "Testimonial", name: "testimonial", widget: "text" }
               - { label: "Person", name: "person", widget: "string" }
               - { label: "Berufsbezeichnung", name: "job_title", widget: "string" }
+              - label: "Firmenlogo"
+                name: "company_logo"
+                widget: "image"
+                required: false
+                hint: "Optional: Lade das Firmenlogo der Person hoch."
 
   - name: "cta"
     label: "CTA"
