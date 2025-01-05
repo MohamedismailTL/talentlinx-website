@@ -12,12 +12,12 @@ function Step({ step: boxStep, index }: StepProps) {
 	return (
 		<div
 			className="
-        sticky top-16  /* Leicht nach unten versetzt */
+        sticky top-16
         bg-white
         rounded-2xl
         flex items-center
         mx-auto
-        px-6 py-4
+        px-6 py-6  /* Mehr vertikales Padding */
         w-full
         max-w-sm
         sm:max-w-md
@@ -33,11 +33,11 @@ function Step({ step: boxStep, index }: StepProps) {
 			{/* Kreis mit Nummerierung */}
 			<div
 				className="
-          w-14 h-14
+          w-12 h-12
           flex items-center justify-center
           bg-brand-aqua-600
           text-white
-          text-2xl
+          text-xl  /* Kleinere Schrift für die Nummerierung */
           font-bold
           rounded-full
           mr-6
@@ -49,10 +49,10 @@ function Step({ step: boxStep, index }: StepProps) {
 
 			{/* Text-Content */}
 			<div className="flex-1">
-				<h3 className="text-xl sm:text-2xl font-semibold text-gray-900">
+				<h3 className="text-lg sm:text-xl font-semibold text-gray-900">
 					{boxStep.box_title}
 				</h3>
-				<p className="mt-3 text-base sm:text-lg text-gray-700">
+				<p className="mt-3 text-sm sm:text-base text-gray-600">
 					{boxStep.box_text}
 				</p>
 			</div>

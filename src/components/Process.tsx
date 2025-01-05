@@ -16,7 +16,7 @@ export default function Example({process, metadata}: any) {
                         <h1 className="mt-2 text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
                             {headline}
                         </h1>
-                        <p className="mt-6 text-xl text-gray-700">{text}</p>
+                        <p className="mt-6 text-lg text-gray-600">{text}</p>
                         <div className="mt-8 flex justify-center md:justify-start">
                             <CTAButton link={metadata.frontmatter.ctalink}/>
                         </div>
@@ -33,7 +33,6 @@ export default function Example({process, metadata}: any) {
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     );
