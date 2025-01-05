@@ -1,8 +1,32 @@
+import React from 'react';
 import Step from './Step';
 import CTAButton from './CTAButton';
+import ReactMarkdown from 'react-markdown';
 
-export default function Example({ process, metadata }: any) {
+interface ExampleProps {
+    process: any;
+    metadata: any;
+}
+
+const Example: React.FC<ExampleProps> = ({ process, metadata }) => {
     const { headline, text, process_boxes } = process.frontmatter;
+
+    // Anpassung der Markdown-Komponenten (optional)
+    const markdownComponents = {
+        a({ href, children }: any) {
+            return (
+                <a
+                    href={href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-brand-blue-500 hover:underline"
+                >
+                    {children}
+                </a>
+            );
+        },
+        // Weitere Anpassungen können hier hinzugefügt werden
+    };
 
     return (
         <div
@@ -14,14 +38,16 @@ export default function Example({ process, metadata }: any) {
                 {/* Linker Sticky-Abschnitt */}
                 <div className="sticky top-16 z-10">
                     <div className="max-w-3xl mx-auto text-left">
-                        {/* Überschrift kleiner (3xl auf Mobile) und linksbündig */}
+                        {/* Überschrift */}
                         <h2 className="mt-2 text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight text-gray-900">
                             {headline}
                         </h2>
-                        {/* Text ebenfalls linksbündig */}
-                        <p className="mt-6 text-lg text-gray-600">
-                            {text}
-                        </p>
+                        {/* Markdown Text */}
+                        <div className="mt-6 text-lg text-gray-600">
+                            <ReactMarkdown components={markdownComponents}>
+                                {text}
+                            </ReactMarkdown>
+                        </div>
                         {/* CTAButton mit mehr Abstand nach unten */}
                         <div className="mt-8 mb-16 flex justify-start">
                             <CTAButton link={metadata.frontmatter.ctalink} />
@@ -43,4 +69,6 @@ export default function Example({ process, metadata }: any) {
             </div>
         </div>
     );
-}
+};
+
+export default Example;
