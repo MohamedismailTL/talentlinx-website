@@ -1,3 +1,4 @@
+// Step.tsx
 import React from 'react';
 
 interface StepProps {
@@ -30,22 +31,18 @@ function Step({ step: boxStep, index }: StepProps) {
 				position: 'sticky', // Für maximale Kompatibilität
 			}}
 		>
-			{/* Kreis mit Nummerierung */}
-			<div
+			{/* Nummerierung ohne Hintergrund */}
+			<span
 				className="
-          w-12 h-12
-          flex items-center justify-center
-          bg-brand-aqua-600
-          text-white
-          text-xl  /* Kleinere Schrift für die Nummerierung */
+          text-brand-aqua-600  /* Blaue Farbe für die Nummer */
           font-bold
-          rounded-full
+          text-4xl  /* Erhöhte Schriftgröße der Nummer */
           mr-6
           shrink-0
         "
 			>
-				{index + 1}
-			</div>
+        {index + 1}
+      </span>
 
 			{/* Text-Content */}
 			<div className="flex-1">
