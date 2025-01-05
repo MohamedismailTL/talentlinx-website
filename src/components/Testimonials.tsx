@@ -8,7 +8,24 @@ import 'swiper/css';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay } from 'swiper/modules';
 
-export default function TestimonialsSlider({ testimonials, metadata }: any) {
+interface Testimonial {
+    testimonial: string;
+    person: string;
+    job_title: string;
+    company_logo?: string; // Optionales Feld
+}
+
+interface TestimonialsSliderProps {
+    testimonials: {
+        frontmatter: {
+            headline: string;
+            testimonial_boxes: Testimonial[];
+        };
+    };
+    metadata: any;
+}
+
+export default function TestimonialsSlider({ testimonials, metadata }: TestimonialsSliderProps) {
     // Debug: Konsolenausgabe, um die Daten zu prüfen
     console.log(testimonials);
 
@@ -41,7 +58,7 @@ export default function TestimonialsSlider({ testimonials, metadata }: any) {
                         {headline}
                     </p>
 
-                    {/*/!* Zentrierter Button mit mehr Abstand nach oben *!/*/}
+                    {/* Zentrierter Button mit mehr Abstand nach oben */}
                     {/*<div className="flex justify-center mt-8">*/}
                     {/*    <CTAButton link={metadata.frontmatter.ctalink} />*/}
                     {/*</div>*/}
@@ -62,7 +79,7 @@ export default function TestimonialsSlider({ testimonials, metadata }: any) {
                         speed={1000} // Übergangsgeschwindigkeit
                         className="mySwiper"
                     >
-                        {testimonial_boxes.map((testimonial: any, index: any) => (
+                        {testimonial_boxes.map((testimonial, index) => (
                             <SwiperSlide key={index}>
                                 <div
                                     className={`
@@ -76,11 +93,20 @@ export default function TestimonialsSlider({ testimonials, metadata }: any) {
                                         <blockquote className="text-lg text-gray-800 italic leading-relaxed">
                                             <p>{testimonial.testimonial}</p>
                                         </blockquote>
-                                        <figcaption className="mt-6">
-                                            <div className="font-bold text-gray-900">
-                                                {testimonial.person}
+                                        <figcaption className="mt-6 flex items-center space-x-4">
+                                            {testimonial.company_logo && (
+                                                <img
+                                                    src={testimonial.company_logo}
+                                                    alt={`${testimonial.person} - ${testimonial.job_title}`}
+                                                    className="w-16 h-16 object-contain"
+                                                />
+                                            )}
+                                            <div>
+                                                <div className="font-bold text-gray-900">
+                                                    {testimonial.person}
+                                                </div>
+                                                <div className="text-gray-600">{testimonial.job_title}</div>
                                             </div>
-                                            <div className="text-gray-600">{testimonial.job_title}</div>
                                         </figcaption>
                                     </figure>
                                 </div>
