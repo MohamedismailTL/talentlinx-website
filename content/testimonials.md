@@ -7,6 +7,7 @@ testimonial_boxes:
       tech industry, any minute spent with Mohamed adds value.”
     person: Sven Scheffler
     job_title: COO @Ströer Content Group
+    company_logo: /src/assets/aws-summit-logo.png
   - testimonial: “I had the pleasure of working with Mohamed when he placed me in my
       current role. Mohamed was professional, straightforward, and efficient
       throughout the entire process. He took the time to understand my career
