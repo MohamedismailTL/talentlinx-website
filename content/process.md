@@ -5,11 +5,13 @@ text: >-
 
   \
 
-  Was heißt das für Sie?
+  Was heißt das für Sie?\
 
+  \
 
-  Wir entwickeln eine maßgeschneiderte Roadmap für jede Position, übernehmen die gesamte Organisation und halten Sie mit wöchentlichen Calls transparent auf dem Laufenden.
+  Wir entwickeln eine maßgeschneiderte Roadmap für jede Position, übernehmen die gesamte Organisation und halten Sie mit wöchentlichen Calls transparent auf dem Laufenden.\
 
+  \
 
   Unser Ziel: Ihnen die Last abnehmen und Ihre Zeit sparen, ohne dass Sie den Überblick verlieren.
 process_boxes:
