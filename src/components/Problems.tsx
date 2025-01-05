@@ -46,9 +46,6 @@ export default function Example({ children, problems }: any) {
 							<h2 className="mt-2 text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight text-gray-900">
 								{problemsData.headline}
 							</h2>
-							<p className="mt-6 text-lg text-gray-600">
-								{problemsData.text}
-							</p>
 							<dl className="mt-10 max-w-xl space-y-8 text-base text-gray-600 lg:max-w-none">
 								{problemsData.problemList.map((feature: any, index: any) => (
 									<div

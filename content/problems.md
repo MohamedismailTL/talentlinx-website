@@ -1,6 +1,5 @@
 ---
 headline: Kennen Sie diese Herausforderungen?
-text: Text weg
 problem_list:
   - problem: Sie erhalten unzählige Bewerbungen, aber kaum passende Kandidaten?
   - problem: Ihre offenen Stellen bleiben monatelang unbesetzt, während die
