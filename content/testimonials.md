@@ -25,4 +25,5 @@ testimonial_boxes:
       Dank und gerne wieder.”
     person: Stephan Delkus
     job_title: CEO @Itslearning
+    company_logo: /src/assets/itslearning-logo.png
 ---
