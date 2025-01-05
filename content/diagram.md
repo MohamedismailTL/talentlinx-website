@@ -28,4 +28,9 @@ text: >-
 bullet_points:
   - bullet_point: Vernetzung relevanter Kanäle für eine ganzheitliche Talentansprache
   - bullet_point: Datenbasierte Entscheidungen, die Ihre Erfolgschancen maximieren
+  - bullet_point: Automatisierte Alerts und Monitoring für aktive und passive Kandidaten
+  - bullet_point: Market Mapping und Konkurrenzanalysen, um Top-Kandidaten schnell
+      zu identifizieren
+  - bullet_point: Frühzeitige Erkennung von Gehaltstrends, um wettbewerbsfähig zu bleiben
+  - bullet_point: Durchgehende Kommunikation mit Kandidaten durch automatisierte Workflows
 ---
