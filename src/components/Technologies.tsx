@@ -1,17 +1,15 @@
 import { useState, useEffect } from 'react';
+import ReactMarkdown from 'react-markdown';
 import CTAButton from './CTAButton.tsx';
 
 export default function Example({ diagram, metadata, children }: any) {
     const [isVisible, setIsVisible] = useState(false);
 
-    // Aus dem Frontmatter holen wir uns:
-    // - title
-    // - text
-    // - bullet_points (Array)
+    // Wir lesen die Daten aus dem Frontmatter aus (title, text, bullet_points[])
     const {
         title,
         text,
-        bullet_points = [], // Falls kein bullet_points existiert, setzen wir einen leeren Array als Fallback
+        bullet_points = [],
     } = diagram.frontmatter;
 
     useEffect(() => {
@@ -42,16 +40,19 @@ export default function Example({ diagram, metadata, children }: any) {
                             >
                                 {title}
                             </h2>
-                            <p
+
+                            {/* Haupt-Text (Markdown optional, falls du das willst) */}
+                            <div
                                 className={`my-6 text-lg text-gray-600 transform transition-all duration-700 ${
                                     isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
                                 }`}
                                 style={{ transitionDelay: '400ms' }}
                             >
-                                {text}
-                            </p>
+                                {/* Wenn der `text` selbst Markdown sein soll, nutze ReactMarkdown: */}
+                                <ReactMarkdown>{text}</ReactMarkdown>
+                            </div>
 
-                            {/* Dynamische Aufzählungspunkte */}
+                            {/* Dynamische Aufzählung mit Markdown-Unterstützung */}
                             {bullet_points.length > 0 && (
                                 <ul
                                     className={`space-y-4 transform transition-all duration-700 ${
@@ -61,17 +62,28 @@ export default function Example({ diagram, metadata, children }: any) {
                                 >
                                     {bullet_points.map((item: { bullet_point: string }, index: number) => (
                                         <li key={index} className="flex items-start">
-                                            {/* Kleiner, runder Hintergrund */}
-                                            <span className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-brand-aqua-500 text-white mr-3">
-                        {/* Kleines Check-Icon */}
-                                                <svg
-                                                    className="h-4 w-4"
-                                                    fill="none"
-                                                    stroke="currentColor"
-                                                    strokeWidth="2"
-                                                    viewBox="0 0 24 24"
-                                                    aria-hidden="true"
-                                                >
+                      <span
+                          className="
+                          flex-shrink-0
+                          inline-flex
+                          items-center
+                          justify-center
+                          h-6 w-6
+                          rounded-full
+                          bg-brand-aqua-500
+                          text-white
+                          mr-3
+                          mt-1
+                        "
+                      >
+                        <svg
+                            className="h-3.5 w-3.5"
+                            fill="none"
+                            stroke="currentColor"
+                            strokeWidth="2"
+                            viewBox="0 0 24 24"
+                            aria-hidden="true"
+                        >
                           <path
                               strokeLinecap="round"
                               strokeLinejoin="round"
@@ -79,9 +91,10 @@ export default function Example({ diagram, metadata, children }: any) {
                           />
                         </svg>
                       </span>
-                                            <p className="text-base text-gray-700">
-                                                {item.bullet_point}
-                                            </p>
+                                            {/* Bulletpoint-Text als Markdown */}
+                                            <div className="text-base text-gray-600">
+                                                <ReactMarkdown>{item.bullet_point}</ReactMarkdown>
+                                            </div>
                                         </li>
                                     ))}
                                 </ul>
