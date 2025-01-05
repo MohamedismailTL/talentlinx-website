@@ -41,10 +41,10 @@ export default function TestimonialsSlider({ testimonials, metadata }: any) {
                         {headline}
                     </p>
 
-                    {/* Zentrierter Button mit mehr Abstand nach oben */}
-                    <div className="flex justify-center mt-8">
-                        <CTAButton link={metadata.frontmatter.ctalink} />
-                    </div>
+                    {/*/!* Zentrierter Button mit mehr Abstand nach oben *!/*/}
+                    {/*<div className="flex justify-center mt-8">*/}
+                    {/*    <CTAButton link={metadata.frontmatter.ctalink} />*/}
+                    {/*</div>*/}
                 </div>
 
                 {/* Testimonials Slider */}
