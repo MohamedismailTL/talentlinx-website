@@ -35,9 +35,10 @@ export default function Example({ children, problems }: any) {
 	}, []);
 
 	return (
-		<div ref={sectionRef} className="overflow-hidden bg-white py-24 sm:py-32">
+		<div ref={sectionRef} className="overflow-hidden bg-white py-12 sm:py-32"> {/* Reduzierter Padding */}
 			<div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-				<div className="grid grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:grid-cols-2 lg:items-start">
+				{/* Zweispaltige Grid-Struktur */}
+				<div className="grid grid-cols-1 gap-x-8 gap-y-8 sm:gap-y-20 lg:grid-cols-2 lg:items-start"> {/* Reduzierter gap-y von 16 auf 8 */}
 					<div
 						className={`px-6 lg:px-0 lg:pr-4 lg:pt-4 transform transition-all duration-700 ease-out
                         ${inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}
@@ -46,7 +47,7 @@ export default function Example({ children, problems }: any) {
 							<h2 className="mt-2 text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight text-gray-900">
 								{problemsData.headline}
 							</h2>
-							<dl className="mt-10 max-w-xl space-y-8 text-base text-gray-600 lg:max-w-none">
+							<dl className="mt-6 max-w-xl space-y-8 text-base text-gray-600 lg:max-w-none"> {/* Reduzierter mt von 10 auf 6 */}
 								{problemsData.problemList.map((feature: any, index: any) => (
 									<div
 										key={feature.name}
@@ -72,7 +73,7 @@ export default function Example({ children, problems }: any) {
 					<div className="sm:px-6 lg:px-0 -mx-4 sm:-mx-0">
 						<div className="mx-auto max-w-2xl sm:mx-0 sm:max-w-full">
 							<div
-								className="-mb-12 w-full max-w-full rounded-none md:rounded-2xl shadow-lg overflow-hidden"
+								className="-mb-6 w-full max-w-full rounded-none md:rounded-2xl shadow-lg overflow-hidden"
 							>
 								{children}
 							</div>

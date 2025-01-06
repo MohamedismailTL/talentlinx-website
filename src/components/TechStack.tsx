@@ -17,11 +17,11 @@ export default function Example({ technologies, children }: any) {
 		<div className="bg-white py-24 sm:py-32">
 			<div className="mx-auto max-w-7xl px-6 lg:px-8">
 				<div
-					className="mx-auto grid max-w-2xl grid-cols-1 items-center gap-x-8 gap-y-16 sm:gap-y-24 lg:mx-0 lg:max-w-none lg:grid-cols-2">
-
-					{/* Bild auf der linken Seite */}
+					className="mx-auto grid max-w-2xl grid-cols-1 items-center gap-x-8 gap-y-16 sm:gap-y-24 lg:mx-0 lg:max-w-none lg:grid-cols-2"
+				>
+					{/* Bild auf der linken Seite (mobile: zweite Position) */}
 					<div
-						className={`relative overflow-hidden rounded-2xl shadow-lg lg:max-w-lg transform transition-opacity transition-transform duration-700 ${
+						className={`relative overflow-hidden rounded-2xl shadow-lg lg:max-w-lg transform transition-opacity transition-transform duration-700 order-2 lg:order-1 ${
 							isVisible
 								? 'opacity-100 translate-x-0'
 								: 'opacity-0 -translate-x-4'
@@ -31,9 +31,9 @@ export default function Example({ technologies, children }: any) {
 						{children}
 					</div>
 
-					{/* Inhalt auf der rechten Seite */}
+					{/* Inhalt auf der rechten Seite (mobile: erste Position) */}
 					<div
-						className={`transform transition-opacity transition-transform duration-700 ${
+						className={`transform transition-opacity transition-transform duration-700 order-1 lg:order-2 ${
 							isVisible
 								? 'opacity-100 translate-x-0'
 								: 'opacity-0 translate-x-4'

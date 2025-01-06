@@ -2,7 +2,6 @@
 import React, {useState, useEffect} from 'react';
 import CTAButton from './CTAButton.tsx';
 
-
 export default function Example({cta, metadata}: any) {
     const [isVisible, setIsVisible] = useState(false);
     const {headline, subtitle} = cta.frontmatter;
@@ -17,13 +16,16 @@ export default function Example({cta, metadata}: any) {
     }, []);
 
     return (
-        <div id="kontakt"
-             className="relative isolate overflow-hidden bg-gradient-to-br from-brand-aqua-800 to-brand-aqua-900">
+        <div
+            id="kontakt"
+            className="relative isolate overflow-hidden bg-gradient-to-br from-brand-aqua-800 to-brand-aqua-900"
+        >
             <div className="px-6 py-24 sm:px-6 sm:py-32 lg:px-8">
-                <div className="mx-auto max-w-2xl text-center">
+                {/* Angepasster Textausrichtungs-Container */}
+                <div className="mx-auto max-w-2xl text-left lg:text-center">
                     {/* Überschrift */}
                     <h2
-                        className={`text-balance text-4xl lg:text-6xl font-semibold tracking-tight text-white 
+                        className={`text-balance text-3xl lg:text-5xl font-semibold tracking-tight text-white 
                         transform transition-opacity transition-transform duration-700 
                         ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}
                         style={{transitionDelay: '200ms'}} // Verzögerung für die Überschrift

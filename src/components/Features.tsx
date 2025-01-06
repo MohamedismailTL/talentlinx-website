@@ -36,34 +36,34 @@ export default function Example({ features, children }: any) {
     }, []);
 
     return (
-        <div id="ueber-uns" className="bg-white py-24 sm:py-32">
+        <div id="ueber-uns" className="bg-white py-12 sm:py-32">
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
                 {/* Zweispaltige Grid-Struktur */}
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 items-center">
                     {/* Linke Spalte: Headline + Text */}
-                    <div>
+                    <div className="mt-4 sm:mt-0">
                         {/*
-              Überschrift für Mobile verkleinern (text-3xl) und zentrieren (text-center).
-              Ab Tablet-Größe (sm:) wird sie etwas größer und linksbündig.
-            */}
+                            Überschrift für Mobile verkleinern (text-3xl) und zentrieren (text-center).
+                            Ab Tablet-Größe (sm:) wird sie etwas größer und linksbündig.
+                        */}
                         <h2 className="text-3xl sm:text-5xl lg:text-6xl font-semibold tracking-tight text-gray-900 text-center sm:text-left">
                             {features.frontmatter.headline}
                         </h2>
                     </div>
 
                     {/* Rechte Spalte: Bild ({children}).
-              Verringere den Abstand oben/unten speziell für mobile Screens.
-              Hier z.B. py-8 statt py-24 auf Mobile, und bei größeren Screens bleibt mehr Platz.
-          */}
-                    <div className="flex justify-center py-8 sm:py-16">
+                        Verringere den Abstand oben/unten speziell für mobile Screens.
+                        Hier z.B. py-4 statt py-8 auf Mobile, und bei größeren Screens bleibt mehr Platz.
+                    */}
+                    <div className="flex justify-center py-4 sm:py-16">
                         {children}
                     </div>
                 </div>
 
-                {/* Der Rest bleibt identisch (Boxen etc.) */}
+                {/* Der Rest bleibt größtenteils identisch */}
                 <div
                     ref={containerRef}
-                    className="mx-auto mt-24 grid max-w-2xl grid-cols-1 gap-y-8
+                    className="mx-auto mt-12 sm:mt-24 grid max-w-2xl grid-cols-1 gap-y-8
                      sm:grid-cols-2 sm:gap-x-8 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-8 items-stretch"
                 >
                     {featureList.map((feature: any, index: any) => {

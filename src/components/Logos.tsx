@@ -1,5 +1,5 @@
 // Example.tsx
-import React, {useState, useEffect} from 'react';
+import React, { useState, useEffect } from 'react';
 import awsSummitLogo from '../assets/aws-summit-logo.png';
 import googleCloudSummitLogo from '../assets/google-cloud-summit-logo.png';
 import webSummitLogo from '../assets/websummit-logo.png';
@@ -11,11 +11,11 @@ import dmExcoLogo from '../assets/dm-exco-logo.png';
 // Swiper-Stile importieren
 import 'swiper/css';
 
-import {Swiper, SwiperSlide} from 'swiper/react';
-import {Autoplay} from 'swiper/modules';
+import { Swiper, SwiperSlide } from 'swiper/react';
+import { Autoplay } from 'swiper/modules';
 
-export default function Example({conferences}: any) {
-    const {headline, text} = conferences.frontmatter;
+export default function Example({ conferences }: any) {
+    const { headline, text } = conferences.frontmatter;
     const [isVisible, setIsVisible] = useState(false);
 
     useEffect(() => {
@@ -72,9 +72,9 @@ export default function Example({conferences}: any) {
                         className={`w-full lg:w-1/2 transform transition-opacity transition-transform duration-700 ${
                             isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-4'
                         }`}
-                        style={{transitionDelay: '200ms'}} // Verzögerung für den Textbereich
+                        style={{ transitionDelay: '200ms' }} // Verzögerung für den Textbereich
                     >
-                        <div className="text-center lg:text-left">
+                        <div className="text-left"> {/* Geändert von text-center lg:text-left zu text-left */}
                             <h2 className="text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight text-white">
                                 {headline}
                             </h2>
@@ -86,7 +86,7 @@ export default function Example({conferences}: any) {
                         className={`w-full lg:w-1/2 transform transition-opacity transition-transform duration-700 ${
                             isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-4'
                         }`}
-                        style={{transitionDelay: '400ms'}} // Verzögerung für den Slider
+                        style={{ transitionDelay: '400ms' }} // Verzögerung für den Slider
                     >
                         <Swiper
                             modules={[Autoplay]} // Nur Autoplay-Modul verwenden
@@ -102,7 +102,7 @@ export default function Example({conferences}: any) {
                             freeMode={true} // Ermöglicht kontinuierliches Scrollen
                             breakpoints={{
                                 640: {
-                                    slidesPerView: 2, // Ab 640px 3 Slides anzeigen
+                                    slidesPerView: 3, // Ab 640px 3 Slides anzeigen
                                     spaceBetween: 30
                                 }
                             }}

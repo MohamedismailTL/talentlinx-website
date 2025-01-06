@@ -31,7 +31,7 @@ const Example: React.FC<ExampleProps> = ({ process, metadata }) => {
     return (
         <div
             id="prozess"
-            className="relative isolate overflow-hidden bg-gradient-to-br from-white to-brand-aqua-50 px-6 py-16 sm:py-32 lg:overflow-visible lg:px-0 mt-16"
+            className="relative isolate overflow-hidden bg-gradient-to-br from-white to-brand-aqua-50 px-6 pb-16 sm:py-32 lg:overflow-visible lg:px-0 mt-16"
         >
             <div className="mx-auto max-w-7xl md:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-2 gap-16 items-start">
 
