@@ -103,10 +103,4 @@ content: >
 
 
   Wir haben einen Vertrag über Auftragsverarbeitung (AVV) zur Nutzung des oben genannten Dienstes geschlossen. Hierbei handelt es sich um einen datenschutzrechtlich vorgeschriebenen Vertrag, der gewährleistet, dass dieser die personenbezogenen Daten unserer Websitebesucher nur nach unseren Weisungen und unter Einhaltung der DSGVO verarbeitet.
-
-
-  ---
-
-
-  Dieser Abschnitt enthält die Kerninformationen Ihrer Datenschutzerklärung in Markdown. Soll ich weitere Abschnitte ausarbeiten oder optimieren?
 ---
