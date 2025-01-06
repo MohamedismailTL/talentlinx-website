@@ -79,7 +79,7 @@ export default function TestimonialsSlider({testimonials, metadata}: any) {
                                                 <img
                                                     src={testimonial.company_logo}
                                                     alt={`${testimonial.person} - ${testimonial.job_title}`}
-                                                    className="w-16 h-16 object-contain"
+                                                    className="w-16 h-16 object-contain rounded-md"
                                                 />
                                             )}
                                             <div>

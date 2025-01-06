@@ -7,8 +7,8 @@ backend:
   branch: main
   base_url: "https://decap-proxy.mohamed-ismail.workers.dev/"
 
-media_folder: "/src/assets"
-public_folder: "/src/assets"
+media_folder: "/public/assets"
+public_folder: "/public/assets"
 
 collections:
   - name: "hero"

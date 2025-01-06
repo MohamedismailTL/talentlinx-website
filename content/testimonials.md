@@ -7,7 +7,7 @@ testimonial_boxes:
       tech industry, any minute spent with Mohamed adds value.”
     person: Sven Scheffler
     job_title: COO @Ströer Content Group
-    company_logo: /src/assets/stroer-logo.png
+    company_logo: /public/assets/stroer-logo.png
   - testimonial: “I had the pleasure of working with Mohamed when he placed me in my
       current role. Mohamed was professional, straightforward, and efficient
       throughout the entire process. He took the time to understand my career
@@ -17,7 +17,7 @@ testimonial_boxes:
       opportunities or any organization looking for an effective recruiter.”
     person: Christian Fischer
     job_title: Director of Engineering @Erblotse
-    company_logo: /src/assets/erblotse-logo.png
+    company_logo: /public/assets/erblotse-logo.png
   - testimonial: „Die von uns gestellten Herausforderungen wurden hervorragend
       gelöst. Binnen kurzer Zeit stand eine sehr gute Auswahl an Kandidat:innen
       zur Verfügung. Der Interviewprozess wurde entschlossen und transparent
@@ -25,5 +25,5 @@ testimonial_boxes:
       Dank und gerne wieder.”
     person: Stephan Delkus
     job_title: CEO @Itslearning
-    company_logo: /src/assets/itslearning-logo.png
+    company_logo: /public/assets/itslearning-logo.png
 ---
