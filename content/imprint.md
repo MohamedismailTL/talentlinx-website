@@ -1,45 +1,45 @@
 ---
-content: >
+content: >-
   # Impressum
 
 
-  TalentLinx GmbH  
+  TalentLinx GmbH\
 
-  Berlin  
+  \[Straße und Hausnummer]\
 
-  90461 Berlin
-
-
-  Handelsregister: HRA12345  
-
-  Registergericht: Berlin
+  \[Postleitzahl und Ort]
 
 
-  **Vertreten durch:**  
+  Handelsregister: \[Registernummer]\
 
-  Mohamad
+  Registergericht: \[Stadt]
+
+
+  **Vertreten durch:**\
+
+  \[Geschäftsführer]
 
 
   ## Kontakt
 
 
-  Telefon: +49 1511 0465794  
+  Telefon: \[Telefon]\
 
-  E-Mail: [info@talentlinx.de](mailto:info@talentlinx.de)
+  E-Mail: \[E-Mail]
 
 
   ## Umsatzsteuer-ID
 
 
-  Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:  
+  Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:\
 
-  DE264621127
+  \[Umsatzsteuer-ID]
 
 
   ## EU-Streitschlichtung
 
 
-  Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/).  
+  Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <https://ec.europa.eu/consumers/odr/>.\
 
   Unsere E-Mail-Adresse finden Sie oben im Impressum.
 
