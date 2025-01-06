@@ -21,6 +21,9 @@ export default function MarkdownRenderer({ content }: any) {
                         h3: ({ node, ...props }) => (
                             <h3 className="text-xl sm:text-2xl md:text-3xl font-medium text-black mt-6 mb-4" {...props} />
                         ),
+                        h4: ({ node, ...props }) => (
+                            <h4 className="text-lg sm:text-xl md:text-2xl font-normal text-black mt-6 mb-4" {...props} />
+                        ),
                         p: ({ node, ...props }) => (
                             <p className="text-gray-700 my-2 leading-relaxed" {...props} />
                         ),
