@@ -1,11 +1,11 @@
 ---
 headline: A-Kandidaten in 19 Tagen in Ihrem Unternehmen
 text: >-
-  **Die Arbeit? Die nehmen wir Ihnen komplett ab.**\
+  Die Arbeit? Die nehmen wir Ihnen komplett ab.\
 
   \
 
-  Was heißt das für Sie?\
+  Was heißt das?\
 
   \
 
