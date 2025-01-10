@@ -1,6 +1,6 @@
 ---
 ctalink: https://calendly.com/mohamed-ismail-talentlinx/30min
-title: xxxxxxx
-description: TalentLinx findet talentierte Developer, die zu Ihnen passen - in
-  19 Tagen, ohne Risiko!
+title: Talent Linx
+description: Qualifizierte Software Engineers in 19 Tagen gewinnen und binden –
+  ohne das Risiko teurer Fehlbesetzungen.
 ---
