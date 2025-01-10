@@ -25,7 +25,6 @@ process_boxes:
     box_text: >-
       Unser Ziel ist es, Ihnen Zeit zu sparen. 
 
-      \
 
       Wir organisieren alle Interviews, optimieren den Bewerbungsprozess und stellen Ihnen alle notwendigen Vorlagen und Ressourcen zur Verfügung – begleitet von einem auf Ihre Technologie spezialisierten Ansprechpartner.
   - box_title: Nachhaltige Besetzung mit 0% Risiko
@@ -33,11 +32,9 @@ process_boxes:
       Wenn das Arbeitsverhältnis innerhalb der ersten 3 Monate endet, bieten wir
       eine 100-%-Geld-zurück-Garantie oder eine kostenlose Nachbesetzung an. 
 
-      \
 
       Zwischen dem 3. und 6. Monat übernehmen wir ebenfalls kostenfrei die Nachbesetzung.
 
-      \
 
       Während der gesamten Probezeit betreuen wir den Kandidaten und unterstützen bei Bedarf beim Onboarding.
 ---
