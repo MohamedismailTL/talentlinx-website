@@ -8,6 +8,7 @@ text: >-
   Unsere FRC-Methode, die unsere Expertise im Headhunting mit modernster Technologie kombiniert. So finden wir nicht nur exklusive Talente für Sie, sondern besetzen Ihre offene Position schneller als Ihre Konkurrenz.
 
 
+
   Was unser Ansatz ermöglicht:
 bullet_points:
   - bullet_point: "**Vernetzung relevanter Kanäle** für eine ganzheitliche Talentansprache"
