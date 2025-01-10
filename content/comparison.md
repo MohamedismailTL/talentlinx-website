@@ -34,7 +34,7 @@ boxes:
       - bullet_title: Zeit sparen durch Recruiter
         bullet_text: Wir koordinieren alle Prozesse, stellen Ressourcen bereit und
           prüfen Kandidaten streng, damit Sie Zeit sparen.
-      - bullet_title: Multichannel Approach & Netzwerk
-        bullet_text: Technology Driven Recruiting, vereint mit Headhunting-Expertise und
+      - bullet_title: Multichannel Approach, KI & Netzwerk
+        bullet_text: Technology Driven Recruiting vereint KI, Headhunting-Expertise und
           persönlichem Austausch.
 ---
