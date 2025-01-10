@@ -15,7 +15,7 @@ text: >-
 
   Unser Ziel: Ihnen die Last abnehmen und Ihre Zeit sparen, ohne dass Sie den Überblick verlieren.
 process_boxes:
-  - box_title: "Kick Off: Idealprofil "
+  - box_title: "Kick Off: Defintion des Idealprofils"
     box_text: In einem Kick-Off Termin verstehen wir Ihre Anforderungen und
       Erwartungen, um einen maßgeschneiderten Erfolgsplan zu erstellen,
       einschließlich einer Analyse des menschlichen Fits für Ihr Team.
