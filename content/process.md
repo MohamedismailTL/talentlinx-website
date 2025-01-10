@@ -1,5 +1,5 @@
 ---
-headline: A-Kandidaten in 19 Tagen in Ihrem Unternehmen
+headline: A-Kandidat in 19 Tagen in Ihrem Unternehmen
 text: >-
   Die Arbeit? Die nehmen wir Ihnen komplett ab.\
 
@@ -15,10 +15,10 @@ text: >-
 
   Unser Ziel: Ihnen die Last abnehmen und Ihre Zeit sparen, ohne dass Sie den Überblick verlieren.
 process_boxes:
-  - box_title: Anforderungen und Kick-Off
-    box_text: Im Kick-Off Call verstehen wir Ihre Anforderungen und Erwartungen, um
-      einen maßgeschneiderten Erfolgsplan zu erstellen, einschließlich einer
-      Analyse des menschlichen Fits für Ihr Team.
+  - box_title: "Kick Off: Idealprofil "
+    box_text: In einem Kick-Off Termin verstehen wir Ihre Anforderungen und
+      Erwartungen, um einen maßgeschneiderten Erfolgsplan zu erstellen,
+      einschließlich einer Analyse des menschlichen Fits für Ihr Team.
   - box_title: "Ersten Profile innerhalb von 3 Tagen "
     box_text: Innerhalb von drei Werktagen präsentieren wir Ihnen vorqualifizierte,
       deutschsprachige Kandidaten, die bereits geprüft, auf Ihre Anforderungen
