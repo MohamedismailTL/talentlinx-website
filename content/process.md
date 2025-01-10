@@ -1,7 +1,7 @@
 ---
 headline: A-Kandidat in 19 Tagen in Ihrem Unternehmen
 text: >-
-  Die Arbeit? Die nehmen wir Ihnen komplett ab.\
+  Die Arbeit kommt komplett auf unseren Tisch. 
 
   \
 
@@ -25,14 +25,22 @@ process_boxes:
       abgestimmt und motiviert sind, Ihr Unternehmen kennenzulernen – mit klaren
       Verfügbarkeiten.
   - box_title: Interviews und Beratung
-    box_text: Unser Ziel ist es, Ihnen Zeit zu sparen. Wir organisieren alle
-      Interviews, optimieren den Bewerbungsprozess und stellen Ihnen alle
-      notwendigen Vorlagen und Ressourcen zur Verfügung – begleitet von einem
-      auf Ihre Technologie spezialisierten Ansprechpartner.
+    box_text: >-
+      Unser Ziel ist es, Ihnen Zeit zu sparen. 
+
+      \
+
+      Wir organisieren alle Interviews, optimieren den Bewerbungsprozess und stellen Ihnen alle notwendigen Vorlagen und Ressourcen zur Verfügung – begleitet von einem auf Ihre Technologie spezialisierten Ansprechpartner.
   - box_title: Nachhaltige Besetzung mit 0% Risiko
-    box_text: Wenn das Arbeitsverhältnis innerhalb der ersten 3 Monate endet, bieten
-      wir eine 100-%-Geld-zurück-Garantie oder eine kostenlose Nachbesetzung an.
-      Zwischen dem 3. und 6. Monat übernehmen wir ebenfalls kostenfrei die
-      Nachbesetzung. Während der gesamten Probezeit betreuen wir den Kandidaten
-      und unterstützen bei Bedarf beim Onboarding.
+    box_text: >-
+      Wenn das Arbeitsverhältnis innerhalb der ersten 3 Monate endet, bieten wir
+      eine 100-%-Geld-zurück-Garantie oder eine kostenlose Nachbesetzung an. 
+
+      \
+
+      Zwischen dem 3. und 6. Monat übernehmen wir ebenfalls kostenfrei die Nachbesetzung.
+
+      \
+
+      Während der gesamten Probezeit betreuen wir den Kandidaten und unterstützen bei Bedarf beim Onboarding.
 ---
