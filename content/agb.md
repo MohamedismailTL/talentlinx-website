@@ -4,7 +4,7 @@ content: >
   für Kandidaten durch TalentLinx
 
 
-  **Stand:** 11.06.2024
+  **Stand:** 10.01.2025
 
 
   TalentLinx (nachfolgend „TalentLinx“) ist eine Personalberatung und -vermittlung, die auf die langfristige Karriereunterstützung von Kandidaten und deren Vermittlung an IT-Unternehmen spezialisiert ist. Die vorliegenden Nutzungsbedingungen regeln die vertragliche Beziehung zwischen TalentLinx und dem Kandidaten.
