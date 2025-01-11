@@ -1,5 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import * as metadata from "../../content/metadata.md";
+const crmlink = metadata.frontmatter.crmlink;
 ---
 
 <Layout
@@ -8,7 +10,7 @@ import Layout from "../layouts/Layout.astro";
 >
     <main style="margin: 0; padding: 0; height: 100vh; width: 100vw;">
         <iframe
-                src="https://recruitcrm.io/talent_pool_submission/talentlinx?1736523503526"
+                src={crmlink}
                 style="border: none; height: 100%; width: 100%;"
         >
         </iframe>
