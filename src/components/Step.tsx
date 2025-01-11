@@ -39,7 +39,7 @@ function Step({step: boxStep, index}: StepProps) {
     w-12 h-12
     text-2xl
     font-bold
-    border border-brand-aqua-300
+    border-2 border-brand-aqua-200
     text-brand-aqua-600
     mr-6
     shrink-0
