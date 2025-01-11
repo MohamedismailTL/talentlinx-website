@@ -261,3 +261,14 @@ collections:
           - { label: "CTA Link", name: "ctalink", widget: "string" }
           - { label: "Website Title", name: "title", widget: "string" }
           - { label: "Website Description", name: "description", widget: "string" }
+
+  - name: "zitat"
+    label: "Zitat"
+    files:
+      - label: "Zitat Inhalt"
+        name: "zitat"
+        file: "content/quote.md"
+        fields:
+          - { label: "Zitat", name: "quote", widget: "text" }
+          - { label: "Name", name: "person", widget: "string" }
+          - { label: "Berufsbezeichnung", name: "job_title", widget: "string" }
