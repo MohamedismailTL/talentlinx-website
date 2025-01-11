@@ -9,6 +9,7 @@ import Stats from '../components/Stats.tsx';
 import Process from '../components/Process.tsx';
 import Logos from '../components/Logos.tsx';
 import PS from '../components/PS.tsx';
+import PS2 from '../components/PS2.tsx';
 import TechStack from '../components/TechStack.tsx';
 import {Image} from 'astro:assets';
 import Testimonials from '../components/Testimonials.tsx';
@@ -24,6 +25,7 @@ import teamSuccess from '../assets/team-success.jpg';
 import painPoints from '../assets/pain-points.svg';
 import hiringTechnologies from '../assets/hiring-technologies.png';
 import talentLinxLogo from '../assets/talentlinx-logo.png';
+import berlin from '../../public/assets/berlin-germany-alexanderplatz-tv-tower-after.jpg'
 import * as hero from '../../content/hero.md';
 import * as features from '../../content/features.md';
 import * as problems from '../../content/problems.md';
@@ -66,9 +68,7 @@ import * as metadata from '../../content/metadata.md';
         <Testimonials testimonials={testimonials} metadata={metadata} client:load/>
         <CTA2 cta={cta} metadata={metadata} client:load/>
         <FAQ faq={faq} client:load/>
-        <PS ps_section={ps_section} client:load>
-            <Image src={teamSuccess} alt="Team celebrating success"/>
-        </PS>
+        <PS2/>
         <Footer footer={footer} client:load/>
     </main>
 </Layout>
