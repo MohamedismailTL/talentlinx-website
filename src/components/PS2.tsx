@@ -3,11 +3,11 @@ import React from 'react';
 import berlinImage from '/public/assets/berlin-germany-alexanderplatz-tv-tower-after.jpg';
 import profileImage from '/public/assets/mohamed-ismail.png';
 
-export default function Example({quote, person, jobTitle}: any) {
+export default function Example({quote}: any) {
 
-    const finalQuote = quote || 'Standard-Zitat, falls leer';
-    const finalPerson = person || 'Max Mustermann';
-    const finalJob = jobTitle || 'Berufsbezeichnung';
+    const finalQuote = quote.frontmatter.quote || 'Standard-Zitat, falls leer';
+    const finalPerson = quote.frontmatter.person || 'Max Mustermann';
+    const finalJob = quote.frontmatter.jobTitle || 'Berufsbezeichnung';
 
     return (
         <div

@@ -41,6 +41,7 @@ import * as faq from '../../content/faq.md';
 import * as ps_section from '../../content/ps_section.md';
 import * as footer from '../../content/footer.md';
 import * as metadata from '../../content/metadata.md';
+import * as quote from '../../content/quote.md';
 ---
 
 <Layout title={metadata.frontmatter.title} description={metadata.frontmatter.description}>
@@ -68,7 +69,7 @@ import * as metadata from '../../content/metadata.md';
         <Testimonials testimonials={testimonials} metadata={metadata} client:load/>
         <CTA2 cta={cta} metadata={metadata} client:load/>
         <FAQ faq={faq} client:load/>
-        <PS2/>
+        <PS2 quote={quote}/>
         <Footer footer={footer} client:load/>
     </main>
 </Layout>
