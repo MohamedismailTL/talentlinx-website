@@ -29,7 +29,7 @@ faqs:
     answer: "Unsere Preisstruktur ist transparent: Du zahlst nur, wenn wir
       erfolgreich die passenden Kandidaten für dich finden – ohne versteckte
       Kosten."
-  - question: Wie starte ich die Zusammnenarbeit?
+  - question: Wie starte ich die Zusammenarbeit?
     answer: Klicken Sie einfach auf "Beratungstermin vereinbaren", suchen Sie sich
       einen freien Termin und wir finden gemeinsam heraus, wie wir Ihnen helfen
       können.
