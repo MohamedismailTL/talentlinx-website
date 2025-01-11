@@ -21,12 +21,12 @@ boxes:
     bulletpoints:
       - bullet_title: 0 % Risiko Garantie & langfristige Bindung
         bullet_text: 100 % Geld-Zurück-Garantie bei Unzufriedenheit und regelmäßige
-          Kandidaten Check-ins
+          Kandidaten Check-ins.
       - bullet_title: Precision Hiring
         bullet_text: Wir leiten nur Profile weiter, die in unserem Multi-Scoring-Modell
           mehr als 75 % erreichen, um Ihnen Zeit zu sparen.
       - bullet_title: Faire Preise mit Garantie
-        bullet_text: Faires Honorar mit 100 % Absicherung
+        bullet_text: Faires Honorar mit 100 % Absicherung für eine nachhaltige Besetzung.
       - bullet_title: Motivierte Kandidaten
         bullet_text: >
           Kandidaten sind auf das Interview vorbereitet, kennen Ihre Mission und
@@ -34,7 +34,7 @@ boxes:
       - bullet_title: Zeit sparen durch Recruiter
         bullet_text: Wir koordinieren alle Prozesse, stellen Ressourcen bereit und
           prüfen Kandidaten streng, damit Sie Zeit sparen.
-      - bullet_title: Multichannel Approach & Netzwerk
-        bullet_text: Technology Driven Recruiting, vereint mit Headhunting-Expertise und
-          persönlichem Austausch.
+      - bullet_title: Multichannel Approach, KI & Netzwerk
+        bullet_text: Technology Driven Recruiting vereint KI, Headhunting-Expertise und
+          persönlichen Austausch.
 ---

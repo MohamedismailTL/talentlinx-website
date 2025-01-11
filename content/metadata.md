@@ -1,6 +1,5 @@
 ---
-ctalink: https://google.com
-title: TalentLinx | Developer Talents für Ihr Team
-description: TalentLinx findet talentierte Developer, die zu Ihnen passen - in
-  19 Tagen, ohne Risiko!
+ctalink: https://calendly.com/mohamed-ismail-talentlinx/30min
+title: Talent Linx
+description: Qualifizierte Software Engineers in 19 Tagen einstellen mit 0% Risiko.
 ---
