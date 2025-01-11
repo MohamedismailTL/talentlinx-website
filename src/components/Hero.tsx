@@ -3,12 +3,12 @@ import {Dialog, DialogPanel} from '@headlessui/react';
 import {Bars3Icon, XMarkIcon} from '@heroicons/react/24/outline';
 import CTAButton from './CTAButton.tsx';
 import Typewriter from './Typewriter.tsx';
-import logo from '../assets/talentlinx-logo.png';
 
 const navigation = [
     {name: 'Über uns', href: '#ueber-uns'},
     {name: 'Prozess', href: '#prozess'},
-    {name: 'Kontakt', href: '#kontakt'}
+    {name: 'Kontakt', href: '#kontakt'},
+    {name: 'Bewerbung', href: '/bewerbung'}
 ];
 
 export default function Example({content, metadata, children}: any) {

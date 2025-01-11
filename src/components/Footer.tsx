@@ -52,6 +52,12 @@ export default function Example({ footer }: any) {
                     >
                         AGB
                     </a>
+                    <a
+                        href="/bewerbung"
+                        className="text-gray-400 hover:text-brand-aquamarine-500"
+                    >
+                        Bewerbung
+                    </a>
                 </nav>
                 {/* Footer Copywriting */}
                 <p className="mt-10 text-center text-sm/6 text-gray-400">
