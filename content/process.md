@@ -1,14 +1,17 @@
 ---
 headline: A-Kandidat in 19 Tagen in Ihrem Unternehmen
 text: >-
-  Die Arbeit kommt komplett auf unseren Tisch. 
+  Die Arbeit kommt komplett auf unseren Tisch.\
 
+  \
 
-  Was heißt das?
+  Was heißt das?\
 
+  \
 
-  Wir entwickeln eine maßgeschneiderte Roadmap für jede Position, übernehmen die gesamte Organisation und halten Sie mit wöchentlichen Calls transparent auf dem Laufenden.
+  Wir entwickeln eine maßgeschneiderte Roadmap für jede Position, übernehmen die gesamte Organisation und halten Sie mit wöchentlichen Calls transparent auf dem Laufenden.\
 
+  \
 
   Unser Ziel: Ihnen die Last abnehmen und Ihre Zeit sparen, ohne dass Sie den Überblick verlieren.
 process_boxes:
