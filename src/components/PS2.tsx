@@ -7,7 +7,7 @@ export default function Example({quote}: any) {
 
     const finalQuote = quote.frontmatter.quote || 'Standard-Zitat, falls leer';
     const finalPerson = quote.frontmatter.person || 'Max Mustermann';
-    const finalJob = quote.frontmatter.jobTitle || 'Berufsbezeichnung';
+    const finalJob = quote.frontmatter.job_title || 'Berufsbezeichnung';
 
     return (
         <div
