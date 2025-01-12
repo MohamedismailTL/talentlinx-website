@@ -4,5 +4,5 @@ quote: Außergewöhnliche Ergebnisse entstehen, wenn Schnelligkeit, Präzision u
   Nischenexpertise setzen neue Maßstäbe im Recruiting – und schaffen
   Verbindungen, die zählen
 person: Mohamed Ismail
-job_title: Co-Founder & CEO
+job_title: Founder & CEO
 ---
