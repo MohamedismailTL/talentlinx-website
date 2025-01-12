@@ -8,13 +8,12 @@ testimonial_boxes:
     person: Sven Scheffler
     job_title: COO @Ströer Content Group
     company_logo: /assets/stroer-logo.png
-  - testimonial: “I had the pleasure of working with Mohamed when he placed me in my
-      current role. Mohamed was professional, straightforward, and efficient
-      throughout the entire process. He took the time to understand my career
-      goals and the company’s needs, ensuring a perfect match. His pleasant
-      demeanor and clear communication made the experience seamless and
-      enjoyable. I highly recommend Mohamed to any professional seeking new
-      opportunities or any organization looking for an effective recruiter.”
+  - testimonial: “Mohamed is professional, straightforward, and efficient throughout
+      the entire process. He took the time to understand my career goals and the
+      company’s needs, ensuring a perfect match. His pleasant demeanor and clear
+      communication made the experience seamless and enjoyable. I highly
+      recommend Mohamed to any professional seeking new opportunities or any
+      organization looking for an effective recruiter.”
     person: Christian Fischer
     job_title: Director of Engineering @Erblotse
     company_logo: /assets/erblotse-logo.png
