@@ -8,7 +8,6 @@ const navigation = [
     {name: 'Über uns', href: '#ueber-uns'},
     {name: 'Prozess', href: '#prozess'},
     {name: 'Kontakt', href: '#kontakt'},
-    {name: 'Bewerbung', href: '/bewerbung'}
 ];
 
 export default function Example({content, metadata, children}: any) {
