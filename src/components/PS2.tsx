@@ -3,8 +3,7 @@ import React from 'react';
 import berlinImage from '/public/assets/berlin-germany-alexanderplatz-tv-tower-after.jpg';
 import profileImage from '/public/assets/mohamed-ismail.png';
 
-export default function Example({quote}: any) {
-
+export default function Example({ quote }: any) {
     const finalQuote = quote.frontmatter.quote || 'Standard-Zitat, falls leer';
     const finalPerson = quote.frontmatter.person || 'Max Mustermann';
     const finalJob = quote.frontmatter.job_title || 'Berufsbezeichnung';
@@ -20,13 +19,13 @@ export default function Example({quote}: any) {
             }}
         >
             {/* Overlay */}
-            <div className="absolute inset-0 bg-brand-aqua-900/40" aria-hidden="true"/>
+            <div className="absolute inset-0 bg-brand-aqua-900/50" aria-hidden="true" />
 
             {/* Inhalt (z-10, damit es über dem Overlay liegt) */}
-            <div className="relative z-10 mx-auto max-w-2xl text-center">
+            <div className="relative z-10 mx-auto max-w-4xl text-center">
                 {/* Zitat aus dem CMS */}
-                <p className="text-3xl font-semibold leading-tight text-white sm:text-5xl">
-                    {`"${finalQuote}"`}
+                <p className="text-2xl sm:text-4xl font-normal leading-relaxed tracking-wide text-white">
+                    {finalQuote}
                 </p>
 
                 {/* Kreisrundes Profilbild */}
