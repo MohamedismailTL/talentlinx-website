@@ -2,14 +2,17 @@
 title: Menschenorientiert, technologiegetrieben.
 text: >-
   Anstatt nur LinkedIn zu setzen und auf Rückmeldungen zu hoffen, bieten wir
-  eine Lösung, die sicher Ergebnisse liefert.
+  eine Lösung, die sicher Ergebnisse liefert.\
 
+  \
 
-  80 % der Kandidaten suchen nicht aktiv nach einem neuen Job, sind aber offen für einen Wechsel, wenn das Angebot besser zu ihren Bedürfnissen passt, der Zeitpunkt stimmt und es ihnen durch die richtige Person angeboten wird.
+  80 % der Kandidaten suchen nicht aktiv nach einem neuen Job, sind aber offen für einen Wechsel, wenn das Angebot besser zu ihren Bedürfnissen passt, der Zeitpunkt stimmt und es ihnen durch die richtige Person angeboten wird.\
 
+  \
 
-  Unsere FRC-Methode kombiniert unsere Erfahrung im Headhunting mit moderner Technologie und KI, um nicht nur die besten Talente zu finden, sondern Ihre offene Stelle schneller zu besetzen als die Konkurrenz.
+  Unsere FRC-Methode kombiniert unsere Erfahrung im Headhunting mit moderner Technologie und KI, um nicht nur die besten Talente zu finden, sondern Ihre offene Stelle schneller zu besetzen als die Konkurrenz.\
 
+  \
 
   Was unser Ansatz ermöglicht:
 bullet_points:
