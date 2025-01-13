@@ -3,37 +3,24 @@ content: >-
   # Impressum
 
 
-  TalentLinx GmbH\
+  Talent Linx GmbH i.G.\
 
-  \[Straße und Hausnummer]\
+  Unter den Linden 21\
 
-  \[Postleitzahl und Ort]
-
-
-  Handelsregister: \[Registernummer]\
-
-  Registergericht: \[Stadt]
+  10117 Berlin
 
 
   **Vertreten durch:**\
 
-  \[Geschäftsführer]
+  Oli Ayeta, Mohamed Ismail 
 
 
   ## Kontakt
 
 
-  Telefon: \[Telefon]\
+  Telefon: +49 152 02764872\
 
-  E-Mail: \[E-Mail]
-
-
-  ## Umsatzsteuer-ID
-
-
-  Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:\
-
-  \[Umsatzsteuer-ID]
+  E-Mail: kontakt@talentlinx.de
 
 
   ## EU-Streitschlichtung
