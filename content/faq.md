@@ -2,13 +2,19 @@
 headline: Häufig gestellte Fragen
 faqs:
   - question: Unterstützt ihr jedes Unternehmen?
-    answer: Wir konzentrieren uns auf Unternehmen im IT-Bereich, besonders auf
-      Tech-Teams, die Softwareentwickler, Architekten, Test Engineers und mehr
-      brauchen.
+    answer: Wir verstehen, dass jedes Unternehmen einzigartig ist, und passen unsere
+      Dienstleistungen individuell an, um sicherzustellen, dass Sie genau die
+      Unterstützung erhalten, die Sie brauchen. Trotzdem können wir nicht jedes
+      Unternehmen unterstützen und prüfen in einem ersten Gespräch, ob eine
+      Zusammenarbeit für beide Seiten sinnvoll ist.
   - question: Was unterscheidet euch von anderen Recruitern?
-    answer: Wir sind mehr als nur ein Dienstleister – wir sind dein strategischer
-      Partner. Wir begleiten dich von der ersten Beratung bis hin zur
-      langfristigen Bindung der eingestellten Kandidaten.
+    answer: Im Gegensatz zu anderen Recruitern, die oft unvorbereitete Kandidaten
+      senden oder CV-Spamming betreiben, bieten wir Ihnen präzise ausgewählte
+      Profile, die in unserem Multi-Scoring-Modell mindestens 75 % erreichen.
+      Mit unserer 100 % Geld-zurück-Garantie und engen Kontakt zu Kandidaten
+      minimieren wir das Risiko und garantieren langfristige Bindung. Wir setzen
+      auf einen technologiegetriebenen Ansatz, der KI, Headhunting-Expertise und
+      persönlichen Austausch vereint – für schnelle, passgenaue Besetzungen.
   - question: Wie lange dauert es, eine Stelle zu besetzen?
     answer: Dank unserer Inbound-Hiring-Strategie und eines Netzwerks von über 5000
       IT-Fachkräften können wir dir qualifizierte Kandidaten oft innerhalb von
