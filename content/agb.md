@@ -1,13 +1,12 @@
 ---
-content: >
-  # Nutzungsbedingungen für die Karriereberatungs- und Vermittlungsleistungen
-  für Kandidaten durch TalentLinx
+content: >-
+  # AGB
 
 
   **Stand:** 10.01.2025
 
 
-  TalentLinx (nachfolgend „TalentLinx“) ist eine Personalberatung und -vermittlung, die auf die langfristige Karriereunterstützung von Kandidaten und deren Vermittlung an IT-Unternehmen spezialisiert ist. Die vorliegenden Nutzungsbedingungen regeln die vertragliche Beziehung zwischen TalentLinx und dem Kandidaten.
+  Talent Linx (im Folgenden „Talent Linx“) ist eine spezialisierte Personalberatung und -vermittlung, die sich auf die langfristige Unterstützung von Kandidaten in ihrer Karriere und deren Vermittlung an Unternehmen konzentriert. Diese Nutzungsbedingungen legen die vertraglichen Vereinbarungen zwischen Talent Linx und dem Kandidaten fest.
 
 
   ## § 1 Begriffsbestimmungen
@@ -16,36 +15,36 @@ content: >
   Die Begriffe in diesen Nutzungsbedingungen haben folgende Bedeutung:
 
 
-  - **Kandidaten**: Personen, die sich bei TalentLinx registriert oder auf eine Stelle in einem IT-Unternehmen beworben haben.
+  * **Kandidaten**: Personen, die sich bei Talent Linx registriert oder auf eine Stelle in einem Unternehmen beworben haben.
 
-  - **IT-Unternehmen**: Unternehmen aus Bereichen wie Fintech, E-Commerce, Health, Logistics, Media/Web Development, Software Development (SaaS/IaaS), Software Consultancy, Web Marketing, Software Agency/Inhouse Development, IT Product Development und ähnliche Branchen, die mit TalentLinx Verträge zur Personalvermittlung abgeschlossen haben.
+  * **Unternehmen**: Unternehmen aus verschiedenen Wirtschaftsbereichen, die mit Talent Linx Verträge zur Personalvermittlung abgeschlossen haben.
 
-  - **Stellen**: Zu besetzende Positionen in IT-Unternehmen, wie z. B. Frontend Engineer, Backend Engineer, Software Architect, Data Scientist, Scrum Master, Team Lead Engineering, und andere vergleichbare Positionen. Dazu zählen sowohl Anstellungen als auch freiberufliche Tätigkeiten.
+  * **Positionen**: Zu besetzende Positionen in Unternehmen, wie z. B. Frontend Engineer, Backend Engineer, Full-Stack Engineer oder andere Positionen in der IT.
 
-  - **Vermittlung**: Die Kontaktaufnahme zwischen Kandidaten und IT-Unternehmen, mit dem Ziel, eine Anstellung oder freiberufliche Tätigkeit zu ermöglichen. Die Vermittlung endet, sobald ein Vertrag zwischen Kandidat und IT-Unternehmen zustande kommt oder abgelehnt wird.
+  * **Vermittlung**: Die Kontaktaufnahme zwischen Kandidaten und Unternehmen, mit dem Ziel, eine Anstellung  ermöglichen. Die Vermittlung endet, sobald ein Vertrag zwischen Kandidat und Unternehmen zustande kommt oder abgelehnt wird.
 
-  - **Karriereberatung**: Die kontinuierliche Beratung des Kandidaten hinsichtlich beruflicher Zielsetzungen und Möglichkeiten einer Vermittlung.
-
-
-  ## § 2 Gegenstand der Vereinbarung und Leistungen von TalentLinx
+  * **Berufliche Beratung**: Die fortlaufende Unterstützung und Beratung der Kandidaten, um berufliche Ziele zu klären und passende Vermittlungsoptionen zu entwickeln.
 
 
-  Das Leistungsangebot von TalentLinx richtet sich ausschließlich an Kandidaten, die eine Anstellung oder freiberufliche Tätigkeit in einem IT-Unternehmen anstreben. TalentLinx verpflichtet sich gleichermaßen gegenüber Kandidaten und IT-Unternehmen, geeignete Vermittlungen vorzunehmen. Die erbrachten Dienstleistungen erfolgen auf freiwilliger Basis und beinhalten:
+  ## § 2 **Leistungsumfang und Gegenstand der Zusammenarbeit mit Talent Linx**
 
 
-  1. **Karriereberatung:** Sichtung der Bewerbungsunterlagen, Abstimmung über berufliche Ziele und Beratung zur Vermittlungsmöglichkeiten. TalentLinx analysiert zusätzlich den Stellenmarkt und stellt Kontakt zu relevanten IT-Unternehmen her.
+  Das Leistungsangebot von Talent Linx richtet sich ausschließlich an Personen, die eine Festanstellung in einem Unternehmen suchen. Talent Linx verpflichtet sich, sowohl den Kandidaten als auch den Unternehmen bei der erfolgreichen Vermittlung zu unterstützen. Die angebotenen Leistungen werden freiwillig erbracht und umfassen folgende Bereiche:
 
 
-  2. **Vermittlungsleistung:** Unterstützung bei der Bewerbung auf vorgeschlagene Stellen, einschließlich der Erstellung und anonymisierten Weiterleitung von Bewerbungsunterlagen an IT-Unternehmen. Kandidaten werden über Vorstellungsgespräche informiert und können in die Weiterleitung ihrer vollständigen Unterlagen einwilligen.
+  1. **Berufliche Beratung**: Prüfung der Bewerbungsunterlagen, Besprechung der beruflichen Ziele und Beratung hinsichtlich möglicher Joboptionen. Talent Linx führt auch eine Analyse des Arbeitsmarktes durch und baut Beziehungen zu relevanten Unternehmen auf.
 
+  2. **Vermittlungsservice**: Unterstützung bei der Bewerbung auf empfohlene Positionen, einschließlich der Erstellung und anonymisierten Weiterleitung der Bewerbungsunterlagen an Unternehmen. Kandidaten werden über den Stand der Bewerbung informiert und können entscheiden, ob sie ihre vollständigen Bewerbungsunterlagen weiterleiten möchten.
 
-  3. **Kein Leistungsanspruch:** Es besteht kein Anspruch auf Vorschläge zu Stellen, Übermittlung von Bewerbungsunterlagen oder spezifische Informationen.
+  3. **Kein Anspruch auf Leistungen**: Es besteht kein Anspruch auf die Zusendung von Stellenangeboten, die Weiterleitung von Bewerbungsunterlagen oder auf spezifische Informationen.
 
 
   ## § 3 Vertragsschluss
 
 
-  Der Vertrag kann über die Website von TalentLinx oder per E-Mail abgeschlossen werden. Der Abschluss erfolgt in deutscher Sprache. Vor dem Absenden eines Vertragsangebots haben Kandidaten die Möglichkeit, ihre Angaben zu überprüfen und zu korrigieren. Nach Vertragsabschluss erhalten Kandidaten eine Bestätigung per E-Mail.
+  Der Vertrag kann entweder über die Website von Talent Linx oder per E-Mail abgeschlossen werden.\
+
+  Vor dem Absenden des Vertragsangebots haben die Kandidaten die Gelegenheit, ihre Angaben zu prüfen und gegebenenfalls zu korrigieren. Nach erfolgreichem Abschluss des Vertrages erhalten die Kandidaten eine Bestätigung per E-Mail.
 
 
   ## § 4 Pflichten des Kandidaten
@@ -56,39 +55,25 @@ content: >
 
   1. **Mitwirkungspflichten:** Vorlage wahrheitsgemäßer Bewerbungsunterlagen, einschließlich eines tabellarischen Lebenslaufs.
 
+  2. **Informationspflichten:** Anzeige eines zustande gekommenen Vertrags mit einem Unternehmen, einschließlich Angaben zur vereinbarten Vergütung auf Anfrage.
 
-  2. **Informationspflichten:** Anzeige eines zustande gekommenen Vertrags mit einem IT-Unternehmen, einschließlich Angaben zur vereinbarten Vergütung auf Anfrage.
-
-
-  3. **Verschwiegenheitspflichten:** Vertrauliche Informationen, insbesondere zu IT-Unternehmen und Ansprechpartnern, dürfen nicht an Dritte weitergegeben oder für direkte Bewerbungen unter Umgehung von TalentLinx genutzt werden.
+  3. **Verschwiegenheitspflichten:** Vertrauliche Informationen, insbesondere zu Unternehmen und Ansprechpartnern, dürfen nicht an Dritte weitergegeben oder für direkte Bewerbungen unter Umgehung von Talent Linx genutzt werden.
 
 
-  ## § 5 Rechnungsstellung für Freiberufler
+  ## § 5 Vergütung, Provision, Reisekosten
 
 
-  TalentLinx unterstützt Freiberufler bei der Rechnungsstellung an IT-Unternehmen. Kandidaten müssen hierzu ihre Steuernummer, Bankverbindung und Nachweise zu geleisteten Stunden vorlegen. Der Rechnungsbetrag wird in voller Höhe an die Kandidaten überwiesen.
+  Die Dienstleistungen von Talent Linx sind für Kandidaten kostenlos. Reisekosten für Vorstellungstermine bei Unternehmen werden nicht übernommen.
 
 
-  ## § 6 Vergütung, Provision, Reisekosten
+  ## § 6 Laufzeit und Beendigung des Vertrags
 
 
-  Die Dienstleistungen von TalentLinx sind für Kandidaten kostenlos. Reisekosten für Vorstellungstermine bei IT-Unternehmen werden nicht übernommen.
+  Der Vertrag kann jederzeit ohne Frist gekündigt werden. Kandidaten verpflichten sich jedoch, innerhalb von 24 Monaten nach einer erfolgreichen Vermittlung über einen Vertragsabschluss mit dem Unternehmen zu informieren.
 
 
-  ## § 7 Laufzeit und Beendigung des Vertrags
+  ## § 7 Haftung
 
 
-  Der Vertrag kann jederzeit ohne Frist gekündigt werden. Kandidaten verpflichten sich jedoch, innerhalb von 24 Monaten nach einer erfolgreichen Vermittlung über einen Vertragsabschluss mit dem IT-Unternehmen zu informieren.
-
-
-  ## § 8 Haftung
-
-
-  TalentLinx haftet uneingeschränkt für vorsätzlich oder grob fahrlässig verursachte Schäden, bei Verletzungen von Leben, Körper oder Gesundheit sowie nach den Regelungen des Produkthaftungsgesetzes. In anderen Fällen ist die Haftung auf vorhersehbare, vertragstypische Schäden begrenzt.
-
-
-  ## § 9 Nutzung von KI-Bots
-
-
-  Die Nutzung oder das Herunterladen von Inhalten der Website von TalentLinx zu Zwecken des maschinellen Lernens ist ohne ausdrückliche Zustimmung untersagt. Entsprechende Hinweise in Meta-Angaben sind zu beachten.
+  Talent Linx haftet uneingeschränkt für vorsätzlich oder grob fahrlässig verursachte Schäden, bei Verletzungen von Leben, Körper oder Gesundheit sowie nach den Regelungen des Produkthaftungsgesetzes. In anderen Fällen ist die Haftung auf vorhersehbare, vertragstypische Schäden begrenzt.
 ---
