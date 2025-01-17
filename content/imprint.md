@@ -3,14 +3,21 @@ content: >-
   # Impressum
 
 
-  Talent Linx GmbH i.G.\
+  Talent Linx GmbH \
 
   Unter den Linden 21\
 
-  10117 Berlin
+  10117 Berlin\
 
+  \
 
-  **Vertreten durch:**\
+  Registergericht: Amtsgericht Charlottenburg\
+
+  Registernummer:  HRB 271197 B\
+
+  \
+
+  **Vertreten durch Geschäftsführer:**\
 
   Oli Ayeta, Mohamed Ismail 
 
