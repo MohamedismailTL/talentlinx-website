@@ -1,5 +1,5 @@
 ---
-headline: Was unsere Partner sagen
+headline: Referenzen
 testimonial_boxes:
   - testimonial: “Mohamed is a trustworthy, dynamic recruiter and very reliable.
       When it comes to specific profiles , crucial for the development of one of
