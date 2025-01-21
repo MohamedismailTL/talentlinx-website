@@ -26,7 +26,7 @@ content: >-
   * **Berufliche Beratung**: Die fortlaufende Unterstützung und Beratung der Kandidaten, um berufliche Ziele zu klären und passende Vermittlungsoptionen zu entwickeln.
 
 
-  ## § 2 **Leistungsumfang und Gegenstand der Zusammenarbeit mit Talent Linx**
+  ## § 2 Leistungsumfang und Gegenstand der Zusammenarbeit mit Talent Linx
 
 
   Das Leistungsangebot von Talent Linx richtet sich ausschließlich an Personen, die eine Festanstellung in einem Unternehmen suchen. Talent Linx verpflichtet sich, sowohl den Kandidaten als auch den Unternehmen bei der erfolgreichen Vermittlung zu unterstützen. Die angebotenen Leistungen werden freiwillig erbracht und umfassen folgende Bereiche:
