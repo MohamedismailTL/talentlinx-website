@@ -19,11 +19,11 @@ boxes:
       20 Technologien und KI, die uns nicht nur Zugriff auf versteckte Talente
       gewährt, sondern auch ermöglicht, Ihre offene Stelle schneller zu besetzen
       als die Konkurrenz.
-  - chip: Zeit sparen
+  - chip: Zeit sparen durch Multi-Level-Scoring
     title: Vorinterviewte passende Kandidaten
-    text: Wir prüfen Kandidaten in einem Pre-Interview auf ihre fachlichen
-      Fähigkeiten, den Cultural Fit und ihr langfristiges Potenzial – so sparen
-      Sie Zeit und erhalten nur passende Profile.
+    text: Wir prüfen Kandidaten in einem Pre-Interview anhand eines Scoring-Modells
+      auf ihre fachlichen Fähigkeiten, den Cultural Fit und ihr langfristiges
+      Potenzial – so sparen Sie Zeit und erhalten nur passende Profile.
   - chip: IT Experten
     title: Spezialisiert auf IT-Nischen
     text: Wir sind auf Frontend/Backend Technologien spezialisiert, haben exklusiven
