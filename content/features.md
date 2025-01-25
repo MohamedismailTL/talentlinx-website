@@ -13,11 +13,12 @@ boxes:
     text: Ein frühzeitiger Abgang eines Kandidaten kann teuer werden. Daher bieten
       wir Ihnen in den ersten 3 Monaten eine 100 % Geld-zurück-Garantie – ohne
       Fragen. So sind Sie finanziell maximal abgesichert.
-  - chip: Maximale Sicherheit
-    title: 6 Monate Absicherung
-    text: "Unser Ziel ist Ihr langfristiger Erfolg: Sollte das Arbeitsverhältnis
-      innerhalb der ersten 6 Monate enden, bieten wir eine kostenlose
-      Nachbesetzung. So sparen Sie Kosten und sichern Ihre Investition."
+  - chip: Technology Driven Recruitment
+    title: Versteckte Talente finden
+    text: Unsere FRC-Methode kombiniert unsere Erfahrung im Headhunting mit mehr als
+      20 Technologien und KI, die uns nicht nur Zugriff auf versteckte Talente
+      gewährt, sondern auch ermöglicht, Ihre offene Stelle schneller zu besetzen
+      als die Konkurrenz.
   - chip: Zeit sparen
     title: Vorinterviewte passende Kandidaten
     text: Wir prüfen Kandidaten in einem Pre-Interview auf ihre fachlichen
