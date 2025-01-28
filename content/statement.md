@@ -2,7 +2,7 @@
 headline: Das garantieren wir.
 statements:
   - statement_title: Beratung
-    statement_text: Ihre Herausforderung kommt komplett unseren Tisch – enge
+    statement_text: Ihre Herausforderung landet komplett auf unseren Tisch – enge
       Zusammenarbeit mit persönlichem Ansprechpartner und intensiver Beratung.
   - statement_title: Transparenz
     statement_text: "Mit uns wissen Sie, worin Sie investieren: regelmäßige Meetings
