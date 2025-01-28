@@ -1,7 +1,7 @@
 ---
 headline: A-Kandidat in 19 Tagen in Ihrem Unternehmen
 text: >-
-  Die Arbeit kommt komplett auf unseren Tisch.\
+  Wir übernehmen die gesamte Arbeit für Sie.\
 
   \
 
