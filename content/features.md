@@ -11,8 +11,8 @@ boxes:
   - chip: Ohne Risiko
     title: 100 % Geld-zurück-Garantie
     text: Ein frühzeitiger Abgang eines Kandidaten kann teuer werden. Daher bieten
-      wir Ihnen in den ersten 3 Monaten eine 100 % Geld-zurück-Garantie – ohne
-      Fragen. So sind Sie finanziell maximal abgesichert.
+      wir Ihnen innerhalb der ersten 3 Monate eine 100-%-Geld-zurück-Garantie –
+      ohne Rückfragen. So sind Sie finanziell maximal abgesichert.
   - chip: Technology Driven Recruitment
     title: Versteckte Talente finden
     text: Unsere FRC-Methode kombiniert unsere Erfahrung im Headhunting mit mehr als
