@@ -11,7 +11,7 @@ boxes:
       - bullet_title: Hohe Kosten
         bullet_text: Keinen klaren Mehrwert und intransparente Preise
       - bullet_title: " Schlecht vorbereitete Kandidaten"
-        bullet_text: Kandidaten sind unvorbereitet und fehlend motiviert
+        bullet_text: Kandidaten sind unvorbereitet und nicht motiviert
       - bullet_title: Mehrarbeit durch Recruiter
         bullet_text: Unklare Kommunikation, wiederholte Profildefinition und unpassende
           Kandidaten bringen mehr Arbeit auf Ihren Tisch
