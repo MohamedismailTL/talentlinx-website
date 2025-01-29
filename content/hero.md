@@ -1,5 +1,5 @@
 ---
-hero_title: in 19 Tagen einstellen mit 0% Risiko
+hero_title: in 19 Tagen einstellen ohne Risiko
 hero_subtitle: Wir helfen Unternehmen, in nur 19 Tagen qualifizierte,
   deutschsprachige Software Engineers zu gewinnen und langfristig zu binden –
   ohne das Risiko teurer Fehlbesetzungen.
