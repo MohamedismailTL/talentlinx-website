@@ -26,9 +26,9 @@ boxes:
       Potenzial – so sparen Sie Zeit und erhalten nur passende Profile.
   - chip: IT Nischenexperten
     title: Spezialisiert auf IT-Nischen
-    text: Wir sind auf Frontend/Backend Technologien spezialisiert, haben exklusiven
-      Zugang zu qualifizierten Talenten und garantieren eine schnelle und
-      passgenaue Auswahl für Ihren langfristigen Erfolg.
+    text: Wir sind auf Frontend/Backend/Cloud Technologien spezialisiert, haben
+      exklusiven Zugang zu qualifizierten Talenten und garantieren eine schnelle
+      und passgenaue Auswahl für Ihren langfristigen Erfolg.
   - chip: Time to Hire
     title: Besetzung in 19 Tagen
     text: Unser entwickeltes System kombiniert Headhunting-Expertise mit modernster
