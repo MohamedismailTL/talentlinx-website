@@ -7,6 +7,6 @@ job_titles:
   - job_title: Backend Developer
   - job_title: Frontend Developer
   - job_title: Full-Stack Developer
-  - job_title: Infrastructure Engineer
+  - job_title: Infrastructure Dev.
   - job_title: DevOps/Cloud Engineer
 ---
