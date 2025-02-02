@@ -7,6 +7,8 @@ import greenTechFestivalLogo from '../assets/green-tech-festival-logo.png';
 import itsaLogo from '../assets/itsa-logo.png';
 import bitsAndPretzelsLogo from '../assets/bits-and-pretzels-logo.png';
 import dmExcoLogo from '../assets/dm-exco-logo.png';
+import dmeaLogo from '../assets/dmea-logo.jpg';
+import embeddedWorldLogo from '../assets/embedded-world-logo.jpg';
 
 // Swiper-Stile importieren
 import 'swiper/css';
@@ -56,6 +58,14 @@ export default function Example({conferences}: any) {
         {
             alt: 'DM EXCO',
             src: dmExcoLogo.src
+        },
+        {
+            alt: 'DMEA Logo',
+            src: dmeaLogo.src
+        },
+        {
+            alt: 'Embedded World Logo',
+            src: embeddedWorldLogo.src
         }
     ];
     // Duplizierte Slides für nahtloses Looping
