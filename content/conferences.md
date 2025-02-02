@@ -1,3 +1,3 @@
 ---
-headline: Wir sind 2025 auf diesen führenden Tech-Events dabei.
+headline: Wir sind 2025 auf diesen führenden Events dabei.
 ---

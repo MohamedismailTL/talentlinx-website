@@ -6,12 +6,12 @@ boxes:
       - bullet_title: Keine Risikominimierung & Fehlbesetzungen
         bullet_text: Einmalbesetzung und weg, egal was danach passiert
       - bullet_title: CV-Spamming
-        bullet_text: Lieber unpassend als nichts schicken und Kandidaten im Prozess
-          passend machen
+        bullet_text: Lieber unpassende Profile als keine schicken und Kandidaten während
+          des Prozesses passend machen.
       - bullet_title: Hohe Kosten
         bullet_text: Keinen klaren Mehrwert und intransparente Preise
       - bullet_title: " Schlecht vorbereitete Kandidaten"
-        bullet_text: Kandidaten sind unvorbereitet und fehlend motiviert
+        bullet_text: Kandidaten sind unvorbereitet und nicht motiviert
       - bullet_title: Mehrarbeit durch Recruiter
         bullet_text: Unklare Kommunikation, wiederholte Profildefinition und unpassende
           Kandidaten bringen mehr Arbeit auf Ihren Tisch

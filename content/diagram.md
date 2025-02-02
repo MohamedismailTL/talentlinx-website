@@ -10,7 +10,7 @@ text: >-
 
   \
 
-  Unsere FRC-Methode kombiniert unsere Erfahrung im Headhunting mit moderner Technologie und KI, um nicht nur die besten Talente zu finden, sondern Ihre offene Stelle schneller zu besetzen als die Konkurrenz.\
+  Die FRC-Methode kombiniert unsere Erfahrung im Headhunting mit moderner Technologie und KI, um nicht nur die besten Talente zu finden, sondern Ihre offene Stelle schneller zu besetzen als die Konkurrenz.\
 
   \
 
