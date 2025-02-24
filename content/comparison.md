@@ -19,9 +19,8 @@ boxes:
         bullet_text: Abhängig von LinkedIn & Antwortraten auf InMails
   - box_title: TalentLinx
     bulletpoints:
-      - bullet_title: 0 % Risiko Garantie & langfristige Bindung
-        bullet_text: 100 % Geld-Zurück-Garantie bei Unzufriedenheit und regelmäßige
-          Kandidaten Check-ins.
+      - bullet_title: Risiko Garantie & langfristige Bindung
+        bullet_text: 6 Monate Nachbesetzung und regelmäßige Kandidaten Check-ins.
       - bullet_title: Precision Hiring
         bullet_text: Wir leiten nur Profile weiter, die in unserem Multi-Scoring-Modell
           mehr als 75 % erreichen, um Ihnen Zeit zu sparen.
