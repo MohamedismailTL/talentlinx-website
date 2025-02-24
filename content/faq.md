@@ -8,13 +8,12 @@ faqs:
       Unternehmen unterstützen und prüfen in einem ersten Gespräch, ob eine
       Zusammenarbeit für beide Seiten sinnvoll ist.
   - question: Was unterscheidet euch von anderen Recruitern?
-    answer: Im Gegensatz zu anderen Recruitern, die oft unvorbereitete Kandidaten
+    answer: "Im Gegensatz zu anderen Recruitern, die oft unvorbereitete Kandidaten
       senden oder CV-Spamming betreiben, bieten wir Ihnen präzise ausgewählte
       Profile, die in unserem Multi-Scoring-Modell mindestens 75 % erreichen.
-      Mit unserer 100 % Geld-zurück-Garantie und engen Kontakt zu Kandidaten
-      minimieren wir das Risiko und garantieren langfristige Bindung. Wir setzen
-      auf einen technologiegetriebenen Ansatz, der KI, Headhunting-Expertise und
-      persönlichen Austausch vereint – für schnelle, passgenaue Besetzungen.
+      Wir setzen auf einen technologiegetriebenen Ansatz, der KI,
+      Headhunting-Expertise und persönlichen Austausch vereint – für schnelle,
+      passgenaue Besetzungen.  "
   - question: Wie lange dauert es, eine Stelle zu besetzen?
     answer: Durch unseren effizienten Prozess und den technologiegestützten Ansatz
       besetzen wir offene Stellen in der Regel in nur 19 Tagen. Bereits nach 3
