@@ -9,10 +9,10 @@ boxes:
       Ihren langfristigen Erfolg – mit klar definierten Timelines und
       Milestones.
   - chip: Ohne Risiko
-    title: 100 % Geld-zurück-Garantie
+    title: 6 Monate Nachbesetzung
     text: Ein frühzeitiger Abgang eines Kandidaten kann teuer werden. Daher bieten
-      wir Ihnen innerhalb der ersten 3 Monate eine 100-%-Geld-zurück-Garantie –
-      ohne Rückfragen. So sind Sie finanziell maximal abgesichert.
+      wir Ihnen innerhalb der ersten 6 Monate eine Nachbesetzungsgarantie. So
+      sind Sie abgesichert.
   - chip: Technology Driven
     title: Versteckte Talente finden
     text: Unsere FRC-Methode kombiniert unsere Erfahrung im Headhunting mit mehr als
