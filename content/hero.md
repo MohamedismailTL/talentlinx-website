@@ -7,5 +7,6 @@ job_titles:
   - job_title: Backend Developer
   - job_title: Infrastructure Dev.
   - job_title: Frontend Developer
+  - job_title: Healthcare IT Specialist
   - job_title: DevOps/Cloud Engineer
 ---
