@@ -11,10 +11,10 @@ boxes:
   - chip: Netzwerk
     title: Verdeckter Markt
     text: >
-      Wir sind deutschlandweit auf den bedeutendsten Messen und exklusiven
-      Events in den Bereichen Engineering, Security und Cloud präsent – direkt
-      vor Ort, um wertvolle Kontakte zu knüpfen. So sichern wir dir den Zugang
-      zu den besten Spezialisten, die sonst unerreichbar bleiben.
+      Wir sind auf den bedeutendsten Messen und exklusiven Events in den
+      Bereichen Engineering, Security und Cloud präsent – direkt vor Ort, um
+      wertvolle Kontakte zu knüpfen. So sichern wir dir den Zugang zu den besten
+      Spezialisten, die sonst unerreichbar bleiben.
   - chip: Technology Driven
     title: Versteckte Talente finden
     text: Unsere FRC-Methode kombiniert unsere Erfahrung im Headhunting mit mehr als
