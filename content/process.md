@@ -30,7 +30,7 @@ process_boxes:
 
 
       Wir organisieren alle Interviews, optimieren den Bewerbungsprozess und stellen Ihnen alle notwendigen Vorlagen und Ressourcen zur Verfügung – begleitet von einem auf Ihre Technologie spezialisierten Ansprechpartner.
-  - box_title: Nachhaltige Besetzung ohne Risiko
+  - box_title: Nachhaltige Besetzung
     box_text: Während der gesamten Probezeit begleiten wir den Kandidaten eng und
       unterstützen bei Bedarf beim Onboarding, um eine langfristige und
       erfolgreiche Besetzung zu gewährleisten. Zudem bieten wir maßgeschneiderte
