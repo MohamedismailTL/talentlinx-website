@@ -20,7 +20,8 @@ boxes:
   - box_title: TalentLinx
     bulletpoints:
       - bullet_title: Risiko Garantie & langfristige Bindung
-        bullet_text: 6 Monate Nachbesetzung und regelmäßige Kandidaten Check-ins.
+        bullet_text: Wir begleiten den Kandidaten während der Probezeit und minimieren
+          Ihr Risiko mit maßgeschneiderten Lösungen.
       - bullet_title: Precision Hiring
         bullet_text: Wir leiten nur Profile weiter, die in unserem Multi-Scoring-Modell
           mehr als 75 % erreichen, um Ihnen Zeit zu sparen.
