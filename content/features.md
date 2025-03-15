@@ -13,7 +13,7 @@ boxes:
     text: >
       Wir sind auf den bedeutendsten Messen und exklusiven Events in den
       Bereichen Engineering, Security und Cloud präsent – direkt vor Ort, um
-      wertvolle Kontakte zu knüpfen. So sichern wir dir den Zugang zu den besten
+      wertvolle Kontakte zu knüpfen. So sichern wir Ihnen den Zugang zu den
       Spezialisten, die sonst unerreichbar bleiben.
   - chip: Technology Driven
     title: Versteckte Talente finden
