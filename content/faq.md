@@ -18,9 +18,6 @@ faqs:
     answer: Durch unseren effizienten Prozess und den technologiegestützten Ansatz
       besetzen wir offene Stellen in der Regel in nur 19 Tagen. Bereits nach 3
       Tagen präsentieren wir Ihnen die ersten vorqualifizierten Kandidaten.
-  - question: Was ist wenn ein vermittelter Kandidat geht?
-    answer: Wir sichern Ihre Investition mit einer kostenlosen Nachbesetzung bis zu
-      6 Monate nach der Einstellung.
   - question: Für welche Stellen rekrutiert ihr?
     answer: Wir spezialisieren uns auf die Rekrutierung von IT- und
       Software-Engineering-Positionen, insbesondere in den Bereichen Frontend,
