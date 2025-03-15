@@ -1,5 +1,5 @@
 ---
-hero_title: in 5 Tagen Kennenlernen
+hero_title: in 72 Stunden Kennenlernen
 hero_subtitle: Wir helfen Unternehmen, qualifizierte, deutschsprachige
   IT-Experten zu gewinnen und langfristig zu binden – ohne das Risiko teurer
   Fehlbesetzungen.
