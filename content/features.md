@@ -10,11 +10,10 @@ boxes:
       Milestones.
   - chip: Netzwerk
     title: Verdeckter Markt
-    text: >
-      Wir sind auf den bedeutendsten Messen und exklusiven Events in den
-      Bereichen Engineering, Security und Cloud präsent – direkt vor Ort, um
-      wertvolle Kontakte zu knüpfen. So sichern wir Ihnen den Zugang zu den
-      Spezialisten, die sonst unerreichbar bleiben.
+    text: Wir bauen unser Netzwerk auf den wichtigsten Messen und exklusiven Events
+      in den Bereichen Engineering, Security und Cloud – direkt vor Ort. So
+      verschaffen wir Ihnen Zugang zu Spezialisten, die sonst unerreichbar
+      bleiben.
   - chip: Technology Driven
     title: Versteckte Talente finden
     text: Unsere FRC-Methode kombiniert unsere Erfahrung im Headhunting mit mehr als
