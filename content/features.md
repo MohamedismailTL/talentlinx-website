@@ -8,11 +8,13 @@ boxes:
       bauen wir Ihr Team auf, optimieren Ihre Recruiting-Prozesse und sichern
       Ihren langfristigen Erfolg – mit klar definierten Timelines und
       Milestones.
-  - chip: Ohne Risiko
-    title: 6 Monate Nachbesetzung
-    text: Ein frühzeitiger Abgang eines Kandidaten kann teuer werden. Daher bieten
-      wir Ihnen innerhalb der ersten 6 Monate eine Nachbesetzungsgarantie. So
-      sind Sie abgesichert.
+  - chip: Netzwerk
+    title: Verdeckter Markt
+    text: >
+      Wir sind deutschlandweit auf den bedeutendsten Messen und exklusiven
+      Events in den Bereichen Engineering, Security und Cloud präsent – direkt
+      vor Ort, um wertvolle Kontakte zu knüpfen. So sichern wir dir den Zugang
+      zu den besten Spezialisten, die sonst unerreichbar bleiben.
   - chip: Technology Driven
     title: Versteckte Talente finden
     text: Unsere FRC-Methode kombiniert unsere Erfahrung im Headhunting mit mehr als
