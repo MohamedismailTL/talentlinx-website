@@ -1,8 +1,8 @@
 ---
 title: Menschenorientiert, technologiegetrieben.
 text: >-
-  Anstatt nur auf LinkedIn zu setzen und auf Rückmeldungen zu hoffen, bieten wir
-  eine Lösung, die sicher Ergebnisse liefert.\
+  Anstatt auf Rückmeldungen von Kandidaten zu hoffen, bieten wir eine Lösung,
+  die verlässlich Ergebnisse liefert.\
 
   \
 
