@@ -11,9 +11,8 @@ boxes:
   - chip: Netzwerk
     title: Verdeckter Markt
     text: Wir bauen unser Netzwerk auf den wichtigsten Messen und exklusiven Events
-      in den Bereichen Engineering, Security und Cloud – direkt vor Ort. So
-      verschaffen wir Ihnen Zugang zu Spezialisten, die sonst unerreichbar
-      bleiben.
+      – direkt vor Ort. So verschaffen wir Ihnen Zugang zu Spezialisten, die
+      sonst unerreichbar bleiben.
   - chip: Technology Driven
     title: Versteckte Talente finden
     text: Unsere FRC-Methode kombiniert unsere Erfahrung im Headhunting mit mehr als
@@ -26,7 +25,7 @@ boxes:
       auf ihre fachlichen Fähigkeiten, den Cultural Fit und ihr langfristiges
       Potenzial – so sparen Sie Zeit und erhalten nur passende Profile.
   - chip: IT Nischenexperten
-    title: Spezialisiert auf IT-Nischen
+    title: Spezialisiert auf IT & Technik Nischen
     text: Wir sind auf Nischentechnologien spezialisiert, haben exklusiven Zugang zu
       qualifizierten Talenten und garantieren eine schnelle und passgenaue
       Auswahl für Ihren langfristigen Erfolg.
