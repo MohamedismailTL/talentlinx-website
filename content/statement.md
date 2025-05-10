@@ -15,7 +15,7 @@ statements:
 statistics:
   - statistic_text: 87 %
     statistic_subtitle: unserer Kandidaten werden zum Interview eingeladen
-  - statistic_text: "19"
+  - statistic_text: "14"
     statistic_subtitle: Die durchschnittliche Anzahl an Tagen, um eine Position zu besetzen
   - statistic_text: "3"
     statistic_subtitle: Die durchschnittliche Anzahl an Tagen, bis wir die ersten 3
