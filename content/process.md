@@ -19,8 +19,8 @@ process_boxes:
     box_text: In einem Kick-Off Termin verstehen wir Ihre Anforderungen und
       Erwartungen, um einen maßgeschneiderten Erfolgsplan zu erstellen,
       einschließlich einer Analyse des menschlichen Fits für Ihr Team.
-  - box_title: "Ersten Profile innerhalb von 3 Tagen "
-    box_text: Innerhalb von drei Werktagen präsentieren wir Ihnen vorqualifizierte,
+  - box_title: "Ersten Profile innerhalb von 2 Tagen "
+    box_text: Innerhalb von zwei Werktagen präsentieren wir Ihnen vorqualifizierte,
       (deutschsprachige) Kandidaten, die bereits geprüft, auf Ihre Anforderungen
       abgestimmt und motiviert sind, Ihr Unternehmen kennenzulernen – mit klaren
       Verfügbarkeiten.
