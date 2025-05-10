@@ -30,8 +30,8 @@ boxes:
       qualifizierten Talenten und garantieren eine schnelle und passgenaue
       Auswahl für Ihren langfristigen Erfolg.
   - chip: Time to Hire
-    title: Besetzung in 19 Tagen
+    title: Besetzung in 14 Tagen
     text: Unser entwickeltes System kombiniert Headhunting-Expertise mit modernster
-      Technologie, um in 19 Tagen die besten Talente zu gewinnen und Ihrer
+      Technologie, um in 14 Tagen die besten Talente zu gewinnen und Ihrer
       Konkurrenz einen Schritt voraus zu sein.
 ---
