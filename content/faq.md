@@ -16,22 +16,19 @@ faqs:
       passgenaue Besetzungen.  "
   - question: Wie lange dauert es, eine Stelle zu besetzen?
     answer: Durch unseren effizienten Prozess und den technologiegestützten Ansatz
-      besetzen wir offene Stellen in der Regel in nur 19 Tagen. Bereits nach 3
+      besetzen wir offene Stellen in der Regel in nur 14 Tagen. Bereits nach 2
       Tagen präsentieren wir Ihnen die ersten vorqualifizierten Kandidaten.
   - question: Für welche Stellen rekrutiert ihr?
-    answer: Wir spezialisieren uns auf die Rekrutierung von IT- und
-      Software-Engineering-Positionen, insbesondere in den Bereichen Frontend,
-      Backend und Cloud-Technologien. Unsere Expertise liegt in der Suche nach
-      hochqualifizierten, deutschsprachigen Talenten für mittelständische
-      Unternehmen.
+    answer: Wir spezialisieren uns auf die Rekrutierung von IT- und Technikexperten.
+      Unsere Expertise liegt in der Suche nach hochqualifizierten,
+      deutschsprachigen Talenten für mittelständische Unternehmen.
   - question: Wie prüft ihr Kandidaten?
     answer: Im Pre-Interview bewerten wir das langfristige Potenzial, den Cultural
       Fit und die Motivation der Kandidaten. Zusätzlich führen wir
-      Referenzchecks durch und, wenn möglich, Prüfungen auf GitHub und Stack
-      Overflow. Nur Talente, die in unserem Multi-Scoring-Modell mindestens 75 %
-      erreichen, stellen wir Ihnen vor. Nach dem zweiten Interview treffen wir
-      alle Kandidaten persönlich, um ihre Passgenauigkeit noch besser
-      einschätzen zu können.
+      Referenzchecks durch. Nur Talente, die in unserem Multi-Scoring-Modell
+      mindestens 75 % erreichen, stellen wir Ihnen vor. Nach dem zweiten
+      Interview treffen wir alle Kandidaten persönlich, um ihre Passgenauigkeit
+      noch besser einschätzen zu können.
   - question: Wie viel kostet es, mit euch zusammenzuarbeiten?
     answer: Unsere Preise sind fair und transparent, basierend auf der Art und dem
       Umfang der Zusammenarbeit. Wir bieten maßgeschneiderte Lösungen, die auf
