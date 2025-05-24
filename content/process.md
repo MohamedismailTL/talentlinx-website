@@ -1,5 +1,5 @@
 ---
-headline: A-Kandidat in 19 Tagen in Ihrem Unternehmen
+headline: A-Kandidat in 14 Tagen in Ihrem Unternehmen
 text: >-
   Wir übernehmen die gesamte Arbeit für Sie.\
 
