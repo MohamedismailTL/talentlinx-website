@@ -1,16 +1,32 @@
-import React, { useState } from 'react';
-import { Dialog, DialogPanel } from '@headlessui/react';
-import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
+import React, {useState} from 'react';
+import {Dialog, DialogPanel} from '@headlessui/react';
+import {Bars3Icon, XMarkIcon} from '@heroicons/react/24/outline';
 import CTAButton from './CTAButton.tsx';
 import Typewriter from './Typewriter.tsx';
+import Reviews from "./Reviews";
+import avatar1 from '../assets/avatars/avatar-1.jpg';
+import avatar2 from '../assets/avatars/avatar-2.jpg';
+import avatar3 from '../assets/avatars/avatar-3.jpg';
+import avatar4 from '../assets/avatars/avatar-4.jpg';
+import avatar5 from '../assets/avatars/avatar-5.jpg';
 
 const navigation = [
-    { name: 'Über uns', href: '#ueber-uns' },
-    { name: 'Prozess', href: '#prozess' },
-    { name: 'Kontakt', href: '#kontakt' },
+    {name: 'Über uns', href: '#ueber-uns'},
+    {name: 'Prozess', href: '#prozess'},
+    {name: 'Kontakt', href: '#kontakt'},
 ];
 
-export default function Example({ content, metadata, children }: any) {
+const avatars = [
+    {image_path: avatar1.src, image_alt_text: 'Avatar 1'},
+    {image_path: avatar2.src, image_alt_text: 'Avatar 2'},
+    {image_path: avatar3.src, image_alt_text: 'Avatar 3'},
+    {image_path: avatar4.src, image_alt_text: 'Avatar 4'},
+    {image_path: avatar5.src, image_alt_text: 'Avatar 5'},
+];
+
+const reviewLink = '<a href="https://maps.app.goo.gl/sjRA6UaQbsufxTYg8" target="_blank" rel="noopener">5/5 Sterne bei Google</a>\n';
+
+export default function Example({content, metadata, children}: any) {
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
     // Diese Funktion kümmert sich um das weiche Scrollen:
@@ -45,7 +61,7 @@ export default function Example({ content, metadata, children }: any) {
                             className="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-brand-primary-200"
                         >
                             <span className="sr-only">Open main menu</span>
-                            <Bars3Icon aria-hidden="true" className="size-6" />
+                            <Bars3Icon aria-hidden="true" className="size-6"/>
                         </button>
                     </div>
                     <div className="hidden lg:flex lg:gap-x-12">
@@ -63,8 +79,9 @@ export default function Example({ content, metadata, children }: any) {
                     </div>
                 </nav>
                 <Dialog open={mobileMenuOpen} onClose={setMobileMenuOpen} className="lg:hidden">
-                    <div className="fixed inset-0 z-50" />
-                    <DialogPanel className="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-brand-aqua-900 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-brand-primary-700">
+                    <div className="fixed inset-0 z-50"/>
+                    <DialogPanel
+                        className="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-brand-aqua-900 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-brand-primary-700">
                         <div className="flex items-center justify-between">
                             <button
                                 type="button"
@@ -72,7 +89,7 @@ export default function Example({ content, metadata, children }: any) {
                                 className="-m-2.5 rounded-md p-2.5 text-brand-primary-200"
                             >
                                 <span className="sr-only">Close menu</span>
-                                <XMarkIcon aria-hidden="true" className="size-6" />
+                                <XMarkIcon aria-hidden="true" className="size-6"/>
                             </button>
                         </div>
                         <div className="mt-6 flow-root">
@@ -97,21 +114,29 @@ export default function Example({ content, metadata, children }: any) {
 
             <div className="relative isolate pt-14">
                 {/* ... Restliche Hero Section etc. ... */}
-                <div className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:flex lg:items-center lg:gap-x-10 lg:px-8 lg:py-40">
+                <div
+                    className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:flex lg:items-center lg:gap-x-10 lg:px-8 lg:py-40">
                     <div className="mx-auto max-w-4xl lg:mx-0 lg:flex-auto">
                         <h1 className="mt-10 text-2xl font-semibold tracking-tight text-gray-900 sm:text-7xl">
                             <Typewriter
                                 jobs={content.frontmatter.job_titles}
                                 className="font-mono text-brand-aqua-600"
                             />
-                            <br />
+                            <br/>
                             {content.frontmatter.hero_title}
                         </h1>
                         <p className="mt-8 text-lg font-normal text-gray-600 sm:text-xl max-w-2xl">
                             {content.frontmatter.hero_subtitle}
                         </p>
                         <div className="mt-10 flex items-center gap-x-6">
-                            <CTAButton link={metadata.frontmatter.ctalink} />
+                            <CTAButton link={metadata.frontmatter.ctalink}/>
+                        </div>
+                        <div className="mt-10 flex justify-start">
+                            <Reviews
+                                avatars={avatars}
+                                review_headline="Vertrauen Sie auf unseren Erfolg"
+                                review_text={reviewLink}
+                            />
                         </div>
                     </div>
                 </div>
