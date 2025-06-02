@@ -33,7 +33,7 @@ const Reviews: React.FC<Props> = ({
 
             {/* Headline + Sterne + Text */}
             <div className="mt-4 sm:mt-0 sm:ml-6 sm:text-left">
-                <p className="text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
+                <p className="text-2xl font-semibold tracking-tight text-gray-900">
                     {review_headline}
                 </p>
 
@@ -59,7 +59,7 @@ const Reviews: React.FC<Props> = ({
 
                     {/* Review-Text (HTML erlaubt) */}
                     <p
-                        className="ml-2 text-sm text-gray-700 dark:text-gray-300 hover:underline"
+                        className="ml-2 text-sm text-gray-700 hover:underline"
                         dangerouslySetInnerHTML={{__html: review_text}}
                     ></p>
                 </div>
