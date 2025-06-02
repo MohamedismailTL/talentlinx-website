@@ -26,7 +26,7 @@ const Reviews: React.FC<Props> = ({
                         src={avatar.image_path}
                         alt={avatar.image_alt_text}
                         className="relative z-30 inline-block size-10 rounded-full
-                       ring-4 ring-brand-aqua-500 dark:ring-white"
+                       ring-2 ring-brand-aqua-500 dark:ring-white"
                     />
                 ))}
             </div>

@@ -134,7 +134,7 @@ export default function Example({content, metadata, children}: any) {
                         <div className="mt-10 flex justify-start">
                             <Reviews
                                 avatars={avatars}
-                                review_headline="Vertrauen Sie auf unseren Erfolg"
+                                review_headline="250+ Partner deutschlandweit"
                                 review_text={reviewLink}
                             />
                         </div>
