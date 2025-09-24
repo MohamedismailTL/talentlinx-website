@@ -29,7 +29,7 @@ process_boxes:
       Unser Ziel ist es, Ihnen Zeit zu sparen. 
 
 
-      Wir organisieren alle Interviews, optimieren den Bewerbungsprozess und stellen Ihnen alle notwendigen Vorlagen und Ressourcen zur Verfügung – begleitet von einem auf Ihre Technologie spezialisierten Ansprechpartner.
+      Wir organisieren alle Interviews, optimieren den Bewerbungsprozess und stellen Ihnen alle notwendigen Vorlagen und Ressourcen zur Verfügung – begleitet von einem auf Ihre Nische spezialisierten Ansprechpartner.
   - box_title: Nachhaltige Besetzung
     box_text: Während der gesamten Probezeit begleiten wir den Kandidaten eng und
       unterstützen bei Bedarf beim Onboarding, um eine langfristige und
