@@ -5,6 +5,6 @@ hero_subtitle: Wir helfen Unternehmen als Boutique-Beratung, die richtigen Fach-
   präzise und ohne das Risiko teurer Fehlbesetzungen.
 job_titles:
   - job_title: Experten
-  - job_title: Leader
+  - job_title: Führungskräfte
   - job_title: Innovatoren
 ---
