@@ -1,5 +1,5 @@
 ---
-headline: Top-Kandidat für Ihre Schlüsselposition – zielgerichtet und transparent.
+headline: Unser Erfolgsprozess
 text: >-
   Wir übernehmen die gesamte Arbeit für Sie.\
 
