@@ -1,5 +1,5 @@
 ---
-headline: A-Kandidat in 14 Tagen in Ihrem Unternehmen
+headline: Top-Kandidat für Ihre Schlüsselposition – zielgerichtet und transparent.
 text: >-
   Wir übernehmen die gesamte Arbeit für Sie.\
 
