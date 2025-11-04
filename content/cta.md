@@ -1,4 +1,5 @@
 ---
 headline: "Jetzt Position besetzen "
-subtitle: Wir haben begrenzte Kapazitäten, um 100% Fokus gewährleisten zu können.
+subtitle: Lassen Sie uns in einem persönlichen Gespräch herausfinden, wie wir
+  Sie gezielt unterstützen können.
 ---
