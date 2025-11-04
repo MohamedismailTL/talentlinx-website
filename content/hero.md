@@ -1,5 +1,5 @@
 ---
-hero_title: in 48 Stunden Kennenlernen
+hero_title: vertraulich Kennenlernen
 hero_subtitle: Wir helfen Unternehmen als Boutique-Beratung, die richtigen Fach-
   und Führungskräfte zu gewinnen und langfristig zu binden –  nachhaltig,
   präzise und ohne das Risiko teurer Fehlbesetzungen.
