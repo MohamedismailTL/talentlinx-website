@@ -45,7 +45,9 @@ export default function Example({content, metadata, children}: any) {
     };
 
     return (
-        <div className="bg-gradient-to-br from-white to-brand-aqua-50">
+        <div className="relative bg-cover bg-center bg-no-repeat" style={{backgroundImage: 'url(/assets/example-hero.jpg)'}}>
+            {/* Overlay für bessere Lesbarkeit */}
+            <div className="absolute inset-0 bg-gradient-to-br from-white/90 to-brand-aqua-50/90"></div>
             <header className="absolute inset-x-0 top-0 z-50">
                 <nav aria-label="Global" className="flex items-center justify-between p-6 lg:px-8">
                     <div className="flex lg:flex-1">
@@ -112,26 +114,21 @@ export default function Example({content, metadata, children}: any) {
                 </Dialog>
             </header>
 
-            <div className="relative isolate pt-14">
+            <div className="relative isolate pt-14 z-10">
                 {/* ... Restliche Hero Section etc. ... */}
                 <div
-                    className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:flex lg:items-center lg:gap-x-10 lg:px-8 lg:py-40">
-                    <div className="mx-auto max-w-4xl lg:mx-0 lg:flex-auto">
+                    className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:flex lg:items-center lg:justify-center lg:gap-x-10 lg:px-8 lg:py-40">
+                    <div className="mx-auto max-w-4xl text-center">
                         <h1 className="mt-10 text-2xl font-semibold tracking-tight text-gray-900 sm:text-7xl">
-                            <Typewriter
-                                jobs={content.frontmatter.job_titles}
-                                className="font-mono text-brand-aqua-600"
-                            />
-                            <br/>
                             {content.frontmatter.hero_title}
                         </h1>
-                        <p className="mt-8 text-lg font-normal text-gray-600 sm:text-xl max-w-2xl">
+                        <p className="mt-8 text-lg font-normal text-gray-600 sm:text-xl mx-auto max-w-2xl">
                             {content.frontmatter.hero_subtitle}
                         </p>
-                        <div className="mt-10 flex items-center gap-x-6">
+                        <div className="mt-10 flex items-center justify-center gap-x-6">
                             <CTAButton link={metadata.frontmatter.ctalink}/>
                         </div>
-                        <div className="mt-10 flex justify-start">
+                        <div className="mt-10 flex justify-center">
                             <Reviews
                                 avatars={avatars}
                                 review_headline="250+ Partner deutschlandweit"
