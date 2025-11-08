@@ -3,6 +3,10 @@ export default {
     content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
     theme: {
         extend: {
+            fontFamily: {
+                geist: ['Geist Sans', 'sans-serif'],
+                sans: ['Geist Sans', 'sans-serif'],
+            },
             colors: {
                 brand: {
                     primary: {

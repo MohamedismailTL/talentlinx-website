@@ -2,7 +2,6 @@ import React, {useState} from 'react';
 import {Dialog, DialogPanel} from '@headlessui/react';
 import {Bars3Icon, XMarkIcon} from '@heroicons/react/24/outline';
 import CTAButton from './CTAButton.tsx';
-import Typewriter from './Typewriter.tsx';
 import Reviews from "./Reviews";
 import avatar1 from '../assets/avatars/avatar-1.jpg';
 import avatar2 from '../assets/avatars/avatar-2.jpg';
