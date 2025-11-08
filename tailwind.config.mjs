@@ -6,6 +6,8 @@ export default {
             fontFamily: {
                 geist: ['Geist Sans', 'sans-serif'],
                 sans: ['Geist Sans', 'sans-serif'],
+                display: ['Stack Sans Headline', 'sans-serif'],
+                heading: ['Stack Sans Headline', 'sans-serif'],
             },
             colors: {
                 brand: {
