@@ -14,7 +14,7 @@ export default function Example({ statement }: any) {
 
 	return (
 		<div
-			className="-mb-1 -mx-1 pt-48 sm:pt-64 flex items-end bg-white"
+			className="-mb-1 -mx-1 pt-16 sm:pt-24 flex items-end bg-white"
 		>
 			<div className="mx-auto max-w-7xl px-6 lg:px-8 w-full">
 				<div className="mx-auto max-w-2xl lg:max-w-none">
