@@ -46,7 +46,7 @@ export default function Example({content, metadata, children}: any) {
     return (
         <div className="relative bg-cover bg-center bg-no-repeat" style={{backgroundImage: 'url(/assets/example-hero.jpg)'}}>
             {/* Overlay für bessere Lesbarkeit */}
-            <div className="absolute inset-0 bg-gradient-to-br from-white/90 to-brand-aqua-50/90"></div>
+            <div className="absolute inset-0 bg-gradient-to-br from-white/95 to-brand-primary-50/85"></div>
             <header className="absolute inset-x-0 top-0 z-50">
                 <nav aria-label="Global" className="flex items-center justify-between p-6 lg:px-8">
                     <div className="flex lg:flex-1">
@@ -82,7 +82,7 @@ export default function Example({content, metadata, children}: any) {
                 <Dialog open={mobileMenuOpen} onClose={setMobileMenuOpen} className="lg:hidden">
                     <div className="fixed inset-0 z-50"/>
                     <DialogPanel
-                        className="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-brand-aqua-900 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-brand-primary-700">
+                        className="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-brand-primary-900 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-brand-primary-700">
                         <div className="flex items-center justify-between">
                             <button
                                 type="button"
