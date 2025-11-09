@@ -41,9 +41,9 @@ export default function Example({ diagram, metadata, children }: any) {
                                 {title}
                             </h2>
 
-                            {/* Bild (children) nur mobil sichtbar */}
+                            {/* Bild (children) nur mobil sichtbar - negiert px-4 (16px) + px-6 (24px) = -mx-10 (40px) */}
                             <div
-                                className={`block sm:hidden my-6 w-full rounded-none md:rounded-2xl overflow-hidden transform transition-all duration-700 ${
+                                className={`block sm:hidden my-6 w-screen -mx-10 rounded-none overflow-hidden transform transition-all duration-700 ${
                                     isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
                                 }`}
                                 style={{ transitionDelay: '400ms' }}

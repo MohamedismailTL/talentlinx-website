@@ -44,9 +44,9 @@ export default function Example({content, metadata, children}: any) {
     };
 
     return (
-        <div className="relative bg-cover bg-center bg-no-repeat" style={{backgroundImage: 'url(/assets/example-hero.jpg)'}}>
+        <div className="relative bg-cover bg-center bg-no-repeat" style={{backgroundImage: 'url(/assets/hero-image.jpg)'}}>
             {/* Overlay für bessere Lesbarkeit */}
-            <div className="absolute inset-0 bg-gradient-to-br from-white/95 to-brand-primary-50/85"></div>
+            <div className="absolute inset-0 bg-gradient-to-br from-brand-teal-600/70 to-brand-primary-600/75"></div>
             <header className="absolute inset-x-0 top-0 z-50">
                 <nav aria-label="Global" className="flex items-center justify-between p-6 lg:px-8">
                     <div className="flex lg:flex-1">
@@ -72,7 +72,7 @@ export default function Example({content, metadata, children}: any) {
                                 href={item.href}
                                 // onClick für Desktop-Navigation, falls auch dort "Smooth Scroll" gewünscht
                                 onClick={e => handleScroll(e, item.href)}
-                                className="text-sm/6 font-normal text-brand-primary-700 hover:text-brand-primary-400"
+                                className="text-sm/6 font-normal text-white hover:text-brand-teal-300"
                             >
                                 {item.name}
                             </a>
@@ -118,10 +118,10 @@ export default function Example({content, metadata, children}: any) {
                 <div
                     className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:flex lg:items-center lg:justify-center lg:gap-x-10 lg:px-8 lg:py-40">
                     <div className="mx-auto max-w-4xl text-center">
-                        <h1 className="mt-10 text-2xl font-semibold tracking-tight text-gray-900 sm:text-7xl">
+                        <h1 className="mt-4 text-2xl font-semibold tracking-tight text-white sm:text-7xl">
                             {content.frontmatter.hero_title}
                         </h1>
-                        <p className="mt-8 text-lg font-normal text-gray-600 sm:text-xl mx-auto max-w-2xl">
+                        <p className="mt-8 text-lg font-normal text-gray-100 sm:text-xl mx-auto max-w-2xl">
                             {content.frontmatter.hero_subtitle}
                         </p>
                         <div className="mt-10 flex items-center justify-center gap-x-6">

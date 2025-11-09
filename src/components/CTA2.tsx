@@ -20,8 +20,8 @@ export default function Example({cta, metadata}: any) {
             id="kontakt"
             className="bg-white"
         >
-            <div className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8">
-                <div className="relative isolate overflow-hidden bg-gradient-to-br from-brand-primary-700 to-brand-primary-800 px-6 py-24 text-center shadow-2xl sm:rounded-3xl sm:px-16">
+            <div className="mx-auto max-w-7xl px-0 sm:px-6 py-24 sm:py-32 lg:px-8">
+                <div className="relative isolate overflow-hidden bg-gradient-to-br from-brand-primary-700 to-brand-primary-800 px-6 py-24 text-center shadow-2xl rounded-none sm:rounded-3xl sm:px-16">
                     {/* Überschrift */}
                     <h2
                         className={`text-balance text-3xl lg:text-5xl font-semibold tracking-tight text-white

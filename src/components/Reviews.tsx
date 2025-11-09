@@ -26,14 +26,14 @@ const Reviews: React.FC<Props> = ({
                         src={avatar.image_path}
                         alt={avatar.image_alt_text}
                         className="relative z-30 inline-block size-10 rounded-full
-                       ring-2 ring-brand-aqua-500"
+                       ring-2 ring-white"
                     />
                 ))}
             </div>
 
             {/* Headline + Sterne + Text */}
             <div className="mt-4 sm:mt-0 sm:ml-6 sm:text-left">
-                <p className="text-2xl font-semibold tracking-tight text-gray-900">
+                <p className="text-2xl font-semibold tracking-tight text-white">
                     {review_headline}
                 </p>
 
@@ -59,7 +59,7 @@ const Reviews: React.FC<Props> = ({
 
                     {/* Review-Text (HTML erlaubt) */}
                     <p
-                        className="ml-2 text-sm text-gray-700 hover:underline"
+                        className="ml-2 text-sm text-white hover:underline"
                         dangerouslySetInnerHTML={{__html: review_text}}
                     ></p>
                 </div>
