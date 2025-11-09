@@ -9,6 +9,7 @@ import bitsAndPretzelsLogo from '../assets/bits-and-pretzels-logo.png';
 import dmExcoLogo from '../assets/dm-exco-logo.png';
 import dmeaLogo from '../assets/dmea-logo.jpg';
 import embeddedWorldLogo from '../assets/embedded-world-logo.jpg';
+import cphiLogo from '../assets/cphi-logo.png';
 
 // Swiper-Stile importieren
 import 'swiper/css';
@@ -66,6 +67,10 @@ export default function Example({conferences}: any) {
         {
             alt: 'Embedded World Logo',
             src: embeddedWorldLogo.src
+        },
+        {
+            alt: 'CPhI',
+            src: cphiLogo.src
         }
     ];
     // Duplizierte Slides für nahtloses Looping
