@@ -17,17 +17,19 @@ content: >-
 
   \
 
+  Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE452430281\
+
+  \
+
   **Vertreten durch Geschäftsführer:**\
 
   Oli Ayeta, Mohamed Ismail 
 
 
-  ## Kontakt
-
-
   Telefon: +49 152 02764872\
 
   E-Mail: kontakt@talentlinx.de
+
 
 
   ## EU-Streitschlichtung

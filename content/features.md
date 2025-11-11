@@ -24,11 +24,11 @@ boxes:
     text: Wir prüfen Kandidaten in einem Pre-Interview anhand eines Scoring-Modells
       auf ihre fachlichen Fähigkeiten, den Cultural Fit und ihr langfristiges
       Potenzial – so sparen Sie Zeit und erhalten nur passende Profile.
-  - chip: IT Nischenexperten
-    title: Spezialisiert auf IT & Technik Nischen
-    text: Wir sind auf Nischentechnologien spezialisiert, haben exklusiven Zugang zu
-      qualifizierten Talenten und garantieren eine schnelle und passgenaue
-      Auswahl für Ihren langfristigen Erfolg.
+  - chip: Nischenexperten
+    title: "Spezialisiert "
+    text: Unser Team ist auf ausgewählte Nischen spezialisiert, kombiniert
+      Fachwissen mit einem starken Talentnetzwerk und sorgt so für schnelle,
+      passgenaue Besetzungen für nachhaltigen Erfolg.
   - chip: Time to Hire
     title: Besetzung in 14 Tagen
     text: Unser entwickeltes System kombiniert Headhunting-Expertise mit modernster
